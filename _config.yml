@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bilim Makaleleri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Her hayal bir dünyadır."
   location         : "Somewhere"
   email            :
   uri              :
