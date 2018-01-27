@@ -87,8 +87,8 @@ author:
   name             : "Bilim Makaleleri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Her hayal bir dünyadır."
-  location         : "Somewhere"
-  email            :
+  location         : #"Somewhere"
+  email            : "ferhat@ekofi.science"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ekofi.science"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC21giWIPODrvFzWjOCM0r3g"
 
 
 # Reading Files
