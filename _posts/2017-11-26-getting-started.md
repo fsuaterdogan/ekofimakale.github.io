@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Getting Started with Sleek
-featured-img: sleek
 ---
 
 ## Getting started
