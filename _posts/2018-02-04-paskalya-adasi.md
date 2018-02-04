@@ -20,5 +20,9 @@ Adanın temel kültürü moai heykelleriydi. Bu heykeller, adanın çevresini ya
 Adanın diğer tarihi yerler ile olan bağlantısı ise merak uyandırıyor:
 ![image](https://pics.me.me/earth-stonehenge-easter-island-12975464.png)
  
+ 
+ 
  Bazıları da olayı biraz daha derinleştirmiş:
+ 
+ 
  ![image](https://pbs.twimg.com/media/BSN43tgCcAE2qfB.jpg)
