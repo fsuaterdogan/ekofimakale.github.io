@@ -2,7 +2,7 @@
 layout: single
 title: "Mozart Etkisi"
 ---
-Mozart etkisi şu şekildedir:
+Mozart etkisi nedir?
 
 Mozart'ın besteleriyle bebeklerin klasik müziğe maruz kalmasının zihinsel gelişim üzerinde faydalı bir etkisi olduğu gösterildi;
 Etkiyi çeşitli amaçlarla harekete geçirdiğini iddia eden bir dizi ticari kayıt ve ilgili materyal için ABD ticari markası, uzay-zaman akıl yürütmeyi iyileştirmenin veya istihbaratın arttırılmasının ötesinde, sağlık, eğitim ve refahdaki müziğin dönüşümsel güçlerini simgeleyen kapsamlı bir terim olarak işaretlemenin ötesinde yararları olduğunu iddia etmektedir.
