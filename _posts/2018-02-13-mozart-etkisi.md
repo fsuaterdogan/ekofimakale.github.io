@@ -9,7 +9,7 @@ Etkiyi çeşitli amaçlarla harekete geçirdiğini iddia eden bir dizi ticari ka
 
 Terim, Alfred A. Tomatis tarafından ortaya atıldı. Birleşik Devletler Gürcistan valisi Zell Miller, Gürcistan'da doğan her çocuk için bir klasik müzik CD'si ile bir bütçe önerdi.
 
-Rauscher, Shaw ve Ky (1993) Mozart'ın mekansal akıl yürütme konusundaki müziğini dinleme etkisini araştırdı ve sonuçlar yayınlandı. Stanford-Binet IQ testinin mekansal akıl yürütme alt görevleri ile ölçülen mekansal akıl yürütmenin geçici bir iyileştirme buldular. Rauscher ve arkadaşları müzik koşulunun güçlendirici etkisinin yalnızca geçici olduğunu söyledi: Hiçbir öğrencinin test ettikleri etki 15 dakikalık sürenin ötesinde olmamıştır.
+Rauscher, Shaw ve Ky (1993) Mozart'ın mekansal akıl yürütme konusundaki müziğini dinleme etkisini araştırdı ve sonuçlar yayınlandı. Stanford-Binet IQ testinin mekansal akıl yürütme alt görevleri ile ölçülen mekansal akıl yürütmenin geçici bir iyileştirme olduğu söylendi. Rauscher ve arkadaşları müzik koşulunun güçlendirici etkisinin yalnızca geçici olduğunu söyledi: Hiçbir öğrencinin test ettikleri etki 15 dakikalık sürenin ötesinde olmamıştır.
 
 Campbell; stres, depresyon ve anksiyete olaylarını azaltmak, gevşeme veya uykuyu uyandırmak için genel müzik kullanımını, ayrıca farkındalığı artırmak ve belleği güçlendirmek için tavsiye eder. Müzik ve sesin yenilikçi ve deneysel kullanımı, dinleme bozuklukları, disleksi, dikkat eksikliği bozukluğu, otizm vs. geliştirebilir.
 
