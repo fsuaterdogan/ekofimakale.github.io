@@ -20,7 +20,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-image: url(assets/images/t-azure.png);
+  background-color: $footer-background-color;
    
   footer {
     @include clearfix;
