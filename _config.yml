@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ekofi Bilim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Abstract-Paint-Vol-01_08_Jim-LePage.png"
   bio              : "Her hayal bir dünyadır."
   location         : 
   email            : "ferhat@ekofi.science"
