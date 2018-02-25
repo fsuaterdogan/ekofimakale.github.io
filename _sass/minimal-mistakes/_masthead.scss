@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background: url(/assets/images/t-azure.png);
 
   &__inner-wrap {
     @include clearfix;
