@@ -12,8 +12,7 @@ Tek bir iş gören gözü olan bireylerin her zaman bu koşulu vardır; iki göz
 
 Bilim insanlarına göre stereo körlüğe sahip olma yüzdesinin en yüksek olduğu grup ressamlar. Bununla beraber, dünya nüfusunun yaklaşık %10'unun stereo kör olduğu düşünülüyor. 
 
-**Stereo Körlük testi**
-Parmağınızı kaldırıp noktayla denkleyin.                                               
+**Stereo Körlük testi** - Parmağınızı kaldırıp noktayla denkleyin.                                               
 *1- Noktaya odaklanın.                                                                     
 2- Parmağınıza odaklanın.*                                                                   
 
