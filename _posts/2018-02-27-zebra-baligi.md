@@ -18,7 +18,7 @@ Embriyonun şeffaflığından yararlanarak, araştırmacılar balıkların genot
 
 Zebra balığı gelişim biyolojisini incelemek için önemli bir model olarak gelişi, büyük ölçekli bir mutagenez ekranıyla (genellikle Tübingen / Boston ekranları olarak anılır) çakışmıştır.
 
-![image](http://www.fishwallpapers.com/wallpapers/cute-zebrafish-photo.jpg)
+![image](https://www.nationalgeographic.com/content/dam/magazine/rights-exempt/2017/09/Departments/BasicInstinct/basic-instincts-zebrafish-OG.jpg)
 
 1- Zebra balıkları, kalplerini yeniden oluşturabilir.
 2- İnsan hastalıklarıyla ilişkili olduğu bilinen genlerin %84'ü bu balık türünde bulunmaktadır.
