@@ -19,10 +19,6 @@ Davranış üzerindeki bu etkiler, teneffüs edilip edilmediğine mi, burun mu y
 
 Northwestern Üniversitesi Tıp Fakültesi Feinberg Tıp Fakültesi Nöroloji Anabilim Dalı Öğretim Görevlisi Christina Zelano, "İnhale ile karşılaştırıldığında inhalasyon sırasında amigdala ve hipokampusta beyin aktivitesinde dramatik bir farklılık olduğunu" belirtti. "Nefes aldığınızda, limbik sistemin tamamında koku korteksi, amigdalası ve hipokampusta nöronları canlandırdığını keşfettik."
 
-Çalışma, 6 Aralık'ta Journal of Neuroscience'de yayınlandı.
-
-Kıdemli yazar Feinberg'de nöroloji profesörü olan Jay Gottfried'dir.
-
 Kuzeybatı bilimadamları ilk önce beyin cerrahisi için planlanan epilepsili yedi hastayı incelerken beyindeki bu farklılıkları keşfettiler. Ameliyattan bir hafta önce bir cerrah, nöbetlerin çıkış yerlerini belirlemek için elektrotları hastanın beyinlerine yerleştirdi. Bu bilim insanlarının doğrudan beyinlerinden elektro-fizyolojik veriler elde etmelerine izin verdi. Kaydedilen elektrik sinyalleri beyin aktivitesinin solunum ile dalgalanma gösterdi. Aktivite, duyguların, hafıza ve kokuların işlendiği beyin bölgelerinde gerçekleşir.
 
 Bu keşif, bilim insanlarını, özellikle bu beyin alanlarıyla ilişkili olan bilişsel işlevlerin, özellikle de korku işleme ve belleğin de nefes alıp almadığını sormaya yöneltti.
