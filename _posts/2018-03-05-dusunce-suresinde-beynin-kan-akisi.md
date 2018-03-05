@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "dusunce-suresinde-beynin-kan-akisi"
+title: "Düşünce süresinde beynin kan akışı"
 ---
 Herkes, Wright Kardeşleri'nin insan uçuşunun mucitleri olduğuna işaret ediyor. Fakat yüzyıllar önce, insan uçuşunu hayal eden Leonardo da Vinci, kuşların asansör ve kanat şeklindeki kavramları nasıl kullandıklarını kabul ederek, üstümüzde kaymaya başladı.
 
