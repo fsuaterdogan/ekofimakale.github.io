@@ -2,7 +2,7 @@
 layout: single
 title: "Düşünce süresinde beynin kan akışı"
 ---
-Herkes, Wright Kardeşleri'in insan uçuşunun mucitleri olduğunu gösteriyor. Fakat yüzyıllar önce, insan uçuşunu hayal eden Leonardo da Vinci, kuşların asansör ve kanat şeklindeki kavramları nasıl kullandıklarını söyleyerek, üstümüzde kaymaya başladı.
+Çoğu insan, Wright Kardeşleri'in insan uçuşunun mucitleri olduğunu gösteriyor. Fakat yüzyıllar önce, insan uçuşunu hayal eden Leonardo da Vinci, kuşların asansör ve kanat şeklindeki kavramları nasıl kullandıklarını söyleyerek, kanat tasarlamıştır.
 
 Şimdi bilim adamları, modern beyin biliminin "da Vinci" olarak adlandırabileceğiniz adamla ilgili yeni ayrıntılar ortaya çıkardı. 19. yüzyılda İtalya'da yaşayan Angelo Mosso adlı bir fizyologdu ve birkaç yıl öncesine kadar el yazmalarında çoğunlukla İtalyan bir üniversitenin arşivlerinde toz toplanıyordu.
 
