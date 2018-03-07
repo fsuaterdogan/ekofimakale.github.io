@@ -2,7 +2,7 @@
 layout: single
 title: "Bu gezegende elmas yağıyor!"
 ---
-Satürn'ün üzerinden elmaslar yağar. Yıldırım fırtınaları, metanın düşen elmas parçalarına sertleşmesine neden olur. Güneş sisteminde bu yağışın en popüler şekli olabilir, çünkü bilim insanları Jüpiter, Uranüs ve Neptün'de de gerçekleştiğini düşünüyorlar.
+Satürn'ün üzerinden elmaslar yağar. Yıldırım fırtınaları, Metanın düşen elmas parçalarını sertleştirmesine neden olur. Güneş sisteminde bu yağışın en popüler şekli olabilir, çünkü bilim insanları Jüpiter, Uranüs ve Neptün'de de gerçekleştiğini düşünüyorlar.
 
 Gaz devleri için yeni atmosferik veriler, göz kamaştırıcı kristal formunda karbonun bol olduğunu gösteriyor.
 
