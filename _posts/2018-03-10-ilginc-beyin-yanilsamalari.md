@@ -2,6 +2,8 @@
 layout: single
 title: "İlginç Beyin Yanılsamaları"
 ---
+Chronostatis
+-
 Chronostasis (Yunanca χρόνος, chrónos, "zaman" ve στάσις, stásis, "ayakta"), beyinde yeni bir olayın veya görev talebinin ortaya çıkmasını takiben ilk izlenimin ortaya çıktığı bir zamansal yanılsamadır. Örneğin, kronostasis geçici olarak bir hedef uyaran üzerinde sabitlendiğinde, hemen bir sakkad (yani, hızlı göz hareketi) takiben ortaya çıkar. Bu, hedef uyaranın (yani, postaccadic stimulus) algılanan zamansal süresinde aşırı bir tahminde bulunur. Bu etki, görünen süreleri 500 ms'ye kadar uzatabilir ve görsel sistemin algıdan önceki olayları modellemesi fikriyle tutarlıdır.
 
 ![image](https://i.pinimg.com/originals/c9/bd/7a/c9bd7a16beae0bd10b56eb511434b73c.gif)
