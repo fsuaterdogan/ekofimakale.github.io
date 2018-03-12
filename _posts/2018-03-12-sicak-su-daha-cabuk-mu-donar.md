@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sıcak su soğuk suya göre daha çabuk donabilir"
+title: "Sıcak su daha çabuk donabilir"
 ---
 
 Gerçekten de böyle mi?
