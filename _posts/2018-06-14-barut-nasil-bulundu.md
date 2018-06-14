@@ -12,4 +12,15 @@ Barutun neden Asya'da ortaya çıktığına ve dünyanın başka yerlerinde bulu
 
 Avrupa'da bu durum biraz daha farklıydı, çünkü onlar altın yapmak için yol arıyorlardı. Çinli simyacılar yaşamı süresiz uzatabilecek bir tedavi veya iksir yapmak istiyorlardı. Bu etki ilk bakışta önemsiz gibi görünüyor, ancak Taocu metinlerinde kaydedilen ilk karışımlara bakarsak, ilk bileşenlerden birinin bal olduğunu ve yutmaya daha uygun olduğunu görüyoruz.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="2340434561"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Elbette birçok erken deney, ölümcül ve felaketlerde sona ermiştir. Bilim varolmamıştı ve ilerleme ve yenilik, deneme yanılma yoluyla yapıldı. Eski belgeler baruta siyah toz olarak da değinir ve ana maddeler olarak yaygın olarak uygulanmış bir tuz, kömür ve kükürt karışımından söz ederler. İlk önce bu bileşenlerin miktarı değişti, ancak en uygun %75 oranındaki tuzpetre, %15 sülfür ve %10 odun kömürü karışımıyla sonuçlandı.
