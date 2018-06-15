@@ -1,9 +1,7 @@
 ---
 layout: single
-title: "Sihirli mantar nedir?"
+title: ""Sihirli mantarlarda" bulunan halüsinojen, bir insan rüya gördüğünde görülen beyin aktivitesini tetikler."
 ---
-
-"Sihirli mantarlarda" bulunan halüsinojen, bir insan rüya gördüğünde görülen beyin aktivitesini tetikler.
 
 Araştırmacılara göre, "sihirli mantarlarda" bulunan halüsinojen, bir kişinin hayalini kurduğunda görülenlere benzeyen beyin aktivitelerini tetikler. Korelasyon, bir fMRI beyin tarayıcısına yerleştirilirken, psychedelic mantarlarda aktif bileşen olan intravenöz psilosib dozları verilen 15 gönüllü üzerinde yapılan bir çalışmaya dayanmaktadır.
 
