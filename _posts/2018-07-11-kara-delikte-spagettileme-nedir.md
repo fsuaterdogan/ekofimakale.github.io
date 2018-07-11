@@ -17,3 +17,9 @@ Bir elmas oluşumunda konumlandırılmış, bir gezegenin üzerindeki alanda dö
 Şimdi bu dört nesneyi daha büyük bir nesnenin bağlı parçaları olarak düşünün. Rijit bir cisim distorsiyona direnç gösterecek ve vücut, gelgit kuvvetlerini dengelemek için bozulduğunda ve mekanik dengeye ulaşırken iç elastik kuvvetler gelişir. Eğer gel-git kuvvetleri çok büyükse, vücut gel-git kuvvetleri dengelenmeden ya da kırılmadan önce plastik olarak akabilir ve akabilir, ya bir filament ya da dikey parçaların kırılmış parçalarını üretebilir.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/6/63/Spaghettification.gif)
+
+
+
+- Resim kaynakçaları
+[Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/800px-Field_tidal.svg.png)
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spaghettification.gif)
