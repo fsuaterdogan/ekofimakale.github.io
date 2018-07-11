@@ -21,5 +21,5 @@ Bir elmas oluşumunda konumlandırılmış, bir gezegenin üzerindeki alanda dö
 
 
 - Resim kaynakçaları
-[Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/800px-Field_tidal.svg.png)
+[Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/800px-Field_tidal.svg.png)                                                                   
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spaghettification.gif)
