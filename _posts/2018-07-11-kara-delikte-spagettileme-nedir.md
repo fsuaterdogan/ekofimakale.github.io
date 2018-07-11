@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Kara deliklerde oluşan etki: "Spagettileme""
+title: "Kara deliklerde oluşan etki: Spagettileme"
 ---
 Astrofizikte, (bazen erişte etkisi olarak da adlandırılır) spagettileme, nesnelerin çok ince homojen olmayan bir çekim alanında uzun ince şekillere (spagetti gibi) dikey gerdirilmesi ve yatay sıkıştırılmasıdır; Aşırı gelgit kuvvetlerinden kaynaklanır. En aşırı durumlarda, kara deliklerin yakınında, gerilmeler o kadar güçlüdür ki, hiçbir nesne bileşenlerine ne kadar güçlü olursa olsun, ona dayanamaz. Küçük bir bölge içinde yatay sıkıştırma dikey gerilmeyi dengeler, böylece küçük nesneler arıtıldığında hacimde net bir değişiklik olmaz.
 
