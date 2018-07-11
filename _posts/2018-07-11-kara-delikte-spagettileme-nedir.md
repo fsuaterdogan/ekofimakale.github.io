@@ -23,3 +23,11 @@ Bir elmas oluşumunda konumlandırılmış, bir gezegenin üzerindeki alanda dö
 - Resim kaynakçaları                                                                                                                   
 [1: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Field_tidal.svg/800px-Field_tidal.svg.png)                                                                   
 [2: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/6/63/Spaghettification.gif)
+
+	
+<div style="display:none;">Kara delik</div>
+<div style="display:none;">Kara delik nedir</div>	
+<div style="display:none;">Spagettileme</div>	
+<div style="display:none;">Kara delik spagetti</div>
+<div style="display:none;">Karadelik</div>
+<div style="display:none;">Kara delik astrofizik</div>
