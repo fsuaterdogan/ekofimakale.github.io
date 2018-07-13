@@ -18,16 +18,6 @@ Her iki durumda da uçak yakında inecektir. Motorlar ölmüş veya güç kaybet
 
 Muhtemelen, mürettebat yanlış anlaşılmadan toparlanacak ve inecek, ama her iki durumda da, muhtemelen son uçuşları olacak.
 
-<div style="display:none;">yolcu uçağı</div>
-<div style="display:none;">uçak motoru bozuldu</div>
-<div style="display:none;">atmosfer uçak</div>
-<div style="display:none;">uçak kazası</div>
-<div style="display:none;">pilot</div>
-<div style="display:none;">uzay ve uçak</div>
-<div style="display:none;">uzay</div>
-<div style="display:none;">Bir uçak atmosferden çıkmaya çalışırsa ne olur?</div>
-<div style="display:none;">uçak kazaları</div>
-<div style="display:none;">uçak düştü</div>
-<div style="display:none;">uçak atmosfer</div>
-<div style="display:none;">atmosfer</div>
-<div style="display:none;">uçak</div>
+
+Bir uçak atmosferden çıkmaya çalışırsa ne olur sorusunun cevabını verdik. Yolcu uçağı atmosferden dışarı çıkamaz.
+Bu tür uçak kazaları bilgisayar sayesinde nadir görünür. Uçak düştü haberlerinin çok az kısmı bu sayededir. Uçağın ihtiyacı olan atmosfer olmadan  çıkıp uzay kısmına geçemez. Uçak pilotu bunu engeller.
