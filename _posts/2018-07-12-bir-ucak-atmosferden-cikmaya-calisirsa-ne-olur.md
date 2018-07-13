@@ -20,4 +20,4 @@ Muhtemelen, mürettebat yanlış anlaşılmadan toparlanacak ve inecek, ama her 
 
 
 Bir uçak atmosferden çıkmaya çalışırsa ne olur sorusunun cevabını verdik. Yolcu uçağı atmosferden dışarı çıkamaz.
-Bu tür uçak kazaları bilgisayar sayesinde nadir görünür. Uçak düştü haberlerinin çok az kısmı bu sayededir. Uçağın ihtiyacı olan atmosfer olmadan  çıkıp uzay kısmına geçemez. Uçak pilotu bunu engeller.
+Bu tür uçak kazası veya uçak kazaları bilgisayar sayesinde nadir görünür. Uçak düştü haberlerinin çok az kısmı bu sayededir. Uçağın ihtiyacı olan atmosfer olmadan  çıkıp uzay kısmına geçemez. Uçak pilotu bunu engeller.
