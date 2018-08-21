@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Snake venom survive"
+title: "Yılan ısırdı hayatta kaldı"
 ---
 Tim Friede, 16 yılda 160 yılan sokması aldı. Bu, vücudunun doğal bir bağışıklık yanıtı geliştirmesini ve Yılan zehiri ile savaşmak için yüksek düzeyde antikorlar üretmesini sağlamıştır. Hatta en zehirli yılanlardan biri olan Kara Mamba'nın ısırmasından kurtulmuştu.
 
