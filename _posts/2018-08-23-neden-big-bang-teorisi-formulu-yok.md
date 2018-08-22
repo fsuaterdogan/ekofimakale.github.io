@@ -2,7 +2,7 @@
 layout: single
 title: "Neden Big Bang Teorisi formülü yok?"
 ---
-Günümüzde gökbilimciler, evrenin başlamasından sadece milyonlarca yıl sonra meydana gelen 13 milyar yıldan fazla galaksiye bakabilirler. Onlar da kozmik mikrodalga arka plan radyasyonu denilen - Big Bang tarafından oluşturulan ve hala devam eden kozmosta yaygın bir ışık okuyabilir.
+Günümüzde gökbilimciler, 13 milyar yıldan fazla galaksiye bakabilirler.
 
 Dolayısıyla, uzak gelecekte, akıllı varlıkların, evrenin sonsuz genişlemesi ve uzaklaşan kozmik arka plan radyasyonu nedeniyle büyük patlama teorisini formüle etmenin hiçbir yolu olmayacaktır.
 
