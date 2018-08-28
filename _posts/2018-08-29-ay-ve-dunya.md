@@ -14,7 +14,7 @@ Ayın Dünya'nın arka tarafını göremeseniz de, NASA ve diğer uzay ajanslar�
 
 Ayın yerçekiminin Dünya'daki okyanus gelgitlerini etkilemesi gibi, Dünya'dan gelen yerçekimi de ay'ı etkiler. Ama ayın bir okyanuzun olmadığı için, Dünya kendi kabuğunu çekerek, Dünya'ya doğru giden çizgide bir tidal çıkıntı yaratır.
 
-! [Image] (http://www.bilimgenc.tubitak.gov.tr/sites/default/files/styles/770px_node/public/ay_atmosferi_var_mi.jpg?itok=X9jV-SIA)
+![image](http://www.bilimgenc.tubitak.gov.tr/sites/default/files/styles/770px_node/public/ay_atmosferi_var_mi.jpg?itok=X9jV-SIA)
 
 Yeryüzünden gelen yerçekimi en yakın tidal çıkıntısını çekerek onu hizalamaya çalışıyor. Bu, ayın rotasyonunu yavaşlatan gelgit sürtünmesi yaratır. Zamanla, rotasyon, ormanın yörüngesinin ve rotasyonunun eşleştiği ve aynı yüzün Dünya'ya doğru sonsuza dek kilitlenmiş olduğu zaman, yavaş yavaş kilitlendiği kadar yavaşladı.
 
