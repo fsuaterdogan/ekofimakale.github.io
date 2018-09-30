@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Şok üstüne şok: Einstein görelilik kuramı çürüdü mü?"
+title: "Şok üstüne şok: Einstein görelilik kuramı yanlış mı?"
 ---
 
 Özet
@@ -16,7 +16,7 @@ Ekim 1971'de, Einstein'ın görelilik kuramını makroskopik saatlerle test etme
 Einstein Görelilik Kuramı bu kişilere ve yaptıkları hesaplara göre yanlış.
 -
 
-![http://www.cartesio-episteme.net/hafkeat.htm](Bütün hesaplamalar)
+http://www.cartesio-episteme.net/hafkeat.htm(Bütün hesaplamalar)
 
 Öngörülen
 
