@@ -10,7 +10,7 @@ Net olan şey, bir şeyin virüslere karşı korunmaya yardımcı olan bir mutas
 
 Bugünkü Avrupalıların yaklaşık% 10'u mutasyona sahiptir, diğer popülasyonlara göre çok daha yüksek orandadır. Avrupa'da neden bu kadar yaygındır? Bir olasılık, onları hastalıklardan koruyarak taşıyıcıları tercih etmesidir. Ancak genetikçiler, CCR5-Δ32 olarak adlandırılan mutasyonun, yaklaşık 2,500 yıl önce - HIV'in başını kaldırmasından çok önce - ortaya çıktığını biliyorlar.
 
-![image](https://78.media.tumblr.com/2a7780b678530c52c49a6fc83e5cda92/tumblr_nwjphstI0B1ub4zo5o1_540.gif)
+![image](https://image.ibb.co/hoODGz/tumblr_ltwjax_F5of1qbl7s1o1_500.jpg)
 
 Tekrarlanan salgınlar
 -
