@@ -29,5 +29,6 @@ Bazı karıncaların evcilleştirilmiş hayvanları da var gibi görünüyor. Ba
 Akropyga karıncaları bir adım daha ileriye götürüyor ve mealybugs (unlu bitler) üretiyor (ağaç kökleri üzerinde yaşayan bir tür böcek). Mealybug'ları kökünden köke taşıyor ve baldırlarını yiyorlar. Ve tıpkı yaprak kesiciler gibi, yeni bir koloniye başlama zamanı geldiğinde, kraliçe yeni evine uçarken hamile bir mealybug taşıyor.
 
 ![image](https://www.biolineagrosciences.com/wp-content/uploads/2016/07/Mealybug_Adult.jpg)
+**Resim: Mealybugs (Unlu bitler)**
 
 Buna karşılık, Bereketli Hilal'de yaşayan kendi atalarımızın, sadece 12.000 yıl önce çiftçilikle uğraşmaya başladıkları düşünülmektedir.
