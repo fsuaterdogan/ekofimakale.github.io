@@ -5,7 +5,7 @@ title: "Sonunda bu da oldu: Bilim insanları bakteriden mikromotor üretti ve ı
 
 İşte bilim insanlarının bakteriden ürettiği mikromotor:
 -
-![image](https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/micromotors.jpg)
+![image](https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2017/micromotors.jpg)                                             
 **Kredi: Vizsnyiczai et al. Nature Communications'ta yayınlandı.**
 
 Bir mikromotor nasıl çalışıyor?
@@ -24,7 +24,7 @@ Di Leonardo, “Tasarımımız, vahşi tip bakterilere ve düz yapılara dayanan
 
 Video
 -
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6V5qoQyR_yA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6V5qoQyR_yA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>                                                            
 **Kredi: Vizsnyiczai et al.**
 
 Stratejik teşvik de işin içinde
