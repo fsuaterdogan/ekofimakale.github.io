@@ -8,7 +8,7 @@ Gympie Gympie nedir?
 
 ![image](https://i.kinja-img.com/gawker-media/image/upload/s--Ka1GReDW--/c_fit,f_auto,fl_progressive,q_80,w_636/logezv0kfnpb5wsdfsu7.jpg)
 
-Gympie Gympie: Tehlikede veya Tehlike Altında mı?
+Gympie Gympie hakkında merak edilenler
 -
 Gympie Gympie'nin, şaşırtıcı derecede narin sapların bir dizi üzerinde yükselen geniş, düz yaprakları vardır. Sadece birkaç metre boyunda büyüyebilir. Botanistler, hızlı büyüme oranının ve geniş yaprakların, bir ormanın aksi halde kalın bir gölgelikteki küçük, güneşli boşluklar için ideal olmasını sağlar. Yaşam alanı Avustralya'daki Queensland çevresindeki birkaç yayla yağmur ormanı ile sınırlıdır. Yağmur ormanları küçülüyor, iklim değişiyor ve Gympie son zamanlarda nesli tükenmekte olan bir bitki haline geldi.
 
