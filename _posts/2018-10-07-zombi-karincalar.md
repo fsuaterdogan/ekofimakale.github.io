@@ -10,7 +10,6 @@ Mantarın, karınca üzerindeki bu zihin kontrolünü nasıl uyguladığı tam o
 
 “Bir hayvanı kontrol etmek için beynini kontrol etmeniz gerektiğini düşünebilirsiniz,” diyor ilk yazar Maridel Fredericksen, şu anda İsviçre Basel Zooloji Enstitüsü'nde doktora adayı. “Beyinde mevcut değil. Dışarıdan bir şekilde kontrol ediyor gibi görünüyor.”
 
-![image](https://cdn4.techly.com.au/wp-content/uploads/2017/11/ant-killed-by-fungus-cockscomb-wildlife-sanctuary-belize-799x423.jpg)
 
 Penn State Üniversitesi'nden yazar ortak yazarlarından David Hughes, mantar kuklacılarına kaslarını hafifleten ve beyni sağlam bırakan bir karınca diyor. Parazit beyni koruyabileceğini söylüyor, çünkü ev sahibinin hayatının sonunda diğer karıncaları enfekte edebileceği bir alana götürmesi gerekiyor. Parazit, karınca kolonilerinin içine doğrudan giremez çünkü mikro iklim, büyümesini desteklemez.
 
@@ -23,3 +22,5 @@ Central Florida Üniversitesi'nde profesör olan Charissa de Bekker, karmaşık 
 De Bekker, "Sadece beyin dokusunu tahrip edersek, bunun mümkün olacağını düşünmüyorum" diyor.
 
 Hughes, bu araştırmanın diğer mantar hastalıklarını ve savunmasını araştırmak için gelecekte faydalı olabileceğini söyledi. Genetik olarak, insanlar ve mantarlar bitkiler ve mantarlardan daha fazla ortaktır, bu yüzden insanları öldüren şeylerin mantarları bitkilerden daha fazla öldürmesi daha olasıdır.
+
+![image](https://cdn4.techly.com.au/wp-content/uploads/2017/11/ant-killed-by-fungus-cockscomb-wildlife-sanctuary-belize-799x423.jpg)
