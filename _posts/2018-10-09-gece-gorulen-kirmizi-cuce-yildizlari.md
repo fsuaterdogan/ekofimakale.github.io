@@ -3,7 +3,7 @@ layout: single
 title: "Gece gökyüzündeki yıldızların %75'ini göremiyoruz, onlar 10 trilyon yıllık bir ömre sahip kırmızı cüce yıldızları"
 ---
 
-Kırmızı cüceler evreni terk edecek
+Kırmızı cüceler çok uzun yaşıyorlar
 -
 Tüm kırmızı cüce yıldızları tamamen konvektiftir, yani yıldızların çekirdeğinde biriken helyum yerine, bu yıldızlardaki helyum sürekli olarak yıldız ölünceye dek karıştırılır. Sonuç olarak, proton-proton zincir reaksiyonu yoluyla nükleer sentez yavaşlar, bu da kırmızı cücelerin aşırı uzun ömürlü olması anlamına gelir. Aslında, çalışmalar düşük kütleli kırmızılı cücelerin Güneş'i kitle ve Güneş'inki arasındaki oranın en azından üçüncü veya dördüncü gücü ile geride bıraktığını gösteriyor, bu da en çok kırmızı cücenin en az 10 trilyon yıl yaşayacağı anlamına geliyor. Tüm yıldız türlerinin en uzun yaşadıkları.
 
