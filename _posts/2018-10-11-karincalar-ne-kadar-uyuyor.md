@@ -4,7 +4,7 @@ title: "Karıncalar çok az uyuyor, kraliçe karıncalar ise çok fazla"
 ---
 Karıncalar, yerin çalışkan hayvanları.
 -
-Kraliçe karıncalar bile rüya görürken, işçi karıncaları güç boşlukları alarak almak zorunda kaldıklarında, karıncaların uyku alışkanlıklarının ilk çalışması ortaya çıktı.
+Kraliçe karıncalar bile rüya görürken, işçi karıncaları güç boşlukları almak zorunda kaldıklarında, karıncaların uyku alışkanlıklarının ilk çalışması ortaya çıktı.
 
 Kraliçe ateş karıncaları, her gün ortalama dokuz saat boyunca nispeten uzun, derin uykulara ve kiplere girer.
 Aksine, işçiler sadece yarısı kadar uyumakta ve yüzlerce kısa güç aralığını alarak dinlenebilmektedirler.
