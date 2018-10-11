@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Karıncalar çok az uyuyor, kraliçe karıncalar ise çok fazla"
+title: "Dünyanın düzeni böyle: İşçi karıncalar çok az uyuyor, kraliçe karıncalar ise daha fazla"
 ---
 Karıncalar, yerin çalışkan hayvanları.
 -
