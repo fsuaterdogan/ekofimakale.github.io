@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni bir çalışma, hafif dokunuş hissi yaratan geni, yaralanmadan sonra acı verici hissettirdi. Buna PIEZO2"
+title: "Karıncalar çok az uyuyor, kraliçe karıncalar ise çok fazla"
 ---
 Karıncalar, yerin çalışkan hayvanları.
 -
