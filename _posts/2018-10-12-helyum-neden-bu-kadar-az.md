@@ -10,7 +10,7 @@ Helyum, hidrojenin ardında insan tarafından bilinen ikinci en hafif gazdır, -
 ![image](http://dujye7n3e5wjl.cloudfront.net/photographs/1080-tall/time-100-influential-photos-sam-shere-hindenburg-disaster-26.jpg)
 **Wooh, bu da Hindenburg Faciası**
 
-Havadan daha hafif olmanın yanı sıra, Helium sıvı formunda bilimsel olarak inanılmaz derecede faydalıdır! Sadece 4 Kelvin kaynama noktası ile, sıvı helyum Fermilab ve Büyük Hadron Çarpıştırıcısı dahil olmak üzere, Dünya üzerindeki en güçlü elektromıknatısların bazılarını soğutmak için kullanılır. Bilinen süper sıvı olan ve kesinlikle viskozitesi de dahil olmak üzere birçok ilginç özelliğe sahip bir akışkandır ve harekete başladıktan sonra asla dinlenmeyecek veya enerji kaybetmeyecektir!
+Havadan daha hafif olmanın yanı sıra, Helyum sıvı formunda bilimsel olarak inanılmaz derecede faydalıdır! Sadece 4 Kelvin kaynama noktası ile, sıvı helyum Fermilab ve Büyük Hadron Çarpıştırıcısı dahil olmak üzere, Dünya üzerindeki en güçlü elektromıknatısların bazılarını soğutmak için kullanılır. Bilinen süper sıvı olan ve kesinlikle viskozitesi de dahil olmak üzere birçok ilginç özelliğe sahip bir akışkandır ve harekete başladıktan sonra asla dinlenmeyecek veya enerji kaybetmeyecektir!
 
 Helyum yeryüzünde oldukça nadirdir ve biz de onu tüketiyoruz. Helyum, Evrende (Hidrojenin arkasında) en yaygın ikinci element olmasına rağmen, Dünya'da inanılmaz derecede nadirdir. Helyum'u bulmak için sadece iki yer var. Birincisi Dünya atmosferi.
 
