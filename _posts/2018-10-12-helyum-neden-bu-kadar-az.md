@@ -22,14 +22,14 @@ Helyumumuzu nereden alırız o zaman? İster inanın ister inanmayın, yeraltın
 
 Helyum oraya nasıl geliyor?
 -
-Radyoaktivite dediyseniz bildiniz! Bizim Dünya kurulduğu, bu tür Uranyum, Toryum, Radyum ve Radon olarak Kurşun, daha ağır periyodik cetvelde her şey dahil olmayan elementlerin bir bütün döndürmek ile yüklendi, bkz. Bu unsurlar kararsız olduğu için radyoaktif biçimde çürüyorlar.
+Radyoaktivite dediyseniz bildiniz! Dünya'nın çekirdeği de, Uranyum, Toryum, Radyum ve Radon olarak Kurşun ve daha ağır periyodik cetvelde dahil olmayan elementler ile dönüyor, bkz. Bu unsurlar kararsız olduğu için radyoaktif biçimde çürüyorlar.
 
 Bu unsurlardan bazıları milyarlarca yıl sürse de (ortalama olarak), Dünya milyarlarca yıldır etrafta! Sadece bu da değil, parçacıkların çürümesinin üç yolu vardır. Keşfedilen ilk tip - alfa bozunması - bir radyoaktif parçacığın bir Helyum çekirdeği yaymasıdır!
 
-Öyleyse, doğru tipte bir radyoaktif elementin cevherini alırsanız ve milyonlarca ve milyonlarca yıl (hatta milyarlarca) yıl beklerseniz, dev bir yeraltı deposu olan bir helyum haline gelirsiniz!
+Öyleyse, doğru tipte bir radyoaktif elementin cevherini alırsanız ve milyonlarca ve milyonlarca yıl (hatta milyarlarca) yıl beklerseniz, dev bir yeraltı deposu olan bir helyum haline getirirsiniz!
 
-İyi haber de bu zaten, bu yeraltının dolu olması, dolayısıyla tüm bilimsel (ve bilimsel olmayan) amaçlarımız için bir Helyum arzımız var. Ama kötü haber mi? Bunu kullandıkça, milyonlarca yıl beklemek zorunda kalacağız ya da atmosferi kurtarmak için yasaklayıcı olmayan pahalı bir yol bulalım. (Pek çok kişi, Dünya'da yokken Ay'ı madenciliği düşünmek kadar pahalı!)
+İyi haber de bu zaten, bu yeraltının dolu olması, dolayısıyla tüm bilimsel (ve bilimsel olmayan) amaçlarımız için bir Helyum arzımız var. Ama kötü haber mi? Bunu kullandıkça, milyonlarca yıl beklemek zorunda kalacağız ya da atmosferi kurtarmak için yasaklayıcı olmayan pahalı bir yol bulacağız. (Pek çok kişi, Dünya'da yokken Ay'da madenciliği düşünüyor ama bu pahalı!)
 
 Öyleyse, sahip olduğunuz değerli şeylere dikkat edin ve başkaları bile olmasa bile, onlara değerli olan şey gibi davranın. Çünkü bazıları -Helyum gibi- gerçekten boşluğu doldurulamaz.
 
-Hepimiz çevrecilik ve koruma içindeyim, ama siz olmasanız bile, Helyum'un tükenmesi bilim ve teknolojinin devam eden ilerlemesi için ciddi bir sorun teşkil ediyor. Yeryüzündeki helyum kıttır. Şu an sahip olduğumuz mağazaları yapmak milyonlarca yıl aldı ve onlar gittikten sonra, binlerce nesil için gitmiş olacaklar.
+Hepimiz çevrecilik ve koruma içindeyiz, ama siz olmasanız bile, Helyum'un tükenmesi bilim ve teknolojinin devam eden ilerlemesi için ciddi bir sorun teşkil ediyor. Yeryüzündeki helyum kıttır. Şu an sahip olduğumuz mağazaları yapmak milyonlarca yıl aldı ve onlar gittikten sonra, binlerce nesil için gitmiş olacaklar.
