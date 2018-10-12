@@ -3,7 +3,7 @@ layout: single
 title: "Helyum Dünya'da neden bu kadar azdır?"
 ---
 
-Helyum gazı
+Helyum gazı                                                                                                                         
 -
 Helyum, hidrojenin ardında insan tarafından bilinen ikinci en hafif gazdır, -bilimsel ya da bilimsel değil- inanılmaz derecede kullanışlıdır. Helyum havadan çok daha hafiftir ve inerttir, yani hava ile enerjiyi birleştirdiğinizde yanmayacağınız anlamına gelir (Hidrojenin yaptığı gibi).
 
