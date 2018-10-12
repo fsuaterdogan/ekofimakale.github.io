@@ -7,7 +7,7 @@ Polietilen nedir?
 -
 Öncelikle alışveriş çantaları ve soda şişeleri gibi tek kullanımlık ambalajlarda kullanılan **polietilen**, en yaygın plastiklerden biridir. Ayrıca, bir depolama alanına dönüştükten sonra yıkılması da oldukça yavaş. Ancak yeni bir araştırmanın yazarları, süreci önemli ölçüde hızlandırmanın bir yolu üzerinde tökezlemiş olabilir: balmumu solucanı olarak bilinen ortak bir tırtıl.
 
-Yine bilim, yine tesadüf.
+İlk keşif nerede yapıldı?
 -
 İlk keşif bir laboratuvarda değil, İspanyol Ulusal Araştırma Konseyi'nde araştırmacı olan Federica Bertocchini'nin evinde yapıldı. Bir amatör arıcı olan Bertocchini, arı kovanlarının bazılarında balmumu solucanı istilası buldu. “Arı kovanlarını temizlerken solucanları plastik bir torbaya koydum” dedi. “Kısa bir süre sonra, kaçtılar ve plastik torba deliklerle doluydu.”
 
