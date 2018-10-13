@@ -16,9 +16,9 @@ Belemnitler İsveç, İngiltere, Fas ve ABD dahil olmak üzere birçok ülkede b
 
 Bulunan diğer canlılar
 -
-Ahtapotlar
-Mürekkep balığı
-Nautilus
++ Ahtapotlar
++ Mürekkep balığı
++ Nautilus
 
 Kaba opal bir parsel bulursanız, bunlarda aradığınızdan emin olun. Ahtapot son derece nadirdir, ancak geçmişte bazı bulgular olmuştur.
 
@@ -30,15 +30,13 @@ Virgin Rainbow
 -
 ![image](https://www.liveauctioneers.com/news/wp-content/uploads/2015/08/2015_0803_virgin-rainbow.jpg)
 
-Güney Avustralya bir zamanlar su sürüngenleri gibi deniz canlıları ile dolu tarih öncesi zamanlarda deniz suyu altındaydı. Müze müdürü, Güney Avustralya'nın deniz altında olduğu ve dinozorların gezegene yürüdüğü zaman oluşan opalleri göstermek için heyecan duyuyor. Yeni Güney Galler'deki Lighting Ridge'deki ünlü opal mayınlarla karşılaştırıldığında, tatlı su nehirleri ve bataklıklar, bu bölgede midyelerin kabukları, çam kozalakları vb. Gibi farklı tarih öncesi türler bulundu.
-
-Bir Belemnit Nasıl Opalileştirilir?
+Bir Belemnit Nasıl Opal Olur?
 -
 Bir belemnit öldüğünde, denizin dibine batırılırdı ve zemindeki tortu, kil tabanlı topraklardan çok çamurlu olurdu. Çürüyen vücut bu kil çökeltisinde çok hızlı bir şekilde ele alınacak ve orada çöl tipi koşullarda milyonlarca yıl kalacaktı.
 
 Deniz sonunda kuruduğundan sonra kumtaşı toprağındaki asitliği büyük ölçüde arttı ve kumtaşı silika jeli kaçtı ve kildeki çatlaklara doldu ve bazı bölgelerde bu belemnitler kil ile kaplandı.
 
-Milyonlarca yıl boyunca asidik seviyeler düştü ve silika jel, çürümüş kalamarın gösterimlerinde opal olarak sertleşti. Bu süreç yaygın değildi ve çoğu belemnitler opal renklere sahip değillerdi. Bakire gökkuşağı gibi çok renkli opal veya siyah kristal opal bulmak son derece nadirdir.
+Milyonlarca yıl boyunca asidik seviyeler düştü ve silika jel, çürümüş kalamarın gösterimlerinde opal olarak sertleşti. Bu süreç yaygın değildi ve çoğu belemnitler opal renklere sahip değillerdi. Virgin Rainbow gibi çok renkli opal veya siyah kristal opal bulmak son derece nadirdir.
 
 Opal borular
 -
