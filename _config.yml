@@ -55,14 +55,14 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 
 # SEO Related
-google_site_verification :
+google_site_verification : "53Nb95EGcKYMeQ_RVjyHGMXaDBc9_XDfSQXwaQ7zKSU"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ekofiresearchTR
 facebook:
   username               :
   app_id                 :
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "ekofi.science"
+  instagram        : "ekf.rs"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "ekofibilim"
+  twitter          : "ekofiresearchTR"
   vine             :
   weibo            :
   xing             :
