@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni çalışma, köpeklerin, öğretildikleri kelimelerden daha önce duydukları sözcükleri ayırt etmedikleri, yalnızca kelimelerin anlamlarının temel bir sinirsel temsiline sahip olduklarını göstermektedir."
+title: "Köpekler, öğretildikleri kelimelerden daha önce duydukları sözcükleri ayırt etmiyor, ancak kelimelerin anlamlarının temel bir sinirsel temsiline sahipler."
 ---
 
 Köpeklere neler oluyor?
