@@ -14,9 +14,11 @@ Deneysel araştırma
 -
 Kriptomnezinin ilk ampirik çalışmasında, bir gruptaki insanlar, kategori örnekleri (ör., Kuş türleri: papağan, kanarya, vb.) üretmeye başladılar. Daha sonra, daha önce üretilmeyen aynı kategorilerde yeni örnekler oluşturmaları ve ayrıca kişisel olarak hangi sözcükleri oluşturduklarını hatırlamaları istenmiştir. İnsanlar zamanın yaklaşık % 3–9'unu yanlışlıkla başka bir kişinin düşüncesini yeniden canlandırarak ya da birinin düşüncesini kendi kendilerine hatırlatarak aldatmışlardır. Benzer sonuçlar kelime arama bulmacaları ve beyin fırtınası oturumları gibi diğer görevler kullanılarak çoğaltılmıştır.
 
-![image](https://static01.nyt.com/images/2016/08/16/science/16tb-cryptomnesia/16tb-cryptomnesia-articleLarge.png?quality=90&auto=webp)**İlk resme göre çizilenler *Kaynak: New York Times*
+![image](https://static01.nyt.com/images/2016/08/16/science/16tb-cryptomnesia/16tb-cryptomnesia-articleLarge.png?quality=90&auto=webp)<div />**İlk resme göre çizilenler** *Kaynak: New York Times*
 
-Araştırmalar iki tür kriptomnezi arasında ayrım yapmış olsa da, sıklıkla birlikte çalışılmışlardır. Bu iki tür intihal **(aşırma, çalma)** arasındaki ayrım, altta yatan önyargıdan sorumludur - özellikle, unutulmuş düşünce mi yoksa düşünülür mü? İlk tür önyargı bir tanıdıklıktır. İntihal, daha önce sunulan bir düşünceyi yeniden üretiyor, ama fikrin özgün bir yaratım olduğuna inanıyor. Yeniden üretilen fikir, bir başkasının fikri ya da önceki bir zamanın kendi fikri olabilir. B. F. Skinner kendi kendine intihal deneyimini şöyle tanımlar:
+Altta yatan önyargı
+-
+Araştırmalar iki tür kriptomnezi arasında ayrım yapmış olsa da, sıklıkla birlikte çalışılmışlardır. Bu iki tür intihal **(aşırma, çalma)** arasındaki ayrım, altta yatan önyargıdan sorumludur - özellikle, unutulmuş düşünce mi yoksa düşünülür mü? İlk tür önyargı bir tanıdıklıktır. İntihal, daha önce sunulan bir düşünceyi yeniden üretiyor, ama fikrin özgün bir yaratım olduğuna inanıyor. Yeniden üretilen fikir, bir başkasının fikri ya da önceki bir zamanın kendi fikri olabilir.
 
 İkinci tip kriptomnezi, başkalarının fikirlerinin kişinin kendisinin hatırladığı bir yazarlık hatasından kaynaklanır. Bu durumda, intihal, fikrin daha erken bir zamanda olduğunu doğru bir şekilde kabul eder, fakat yanlış bir şekilde fikrin kökeni olduğunu hatırlar (ya da "geldiğini" varsayar). Bu iki intihal türünü ayırt etmek için çeşitli terimler ele alınmıştır - kaynak unutma ve üretim hatalarına karşı tanıma hataları. İki tip kriptominin bağımsız olduğu görülmektedir: Hata oranları arasında bir ilişki bulunmamıştır ve iki tip farklı nedenlerle çökelmiştir.
 
