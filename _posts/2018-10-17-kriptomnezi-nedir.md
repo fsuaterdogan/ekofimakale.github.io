@@ -14,7 +14,7 @@ Deneysel araştırma
 -
 Kriptomnezinin ilk ampirik çalışmasında, bir gruptaki insanlar, kategori örnekleri (ör., Kuş türleri: papağan, kanarya, vb.) üretmeye başladılar. Daha sonra, daha önce üretilmeyen aynı kategorilerde yeni örnekler oluşturmaları ve ayrıca kişisel olarak hangi sözcükleri oluşturduklarını hatırlamaları istenmiştir. İnsanlar zamanın yaklaşık % 3–9'unu yanlışlıkla başka bir kişinin düşüncesini yeniden canlandırarak ya da birinin düşüncesini kendi kendilerine hatırlatarak aldatmışlardır. Benzer sonuçlar kelime arama bulmacaları ve beyin fırtınası oturumları gibi diğer görevler kullanılarak çoğaltılmıştır.
 
-![image](https://static01.nyt.com/images/2016/08/16/science/16tb-cryptomnesia/16tb-cryptomnesia-articleLarge.png?quality=90&auto=webp)<div />**İlk resme göre çizilenler** *Kaynak: New York Times*
+![image](https://static01.nyt.com/images/2016/08/16/science/16tb-cryptomnesia/16tb-cryptomnesia-articleLarge.png?quality=90&auto=webp)            **İlk resme göre çizilenler**
 
 Altta yatan önyargı
 -
@@ -28,4 +28,4 @@ Kişiler, fikirlerin orijinal kaynağından uzaklaştıklarında intihal artar v
 
 Nietzsche ve Kriptomnezi
 -
-Jung, İnsana ve Onun Sembollerine aşağıdaki örneği verir. Friedrich Nietzsche'nin “The Spoke Zarathustra” adlı kitabı Nietzsche'nin yazdığı yarım yüzyıla ait 1835'te yayınlanan bir kitapta yer alan bir olayın kelime hesabı için neredeyse bir kelime içerir. Bu bilerek alıntı yapma veya saf tesadüf olarak kabul edilir: Nietzsche'nin kız kardeşi aslında 11 yaşındayken orijinal hesabı okuduğunu doğruladı; Nietzsche'nin genç entellektüel yetenekleri, daha sonraki kognitif dejenerasyonu ve beraberindeki psikolojik bozulma (özellikle de daha sonraki davranışlarında ve yazılarında tezahür ettiği gibi artan büyüklüğü), başlangıçta okuduktan sonra ve sonradan belleğe geçişi gerçekleştirme olasılığını güçlendirdi. karşılaştığı anıyı kaybettikten sonra, kendi aklının bunu yarattığını varsaydı.
+Friedrich Nietzsche'nin “The Spoke Zarathustra” adlı kitabı Nietzsche'nin yazdığı yarım yüzyıla ait 1835'te yayınlanan bir kitapta yer alan bir olay sadece tek kelime eder. Bu bilerek alıntı yapma veya saf tesadüf olarak kabul edilir: Nietzsche'nin kız kardeşi aslında 11 yaşındayken orijinal kelime hesabını okuduğunu doğruladı; Nietzsche'nin genç entellektüel yetenekleri, daha sonraki kognitif dejenerasyonu ve beraberindeki psikolojik bozulma (özellikle de daha sonraki davranışlarında ve yazılarında tezahür ettiği gibi artan büyüklüğü), başlangıçta okuduktan sonra ve sonradan belleğe geçişi gerçekleştirme olasılığını güçlendirdi. karşılaştığı anıyı kaybettikten sonra, kendi aklının bunu yarattığını varsaydı.
