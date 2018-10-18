@@ -10,7 +10,7 @@ Büyük, farklı bir birey nüfusu arasındaki etkileşimi hızlandıran bir bil
 
 Hayır, internet hakkında konuşmuyoruz, mantarlardan bahsediyoruz. Mantarlar bir mantarın en tanıdık kısmı olsa da, vücutlarının çoğu bir miselyum olarak bilinen ince ipliklerden oluşur. Biliyoruz ki bu iplikler, farklı bitkilerin köklerini birbirine bağlayan bir tür yeraltı internet işlevi görüyor. Bahçenizdeki ağaç da muhtemelen birkaç metre uzaklıktaki bir çalıya, miselyuma teşekkür edelim :).
 
-Bu yeraltı ağları hakkında ne kadar çok şey öğrenirsek, bitkiler hakkındaki fikirlerimiz de değişmelidir. Orada sessizce büyüyorlar. Mantar ağına bağlanarak, besin ve bilgi paylaşarak komşularına yardım edebilirler - ya da istenmeyen bitkileri ağ üzerinden zehirli kimyasallar yaymak suretiyle sabote edebilirler. Bu "ahşap ağındaki web", ortaya çıkıyor, hatta kendi siber suçlar versiyonuna sahip.
+Bu yeraltı ağları hakkında ne kadar çok şey öğrenirsek, bitkiler hakkındaki fikirlerimiz de değişmelidir. Orada sessizce büyüyorlar. Mantar ağına bağlanarak, besin ve bilgi paylaşarak komşularına yardım edebilirler - ya da istenmeyen bitkileri ağ üzerinden zehirli kimyasallar yaymak suretiyle sabote edebilirler.
 
 ![image](https://i.pinimg.com/originals/bb/ce/85/bbce85fe62843899fa6023e15eeddbd5.jpg)
 
@@ -21,8 +21,6 @@ Mantarlar 'Dünya'nın doğal interneti' olarak adlandırıldı.
 Bitkiler mantarlara karbonhidratlar şeklinde besin sağlarlar. Buna karşılık, mantarlar bitkilerin su emmesine yardımcı olur ve miselyumları vasıtasıyla fosfor ve azot gibi besinler sağlar. 1960'lardan beri, mikorizaların bireysel bitkilerin büyümesine yardımcı olduğu biliniyordu.
 
 Mantar ağları aynı zamanda konakçı bitkilerin bağışıklık sistemini güçlendirir. Çünkü bir mantar bir bitkinin köklerini sindirdiğinde, savunma ile ilgili kimyasalların üretimini tetikler. Bunlar daha sonra bağışıklık sistemi yanıtlarını daha çabuk ve daha verimli hale getirir, "priming" denen bir olgu. Mycelial ağlarına takmak, bitkileri hastalığa karşı daha dirençli hale getirir.
-
-Ama hepsi bu değil. Artık mikorizaların da geniş ölçüde ayrılabilen bitkileri bağladığını biliyoruz. Mantar uzmanı Paul Stamets, 2008 TED konuşmasında “Dünya'nın doğal internet'i” olarak adlandırdı. İlk önce 1970'lerde elektron mikroskobu kullanarak mantar incelediği zaman fikri vardı. Stamets, ABD Savunma Bakanlığı'nın internetin erken versiyonu olan miselyum ile ARPANET arasındaki benzerlikleri fark etti.
 
 Fungal internetin neler yapabileceğini onlarca yıl önce aldı. 1997'de, Vancouver'daki British Columbia Üniversitesi'nden Suzanne Simard, kanıtların ilk parçalarından birini buldu. Douglas köknar ve kağıt huş ağaçlarının mayınlar ile aralarında karbon taşıyabildiğini gösterdi. Diğerleri, bitkilerin aynı yolla da azot ve fosfor alışverişi yapabileceğini göstermiştir.
 
