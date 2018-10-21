@@ -24,7 +24,7 @@ Araştırmalar iki tür kriptomnezi arasında ayrım yapmış olsa da, sıklıkl
 
 Nedenler
 -
-Kişiler, fikirlerin orijinal kaynağından uzaklaştıklarında intihal artar ve katılımcılar özellikle fikirlerinin kaynağına dikkat etmeleri konusunda bilgilendirildiklerinde azalır. Sahte iddialar, aynı cinsiyetten kişilerin kendileri tarafından önerilen fikirleri için de daha yaygındır, çünkü benliğin aynı cinsiyetteki kişilere duyduğu algı benzerliği, kaynak karmaşasını şiddetlendirir. Diğer çalışmalarda, fikrin zamanlamasının da önemli olduğu bulunmuştur: Başka bir kişi, kendi kendinden bir fikir üretmeden hemen önce bir fikir üretiyorsa, diğerinin fikri, görünüşe göre, kişinin kendisi olduğu gibi, kendiliğinden olduğu iddia edilir. Kaynak bilgilerini doğru bir şekilde izlemek için kendi dönüşleri için hazırlanmakla meşgul. [kaynak belirtilmeli]
+Kişiler, fikirlerin orijinal kaynağından uzaklaştıklarında intihal artar ve katılımcılar özellikle fikirlerinin kaynağına dikkat etmeleri konusunda bilgilendirildiklerinde azalır. Sahte iddialar, aynı cinsiyetten kişilerin kendileri tarafından önerilen fikirleri için de daha yaygındır, çünkü benliğin aynı cinsiyetteki kişilere duyduğu algı benzerliği, kaynak karmaşasını şiddetlendirir. Diğer çalışmalarda, fikrin zamanlamasının da önemli olduğu bulunmuştur: Başka bir kişi, kendi kendinden bir fikir üretmeden hemen önce bir fikir üretiyorsa, diğerinin fikri, görünüşe göre, kişinin kendisi olduğu gibi, kendiliğinden olduğu iddia edilir. Kaynak bilgilerini doğru bir şekilde izlemek için kendi dönüşleri için hazırlanmakla meşgul.
 
 Nietzsche ve Kriptomnezi
 -
