@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ren geyiği ultraviyole ışığı görebilen tek memeli türüdür. Bu, beyaz kürk ve kar arasındaki farkı kolayca anlayabilecekleri anlamına gelir, çünkü beyaz kürk çok daha yüksek kontrasta sahiptir. Karlı manzaralarda erken yırtıcıları keşfetmelerine yardımcı olur."
+title: "Ren geyiği ultraviyole ışığı görebilen tek memeli türüdür, karlı manzaralarda erken yırtıcıları keşfetmelerine yardımcı olur."
 ---
 10 tane ren geyiği ile ilgili bu kış için bilgiler
 -
