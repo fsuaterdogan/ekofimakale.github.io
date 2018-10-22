@@ -2,8 +2,6 @@
 layout: single
 title: "Ren geyiği ultraviyole ışığı görebilen tek memeli türüdür, karlı manzaralarda erken yırtıcıları keşfetmelerine yardımcı olur."
 ---
-10 tane ren geyiği ile ilgili bu kış için bilgiler
--
 1. Ren geyiği ve caribou aynı şeydir.
 -
 Tarihsel olarak, Avrupalı Asya ren geyiği ve Amerikan Caribou farklı türler olarak kabul edildi, ama aslında bir ve aynı. Hayvanın yaşadığı bölgeye göre bölünmüş iki büyük ren geyiği grubu, tundra ve ormanlık bölgelerdir, küresel konumlar değildir.
