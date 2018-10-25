@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Aksolotlar nasıl canlılardır?"
+title: "Aksolotllar nasıl canlılardır?"
 ---
 Aksolotl'lar semendere dönüşebilir
 -
