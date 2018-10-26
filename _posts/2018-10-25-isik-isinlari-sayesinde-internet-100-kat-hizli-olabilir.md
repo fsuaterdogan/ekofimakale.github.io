@@ -4,6 +4,8 @@ title: "Çığır açan yeni teknoloji ile 100 kat daha hızlı internete olanak
 ---
 Geniş bant fiber optikler, ışık hızında bilgi taşır. Işığın bir uçta kodlandığı ve diğer tarafta işlenme şekli veri hızlarını etkiler.
 
+![image](https://www.scimex.org/__data/assets/image/0011/366779/FasterInternet-1220_x_732.jpg)
+
 Dünyanın ilk nanofotonik cihazı
 -
 Sadece Nature Communications'da bulunan bu dünyanın ilk nanofotonik cihazı, daha fazla veriyi kodlar ve özel bir 'bükülmüş' ışık formunu kullanarak geleneksel fiber optiklerden çok daha hızlı işlemektedir.
@@ -20,13 +22,11 @@ Gelişmekte olan yeni genişbant teknolojileri, verileri kodlamak için ışık 
 
 Bu son teknoloji, optik iletişimin en uç noktasında, yine de kapasitelerini daha da artırmak için bir spiralin içine bükülmüş ışık dalgaları üzerine veri taşır. Bu, orbital açısal momentum veya OAM durumunda ışık olarak bilinir.
 
-![image](https://www.scimex.org/__data/assets/image/0011/366779/FasterInternet-1220_x_732.jpg)
+![image](https://mk0nextbigfuturj5ioe.kinstacdn.com/wp-content/uploads/2018/10/twistedlightreader-min-730x430.png)
 
 2016 yılında, RMIT'in Yapay Zeka Nanophotonics (LAIN) Laboratuvarı'ndan aynı grup, Science dergisinde, nanofotonik çip üzerindeki bu bükülmüş ışığın küçük bir kısmını nasıl çözmeyi başarabileceğini açıklayan yıkıcı bir araştırma yazısı yayınladı. Ancak bugüne kadar optik haberleşme için geniş bir OAM ışığını tespit eden teknoloji hala geçerli değildi.
 
 "Bunu daha önce yapmak için, bir makinenin, telekomünikasyon için tamamen pratik olmayan bir büyüklüğünü gerektirmesi gerekir. Milimetrenin bir kısmını ölçen ultra ince topolojik nanotabakalar kullanarak, buluşumuz bu işi daha iyi yapar ve bir optik fiberin ucuna uyar. "
-
-![image](https://mk0nextbigfuturj5ioe.kinstacdn.com/wp-content/uploads/2018/10/twistedlightreader-min-730x430.png)
 
 OAM ışığı (Orbital angular momentum of light) nedir?
 -
