@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "İnsanlar, düşüncelerini, zihinsel imgelerini ve hayallerini şekillendirmeye başladığı bir etkinliğe çok fazla zaman ve dikkat sarf ettiğinde ortaya çıkan Tetris Etkisi"
+title: "İnsanlar, düşüncelerini, zihinsel imgelerini ve hayallerini şekillendirmeye başladığı bir etkinliğe çok fazla zaman ve dikkat sarf ettiğinde ortaya çıkan etki: Tetris Etkisi"
 ---
 Tetris etkisi (Tetris Sendromu olarak da bilinir), insanların düşüncelerini, zihinsel imgelerini ve hayallerini şekillendirmeye başladığı bir faaliyete çok fazla zaman ve dikkat sarf ettiğinde ortaya çıkar. Adını video oyunu Tetris'ten alır.
 
