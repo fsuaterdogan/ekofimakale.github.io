@@ -14,7 +14,7 @@ Kağıdın yazarının yazarı olan RMIT'in Bilim Okulu'ndan Dr. Haoran Ren, bü
 
 "Yapmayı başardığımız şey, veriyi, bant genişliğimizi büyük ölçüde artırmamıza olanak verecek şekilde en yüksek kapasitede ışık yoluyla doğru bir şekilde iletmektir."
 
-Son teknoloji, ışığın gerçek kapasitesinin sadece bir kısmını kullanıyor
+Günümüzdeki teknoloji, ışığın gerçek kapasitesinin sadece bir kısmını kullanıyor
 -
 Avustralya'nın Ulusal Geniş Bant Ağı'nda (NBN) kullanılanlar gibi son teknoloji fiber optik iletişim, renk spektrumu üzerine veri taşıyarak ışığın gerçek kapasitesinin sadece bir kısmını kullanır.
 
