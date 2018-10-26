@@ -10,7 +10,7 @@ Tetris'i uzun bir süredir oynatan insanlar kendilerini gerçek dünyadaki farkl
 
 ![image](https://3bonlp1aiidtbao4s10xacvn-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/vrtetriswacomka.jpg)
 
-Bu algısal seviyede, denizde ayaklarınız bir çeşit Tetris etkisindedir. Denizde uzun süreler geçirdikten sonra yeni bir insan, hayali sallanma hareketini algılayabilir, bu hareketleri yapan tekneye sürekli olarak uyum sağlamaya alışmış hale gelmiştir (Kendini hareket etme yanılsaması).
+Bu algısal seviyede, denizde tekne ve ayaklarınızı düşünün. Denizde uzun süreler geçirdikten sonra bir insan, hayali sallanma hareketini algılayabilir, bu hareketleri yapan tekneye sürekli olarak uyum sağlamaya alışmış hale gelmiştir (Kendini hareket etme yanılsaması ya da optik illüzyon). Bu örnek bir çeşit Tetris etkisidir.
 
 Deneyler
 -
