@@ -8,7 +8,7 @@ Geniş bant fiber optikler, ışık hızında bilgi taşır. Işığın bir uçt
 
 Dünyanın ilk nanofotonik cihazı
 -
-Sadece Nature Communications'da bulunan bu dünyanın ilk nanofotonik cihazı, daha fazla veriyi kodlar ve özel bir 'bükülmüş' ışık formunu kullanarak geleneksel fiber optiklerden çok daha hızlı işlemektedir.
+Dünyanın ilk nanofotonik cihazı, daha fazla veriyi kodlar ve özel bir 'bükülmüş' ışık formunu kullanarak geleneksel fiber optiklerden çok daha hızlı işler.
 
 Kağıdın yazarının yazarı olan RMIT'in Bilim Okulu'ndan Dr. Haoran Ren, bükülmüş ışığı okumak için ürettikleri küçük nanofotonik cihazın süper hızlı, ultra geniş bantlı iletişimin kilidini açmak için gereken eksik anahtar olduğunu söyledi.
 
