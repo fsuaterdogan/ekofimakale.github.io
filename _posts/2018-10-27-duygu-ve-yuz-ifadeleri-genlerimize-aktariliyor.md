@@ -11,7 +11,7 @@ Görme engelli doğan insanlar, duyguları ifade ederken görüşlü insanlar ol
 San Francisco Eyalet Üniversitesi Psikoloji Profesörü David Matsumoto, 2004 Yaz Olimpiyatları ve Paralimpik Oyunlarında gören ve görme engelli judo sporcularının yüz ifadelerini karşılaştırdı. 23 ülkeden sporcuların görüntüleri de dahil olmak üzere 4.800'den fazla fotoğraf çekildi ve analiz edildi.
 
 ![image](https://media.springernature.com/original/springer-static/image/art%3A10.3758%2Fs13423-017-1338-0/MediaObjects/13423_2017_1338_Fig3_HTML.gif)
-Yüz ifadelerinin bu karşılaştırmalı fotoğrafları, bir madalya için maçı kaybeden kör ve gören sporcuları gösterir. Fotoğraf: Bob Willingham
+*Yüz ifadelerinin bu karşılaştırmalı fotoğrafları, bir madalya için maçı kaybeden kör ve gören sporcuları gösterir. Fotoğraf: Bob Willingham*
 
 Matsumoto, "Göreli ve görme engelli kişilerin yüz ifadeleri arasındaki istatistiksel ilişki neredeyse mükemmeldi." Dedi. "Bu, içimizde genetik olarak yerleşik bir şeyin, duyguların yüz ifadelerinin kaynağı olduğunu gösteriyor."
 
