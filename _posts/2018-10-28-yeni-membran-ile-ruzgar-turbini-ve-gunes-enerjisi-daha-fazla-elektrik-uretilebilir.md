@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rüzgar türbini kadar verimli ve çoğu güneş panelinden daha yüksek elektrik üreten iki yüzlü membran keşfedildi"
+title: "Rüzgar türbini kadar verimli ve çoğu güneş panelinden daha yüksek elektrik üreten iki yüzlü membran (hücre zarı) keşfedildi, tuzlu sudan elektrik üretebiliyor"
 ---
 Kalabalık bir trene doldurulduğunuzu ve platformun hemen altının oldukça hafif olan bir şey olduğunu hayal edin. Muhtemelen mümkün olan en kısa zamanda taşınmak isteyeceksiniz. Bu dengeleme hareketini izleyen parçacıklar -osmoz olarak bilinir- kendiliğinden yüksek konsantrasyonlu bir alandan düşük konsantrasyonlu bir taneye doğru hareket ederler. Bilim insanları, elektrik akımını tuzlu sudan toplayabilen güç üreten bir zar oluşturma eğilimini kullandılar.
 
@@ -10,7 +10,7 @@ Yeni ‘iki yüzlü 'membran (hücre zarı), tuzlu deniz suyunda depolanan kimya
 
 Peki bu nasıl oluyor?
 -
-İyonik tuzlar, demetleri pozitif ve negatif yüklü parçacıklardan meydana getirdiklerinde, suda çözülür, demetler parçalanır, pozitif ve negatif yüklü parçacıklar osmoza katılmaya serbest kalır. Tuzlu su ve tatlı su arasına yüklü, ince zarlar yerleştirerek, bilim adamları akan parçacıklar için bir elektrik akımı oluşturabilirler. Ancak bu membranların üretimi genellikle pahalıdır ve zamanla sızıntıya eğilimlidirler. Bu parçacıkların yanlış yönde geri geçmelerine izin verir, ne kadar elektrik üretebildiklerini keser.
+İyonik tuzlar, demetleri pozitif ve negatif yüklü parçacıklardan meydana getirdiklerinde, suda çözülür, demetler parçalanır, pozitif ve negatif yüklü parçacıklar osmoza katılmaya serbest kalır. Tuzlu su ve tatlı su arasına yüklü, ince zarlar yerleştirerek, bilim insanları akan parçacıklar için bir elektrik akımı oluşturabildiler. Ancak bu membranların üretimi genellikle pahalıdır ve zamanla sızıntıya eğilimlidirler. Bu parçacıkların yanlış yönde geri geçmelerine izin verir, elektrik üretimlerini zayıflatır.
 
 Araştırmacılar yeni bir tür kapı bekçisi geliştirdiler - iki yüzü farklı olan, gözeneklerin büyüklüğünden zarın yüküne kadar farklı özelliklere sahip "iki yüzlü" bir zar. Bu, yüklü parçacıkların bir taraftan diğerine sabit bir şekilde hareket etmesini ve yanlış yönde geri sürüklenmelerini önler. Zarlar, farklı boyutlardaki gözeneklere sahip olacak şekilde üretilebiliyor ve farklı türdeki partikülleri kabul etmelerine izin verecek şekilde farklı yükler taşıyabiliyorlar.
 
