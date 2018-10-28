@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rüzgar türbini kadar verimli ve çoğu güneş panelinden daha yüksek elektrik üreten iki yüzlü "membran" keşfedildi, tuzlu deniz suyunda depolanan kimyasal enerjinin % 35.7' sini kullanılabilir elektriğe dönüştürebiliyor"
+title: "Rüzgar türbini kadar verimli ve çoğu güneş panelinden daha yüksek elektrik üreten iki yüzlü membran keşfedildi, tuzlu deniz suyunda depolanan kimyasal enerjinin % 35.7' sini kullanılabilir elektriğe dönüştürebiliyor"
 ---
 Kalabalık bir trene doldurulduğunuzu ve platformun hemen altının oldukça hafif olan bir şey olduğunu hayal edin. Muhtemelen mümkün olan en kısa zamanda taşınmak isteyeceksiniz. Bu dengeleme hareketini izleyen parçacıklar -osmoz olarak bilinir- kendiliğinden yüksek konsantrasyonlu bir alandan düşük konsantrasyonlu bir taneye doğru hareket ederler. Bilim insanları, elektrik akımını tuzlu sudan toplayabilen güç üreten bir zar oluşturma eğilimini kullandılar.
 
