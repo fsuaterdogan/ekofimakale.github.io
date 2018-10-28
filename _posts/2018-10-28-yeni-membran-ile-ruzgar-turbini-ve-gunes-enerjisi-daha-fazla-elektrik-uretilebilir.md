@@ -6,7 +6,7 @@ Kalabalık bir trene doldurulduğunuzu ve platformun hemen altının oldukça ha
 
 Yeni ‘iki yüzlü 'membran (hücre zarı), tuzlu deniz suyunda depolanan kimyasal enerjinin % 35.7' sini kullanılabilir elektriğe dönüştürebilir. Bir grup araştırmacının söylediği gibi, çoğu rüzgar türbini kadar verimli ve çoğu güneş hücresinden daha yüksek.
 
-![image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/twofacesoffe.jpg)
+![image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2018/twofacesoffe.jpg)                                             *Bunlar, membran ön yüzlerinin yüzey SEM görüntüleridir. Kredi: Chicago Üniversitesi*
 
 Peki bu nasıl oluyor?
 -
