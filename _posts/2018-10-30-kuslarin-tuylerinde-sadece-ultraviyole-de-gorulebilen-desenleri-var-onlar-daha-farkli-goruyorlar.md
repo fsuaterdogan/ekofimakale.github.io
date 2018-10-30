@@ -29,4 +29,4 @@ Floresan da kuş dünyasında nadir değildir. Kral ve İmparator penguenleri pa
 
 Baykuşları gruplayan ve izleyen araştırmacıların çoğu, yaşlarını bir kara ışık altında kontrol etmek için biraz zaman harcıyor. “Bu, ciddi bir ornitoloji ve ucuz bir parti hilesi kombinasyonudur” diye ekliyor.
 
-Siyah ışık altında flöresanı görebilir ve kendi araştırmalarımız için onu marşlayabiliriz. Ancak çoğu durumda, kuşların ne için kullandıklarından tam olarak emin değiliz. Öte yandan papağanlar, baykuşlar muhtemelen tüylerinin parıldadığını bile söyleyemezler - ay, floresan etkisini başlatmak için yeterli UV ışığı yaymaz.
+Siyah ışık altında flöresanı görebilir ve kendi araştırmalarımız için onu kullanabiliriz. Ancak çoğu durumda, kuşların ne için kullandıklarından tam olarak emin değiliz. Öte yandan papağanlar, baykuşlar muhtemelen tüylerinin parıldadığını bile söyleyemezler- ay da floresan etkisini başlatmak için yeterli UV ışığı yaymaz.
