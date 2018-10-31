@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "'Akan' değil, 'tırmanan' sıvı: 2 Kelvinlik Helyum"
+title: "'Akabilen' değil, aynı zamanda 'tırmabilen' sıvı: 2 Kelvinlik Helyum"
 ---
 Helyumu yaklaşık 2 Kelvin'e soğutduğunuzda, kelimenin tam anlamıyla sıfır viskoziteye sahiptir ve böylece katı seramikler ve duvarlar boyunca tırmanabilir.
 
