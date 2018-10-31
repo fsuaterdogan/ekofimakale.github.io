@@ -20,5 +20,7 @@ Helyumun düşük sıcaklıklarda likiditesi, Bose-Einstein yoğuşması denilen
 
 Araştırmacılar süper sıvı akışkanın iki sıvı, bir normal ve bir süper sıvı karışımı olarak düşünmeyi severler. Farklı deneyler, iki fraksiyonun zıt karakterlerini ortaya çıkarır. En basit "deney", sıvı helyumla dolu bir kap, aniden lambda noktasının altında soğutulduğu ve sürtünmesiz süper akışkan fraksiyonun, normal sıvı fraksiyonunun giremeyeceği mikroskobik çatlaklardan dökülmeye başladığı zaman bir sızıntıya dönüştüğünü izlemektir. ("Süper sızıntılar", ilk günlerden beri sıvı helyumla çalışan bilim adamlarının kanadıydı, Beamish diyor.) Ama aynı helyumu kahve gibi karıştırın ve normal sıvı fraksiyonu harekete direnecek ve süper sıvı karışımına viskozite kazandıracak herşey.
 
+![image](https://funsizephysics.com/wp-content/uploads/2017/08/superfluid-helium.jpg)
+
 Sıcaklık düştüğünde, süper sıvı fraksiyonu, karışımın daha büyük bir payını alır. Alanın altın standart deneyinde, araştırmacılar, bir tel ile askıya alınan silindirik bir metal kutuya bir örnek yerleştirerek iki fraksiyonun oranını ölçmektedir. Tele bir bükülme verdiklerinde, silindir bir yöne, sonra diğerine dönecektir. Ancak, silindir ile sadece sürtünme nedeniyle silindir ile normal fraksiyon dönecektir; Süper sıvı kısmı normal sıvıdan sağa doğru keser ve hala kalır. Süper sıvı oranı arttıkça silindir sanki ağırlık kaybetmiş gibi (teknik olarak, atalet) daha hızlı döner.
 
