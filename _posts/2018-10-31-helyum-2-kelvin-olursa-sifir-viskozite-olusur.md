@@ -2,7 +2,7 @@
 layout: single
 title: "'Akabilen' değil, aynı zamanda 'tırmabilen' sıvı: 2 Kelvinlik Helyum"
 ---
-Helyumu yaklaşık 2 Kelvin'e soğutduğunuzda, kelimenin tam anlamıyla sıfır viskoziteye sahiptir ve böylece katı seramikler ve duvarlar boyunca tırmanabilir.
+Helyumu yaklaşık 2 Kelvin'e soğuttuğunuzda, kelimenin tam anlamıyla sıfır viskoziteye sahiptir ve böylece katı seramikler ve duvarlar boyunca tırmanabilir.
 
 Araştırmacılar, onlarca yıldır sıvı helyumun -452 derece Fahrenheit (–269 santigrat derece) kaynama noktasının altında bir dereceye kadar serinlerseniz, aniden diğer akışkanların molekül yoluyla yapamayacağı şeyler yapabileceğini biliyorlardı.
 
