@@ -4,9 +4,9 @@ title: "'Akabilen' değil, aynı zamanda 'tırmabilen' sıvı: 2 Kelvinlik Helyu
 ---
 Helyumu yaklaşık 2 Kelvin'e soğuttuğunuzda, kelimenin tam anlamıyla sıfır viskoziteye sahiptir ve böylece katı seramikler ve duvarlar boyunca tırmanabilir.
 
-Araştırmacılar, onlarca yıldır sıvı helyumun -452 derece Fahrenheit (–269 santigrat derece) kaynama noktasının altında bir dereceye kadar serinlerseniz, aniden diğer akışkanların molekül yoluyla yapamayacağı şeyler yapabileceğini biliyorlardı.
+Araştırmacılar, onlarca yıldır sıvı helyumun -452 derece Fahrenheit (–269 santigrat derece) kaynama noktasının altında bir dereceye kadar soğutursanız, diğer akışkanların molekül yoluyla yapamayacağı şeyler yapabileceğini biliyorlardı.
 
-Artık sadece sıvı değil, helyum bir süper sıvı haline geldi - sürtünmeden akan bir sıvı. Edmonton'daki Alberta Üniversitesi'nde deneysel bir fizikçi olan John Beamish, “Eğer bir sıvı ile bir bardak ayarlayıp içine doldursaydınız ve 10 dakika sonra geri dönseydiniz, elbette hareket etmeyi durdurur” diyor. Sıvıdaki atomlar birbiriyle çarpışacak ve yavaşlayacaktır. “Ama bunu helyumla düşük sıcaklıkta yaptıysanız ve bir milyon yıl sonra geri döndüyseniz, yine de hareket ediyor” diyor.
+Artık sadece sıvı değil, helyum bir süper sıvı haline geldi - sürtünmeden akan bir sıvı. Edmonton'daki Alberta Üniversitesi'nde deneysel bir fizikçi olan John Beamish, “Eğer bir sıvı ile bir bardak ayarlayıp içine doldursaydınız ve 10 dakika sonra geri dönseydiniz, elbette hareket etmeyi durdurur” diyor. Sıvıdaki atomlar birbiriyle çarpışacak ve yavaşlayacaktır. “Ama bunu helyumla düşük sıcaklıkta yaptıysanız ve bir milyon yıl sonra geri döndüyseniz, yine de hareket eder” diyor.
 
 Süperakışkanlık kuantum mekaniğinin mantık dışı kurallarından akıyor. Ama diğer kuantum şeylerin aksine, süper sıvı helyumun tuhaf davranışı çıplak gözle görülebilir.
 
