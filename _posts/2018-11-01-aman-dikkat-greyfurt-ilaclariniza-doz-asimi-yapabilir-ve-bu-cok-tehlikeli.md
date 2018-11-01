@@ -36,6 +36,4 @@ Yaşlı insanlar daha savunmasız olabilirler, çünkü hem ilaç almak hem de d
 
 Normal şartlarda, ilaçlar gastrointestinal sistemde metabolize edilir ve nispeten az emilir, çünkü CYP3A4 adı verilen bağırsaktaki bir enzim bunları etkisizleştirir. Ama greyfurt, furanocoumarins denilen, enzimi inhibe eden doğal kimyasallar içerir ve bu olmadan bağırsak, bir ilacın ve kanın çok daha fazlasını emer.
 
-Örneğin, üç gün boyunca günde bir kez 200-mililitre ya da 6.7 gramlık bir bardak greyfurt suyu içen simvastatini (Zocor marka) alan kişi, rabdomiyoliz riskini artıran ilaç üçlüsünün kan seviyelerini görebilir. böbrek hasarına neden olan kas dökümü.
-
-Estradiol ve etinil estradiol, oral kontraseptiflerde ve hormon replasmanında kullanılan östrojen formları da greyfurt suyu ile etkileşime girer. Lancet dergisindeki bir vakada, doğum kontrol hapını alan 42 yaşındaki bir kadın, bir gün sadece bir greyfurt yemeye başladıktan birkaç gün sonra bacağını tehdit eden çok ciddi bir pıhtı geliştirdi. Dr. Lucinda Grande, bir doktor Lacey, Wash. ve vaka raporunun yazarı.
+Örneğin, üç gün boyunca günde bir kez 200-mililitre ya da 6.7 gramlık bir bardak greyfurt suyu içen simvastatini (Zocor marka) alan kişi, rabdomiyoliz riskini artıran ilaç üçlüsünün kan seviyelerini görebilir ve sonuç böbrek hasarına neden olan kas dökümü olabilir.
