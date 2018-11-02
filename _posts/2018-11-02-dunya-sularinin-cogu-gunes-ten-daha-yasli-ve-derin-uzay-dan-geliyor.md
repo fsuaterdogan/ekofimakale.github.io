@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dünya sularının çoğu Güneş'ten daha yaşlı ve derin uzaydan geliyor."
+title: "Dünya sularının çoğu Güneş'ten daha yaşlı ve derin uzaydan geliyor"
 ---
 DNA'mızdaki azot, dişlerimizde kalsiyum, kanımızdaki demir, elmalı turtalarımızdaki karbon çöken yıldızların iç kısımlarında yapıldı, “Biz yıldızlardan ibaretiz”
 
