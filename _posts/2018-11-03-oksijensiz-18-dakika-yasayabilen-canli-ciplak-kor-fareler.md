@@ -3,9 +3,9 @@ layout: single
 title: "Oksijensiz 18 dakika yaşayabilen olağanüstü canlı: Çıplak kör fareler (Bunu nasıl başarabiliyor?)"
 ---
 
-Çıplak kör fareler, laboratuar hayvanlarının süper kahramanlarıdır. Birkaç yaşlanma belirtisi gösterirler, bazı ağrı türlerine karşı dayanıklıdırlar ve neredeyse hiç kansere yakalanmazlar. Şimdi, bilim adamları başka bir süper güç keşfettiler: Hayvanlar oksijensiz 18 dakikadan fazla yaşayabilirler. Bunu, vücutlarını bir yakıttan diğerine kullanmalarını sağlayarak yaparlar - bu da insanlarda inme ve kalp krizleriyle mücadele etmenin yeni yollarını işaret edebilir.
+Çıplak kör fareler, laboratuvar hayvanlarının süper kahramanlarıdır. Birkaç yaşlanma belirtisi gösterirler, bazı ağrı türlerine karşı dayanıklıdırlar ve neredeyse hiç kansere yakalanmazlar. Şimdi, bilim adamları başka bir süper güç keşfettiler: Hayvanlar oksijensiz 18 dakikadan fazla yaşayabilirler. Bunu, vücutlarını bir yakıttan diğerine kullanmalarını sağlayarak yaparlar - bu da insanlarda inme ve kalp krizleriyle mücadele etmenin yeni yollarını işaret edebilir.
 
-“Bu bir memeli için olağanüstü bir başarıdır,” diyor, çalışmaya dahil olmayan Kanada'daki McMaster Üniversitesi'nde karşılaştırmalı bir egzersiz fizyoloğu olan Grant McClelland.
+“Bu bir memeli için olağanüstü bir başarıdır,” diyor, çalışmaya dahil olmayan Kanada'daki McMaster Üniversitesi'nden Grant McClelland.
 
 Çıplak kör fareler, yüksek seviyelerde karbondioksit veya az oksijen içeren havaya alışılmadık derecede dirençlidir. Fare büyüklüğünde tüysüz memeliler, oksijenin az olduğu yer altındaki yeraltı yuvalarında 300 kişiye kadar kolonilerde yaşamaktadır.
 
