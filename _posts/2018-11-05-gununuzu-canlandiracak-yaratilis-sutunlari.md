@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Gününüzü canlandıracak yaratılış sütunları hakkında 8 gerçek"
+title: "Gününüzü canlandıracak yaratılış sütunları hakkında 3 gerçek"
 ---
 ![image](https://jekko.com/wp-content/uploads/2015/01/2014-pillars-of-creation-cropped.jpg)
 *Kredi: NASA, ESA ve Hubble Miras Ekibi (STScI / AURA)*
 NASA, 5 Ocak 2015'te Hubble Uzay Teleskobu tarafından orijinal olarak 1 Nisan 1995'te yakalanan ikonik bir görüntü olan “Yaratılış Sütunları” nın yüksek çözünürlüklü bir versiyonunu yayınladı. Bu fotoğraf daha keskin, daha geniş bir görüntüde.
 
-İşte Yaratılış Sütunları hakkında 8 gerçek var. 
+İşte Yaratılış Sütunları hakkında 8 gerçek.
 2. Yaratılış Sütunları 6,500 ışıkyılı uzaklıkta.
 -
 ![image](https://jekko.com/wp-content/uploads/2015/01/herschel-pillars-of-creation-image.jpg)
