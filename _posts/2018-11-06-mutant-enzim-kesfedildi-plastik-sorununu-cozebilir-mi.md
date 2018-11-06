@@ -2,7 +2,7 @@
 layout: single
 title: "Mutant enzim keşfedildi, plastiği yıkıyor"
 ---
-[Geçen sene, İspanya'daki araştırmacılar plastik torbadan çıkacak bir çeşit balmumu solucanı keşfettiklerini duyurmuşlardı(https://makale.ekofi.science/plastik-devrinin-sonu/).
+[Geçen sene, İspanya'daki araştırmacılar plastik torbadan çıkacak bir çeşit balmumu solucanı keşfettiklerini duyurmuşlardı](https://makale.ekofi.science/plastik-devrinin-sonu/).
 Şimdi, bunun için mutant enzimler geliştirildi.
 Bu kesinlikle harika - ama muhtemelen plastik sorunumuzu çözemeyecek
 
