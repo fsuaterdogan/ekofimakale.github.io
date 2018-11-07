@@ -12,7 +12,7 @@ C: Çevremiz, yaşam kalitemiz ve ülkemizin geleceği için büyük bir fark ol
 
 Geri Dönüşüm - Çözümün Önemli Bir Parçası
 -
-Alüminyum, kâğıt, cam, plastik ve diğer malzemeleri yeniden kullanarak, üretim ve enerji maliyetlerinden tasarruf edebiliriz ve bakir malzemelerin ekstraksiyonu ve işlenmesinin çevre üzerindeki olumsuz etkilerini azaltabiliriz.
+Alüminyum, kâğıt, cam, plastik ve diğer malzemeleri yeniden kullanarak, üretim ve enerji maliyetlerinden tasarruf edebiliriz ve dokunulmamış malzemelerin ekstraksiyonu ve işlenmesinin çevre üzerindeki olumsuz etkilerini azaltabiliriz.
 
 S: Geri dönüşümün en büyük ekonomik faydası nedir?
 -
@@ -32,7 +32,7 @@ C: Evet yapabilir! Nasıl mı?
 
 Bir ürünü sıfırdan oluşturmak için gerekenleri gösteren büyük resme baktığınızda - hammaddeleri elde etmek, taşımak, işlemek ve bunları üretmek - kağıt, plastik, cam ve metal gibi geri dönüştürülmüş malzemelerle mal üretmek büyük bir enerji tasarrufu.
 
-Geri dönüştürülmüş alüminyumdan imal edilen bir tonluk soda tenekeleri, 21.000 kilovatlık bir süreyi, çıkarılacak, sevk edilecek ve rafine edilecek olan bakire boksit (bozit) cevherini azaltarak 21.000 kilowatt saatten tasarruf ettirir. Bu% 95'lik bir enerji tasarrufu.
+Geri dönüştürülmüş alüminyumdan imal edilen bir tonluk soda tenekeleri, 21.000 kilovatlık bir süreyi, çıkarılacak, sevk edilecek ve rafine edilecek olan dokunulmamış boksit (bozit) cevherini azaltarak 21.000 kilowatt saatten tasarruf ettirir. Bu % 95'lik bir enerji tasarrufu.
 
 Geri dönüştürülmüş plastikten yapılmış bir ton PET plastik kap, yaklaşık 7.200 kilowatt saat tasarruf sağlar.
 
