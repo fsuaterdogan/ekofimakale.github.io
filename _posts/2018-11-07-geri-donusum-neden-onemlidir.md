@@ -18,7 +18,7 @@ S: Geri dönüşümün en büyük ekonomik faydası nedir?
 -
 Y: Geniş anlamda, geri dönüşüm, kaynak verimliliğinin bir parçasıdır - ürünleri en yüksek potansiyel ile kullanmak en büyük faydalarından biridir. Yeni bir ürün üretmek için hammadde yerine geri dönüştürülmüş bir malzeme kullanıldığında, doğal kaynaklar ve enerji korunur. Bunun nedeni, geri dönüştürülmüş materyallerin bir zamanlar rafine edilmiş ve işlenmiş olmasıdır; ikinci kez üretim, ilkinden daha temiz ve daha az enerji yoğundur. Örneğin, geri dönüştürülmüş alüminyum kutular ile yapılan üretim, boksitle aynı miktarda alüminyum üretmekten yüzde 95 daha az enerji kullanır.
 
-Geri dönüşüm toplama yatırımları, devletlere ve bölgelere iş ve yüksek ücret getiren güçlü ve çeşitli geri dönüşüm imalat endüstrisini desteklemektedir. Geri dönüştürülebilir materyallerin toplanması, bir ekonomik faaliyet zincirindeki en kritik bağlantıdır. Yerel tahsilat altyapısına yapılan yatırım, önemli geri dönüşüm ekonomik faaliyetlerini desteklemede büyük kar payı ödüyor. Daha önemlisi, bu geri dönüşüm üreticilerinin çoğu geri dönüşüm programlarından elde edilen istikrarlı ve tutarlı bir geri dönüştürülebilir malzeme tedarikine güvenmektedir.
+Geri dönüşüm toplama yatırımları, devletlere ve bölgelere iş ve yüksek ücret getiren güçlü ve çeşitli geri dönüşüm imalat endüstrisini desteklemektedir. Geri dönüştürülebilir materyallerin toplanması, bir ekonomik faaliyet zincirindeki en kritik bağlantıdır.
 
 S: Geri dönüşümün çevresel faydaları nelerdir?
 -
@@ -52,7 +52,7 @@ Plastik. Bir ton geri dönüştürülmüş plastik 5,774 Kwh enerji, 16.3 varil 
 
 Çelik. Bir ton geri dönüştürülmüş çelik, 642 Kwh enerji, 1,8 varil petrol, 10.9 milyon BTU enerji ve 4 metreküp depolama alanı tasarrufu sağlıyor.
 
-Bardak. Bir ton geri dönüştürülmüş cam, 42 Kwh enerji, 0.12 varil petrol (5 galon), 714.000 BTU enerji, 7.5 lira hava kirleticinin salınmasını ve 2 metreküp depolama alanı tasarrufu sağlar. Cam üretiminde kullanılan hammaddenin% 30'undan fazlası artık geri dönüştürülmüş camdan geliyor.
+Bardak. Bir ton geri dönüştürülmüş cam, 42 Kwh enerji, 0.12 varil petrol (5 galon), 714.000 BTU enerji ve 2 metreküp depolama alanı tasarrufu sağlar. Cam üretiminde kullanılan hammaddenin % 30'undan fazlası artık geri dönüştürülmüş camdan geliyor.
 
 S: Kaynak azaltma ve sera gazı emisyonlarındaki azalma arasındaki bağlantı nedir?
 -
@@ -60,11 +60,11 @@ C: Kullandığınız kağıt miktarını azaltmak sadece maliyet etkin olmakla k
 
 Kaynak Azaltma nedir?
 -
-Genellikle atık önleme olarak adlandırılan kaynak azaltma, belediye katı atık haline gelmeden önce miktarını veya toksisitesini azaltmak için malzeme veya ürünlerin (ambalaj dahil) tasarım, imalat, satın alma veya kullanımındaki herhangi bir değişikliktir. Kaynak indirgeme, ürünlerin veya malzemelerin yeniden kullanımını da içerir.
+Genellikle atık önleme olarak adlandırılan kaynak azaltma, belediye katı atık haline getirmeden önce miktarını veya toksisitesini azaltmak için malzeme veya ürünlerin (ambalaj dahil) tasarım, imalat, satın alma veya kullanımındaki herhangi bir değişikliktir. Kaynak indirgeme, ürünlerin veya malzemelerin yeniden kullanımını da içerir.
 
 Sera Gazı Emisyonlarını Azaltma Emisyonları
 -
-Bir malzemenin kaynağı azaldığında (yani daha az malzeme yapıldığı zaman), malzemeyi yapmak ve atık tüketici atıklarını yönetmek ile ilişkili GHG emisyonları önlenir. Ek olarak, kağıt ürünleri kaynak azaldığında, aksi takdirde hasat edilecek ağaçlar ayakta kalır ve büyümeye devam ederler, böylece ek karbon dioksiti atmosferden temizlerler. Çeşitli yaygın malzemelerin kaynak indirgenmesinden kaynaklanan sera gazı emisyonları, tabloda listelenmiştir.
+Kağıt ürünleri, kaynak azaldığında, hasat edilecek ağaçlar ayakta kalır ve büyümeye devam ederler, böylece ek karbon dioksiti atmosferden temizlerler.
 
 Ne yapabilirsin?
 -
