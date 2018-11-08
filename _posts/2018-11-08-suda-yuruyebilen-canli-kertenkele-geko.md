@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mozart Etkisi"
+title: "Hidrofobik cildi sayesinde suda yürüyebilen canlı: Geko"
 ---
 Cildinin tamamen bir inçten az yapıda hidrofobik olduğu bir canlı var: Geko. Hidrofobik olmayan bir cilt olmadan, çok küçük olduğu için yağmur fırtınasında boğulabilir. Ancak hidrofobik cildi var ve açık su üzerinde yüzebilir.
 
