@@ -16,6 +16,17 @@ Süperakışkanlık kuantum mekaniğinin mantık dışı kurallarından akıyor.
 
 Etkinin anahtarı, helyumun mutlak sıfıra (-459.67 derece F veya -273.15 derece C) kadar sıvı kalması ve atomların teorik olarak hareket etmesinin durduğu sıcaklıktır. Sıvıların çoğu soğutulduğunda, akışkan içindeki atomlar arasındaki hafif çekim en sonunda ısı titreşimlerinin üstesinden gelmeye başlar ve parçacıklar düzenli bir sıraya, yani bir katıya yerleşirler. Fakat helyum atomları, atomik hareketler sessizleştiğinde bile atomların sıfır nokta hareketiyle, kuantum belirsizlik ilkesi tarafından verilen hafif bir momentumla sallanmasına neden olacak kadar hafif ve zayıf bir şekilde çekilir. Bu nedenle, asla katı duruma yerleşmezler.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Helyumun düşük sıcaklıklarda likiditesi, Bose-Einstein yoğuşması denilen, tek tek parçacıkların büyük bir parçacık gibi davranana kadar üst üste bindiği bir dönüşümü gerçekleştirmesini sağlar. Birlik içinde hareket eden atomlar, bireysel atomlar gibi davranmazlar. University Park'taki Pennsylvania Eyalet Üniversitesi'nde aşırı nemlilik inceleyen Moses Chan, “Birlik içinde yürürseniz birbirinizle çarpışmazsınız” diyor.
 
 Araştırmacılar süper sıvı akışkanın iki sıvı, bir normal ve bir süper sıvı karışımı olarak düşünmeyi severler. Farklı deneyler, iki fraksiyonun zıt karakterlerini ortaya çıkarır. En basit "deney", sıvı helyumla dolu bir kap, aniden lambda noktasının altında soğutulduğu ve sürtünmesiz süper akışkan fraksiyonun, normal sıvı fraksiyonunun giremeyeceği mikroskobik çatlaklardan dökülmeye başladığı zaman bir sızıntıya dönüştüğünü izlemektir. ("Süper sızıntılar", ilk günlerden beri sıvı helyumla çalışan bilim adamlarının kanadıydı, Beamish diyor.) Ama aynı helyumu kahve gibi karıştırın ve normal sıvı fraksiyonu harekete direnecek ve süper sıvı karışımına viskozite kazandıracak herşey.
