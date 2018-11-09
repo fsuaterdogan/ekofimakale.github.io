@@ -20,6 +20,17 @@ Altta yatan önyargı
 -
 Araştırmalar iki tür kriptomnezi arasında ayrım yapmış olsa da, sıklıkla birlikte çalışılmışlardır. Bu iki tür intihal **(aşırma, çalma)** arasındaki ayrım, altta yatan önyargıdan sorumludur - özellikle, unutulmuş düşünce mi yoksa düşünülür mü? İlk tür önyargı bir tanıdıklıktır. İntihal, daha önce sunulan bir düşünceyi yeniden üretiyor, ama fikrin özgün bir yaratım olduğuna inanıyor. Yeniden üretilen fikir, bir başkasının fikri ya da önceki bir zamanın kendi fikri olabilir.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 İkinci tip kriptomnezi, başkalarının fikirlerinin kişinin kendisinin hatırladığı bir yazarlık hatasından kaynaklanır. Bu durumda, intihal, fikrin daha erken bir zamanda olduğunu doğru bir şekilde kabul eder, fakat yanlış bir şekilde fikrin kökeni olduğunu hatırlar (ya da "geldiğini" varsayar). Bu iki intihal türünü ayırt etmek için çeşitli terimler ele alınmıştır - kaynak unutma ve üretim hatalarına karşı tanıma hataları. İki tip kriptominin bağımsız olduğu görülmektedir: Hata oranları arasında bir ilişki bulunmamıştır ve iki tip farklı nedenlerle çökelmiştir.
 
 Nedenler
