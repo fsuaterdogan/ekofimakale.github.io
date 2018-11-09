@@ -12,6 +12,17 @@ Laboratuar ve araştırma ekibi keşif yapan Dr Gruber, “Singapur dahil olmak 
 
 Dr Gruber’in ekibi, yaşam süresini etkilediği bilinen birkaç yolu (altta yatan biyolojik mekanizmaları) hedefleyen ilaçları birleştirerek sağlıklı ömrünün ne ölçüde uzatılabileceğini öğrenmek istedi. Örneğin, ilaç rapamisin şu anda vücudun bağışıklık sisteminin nakledilen organları reddetmesini önlemek için organ nakillerini takiben uygulanır, ancak diğer araştırma grupları tarafından yapılan önceki deneyler, C. elegans kurtları, meyve sinekleri de dahil olmak üzere birçok organizmanın ömrünü uzattığını göstermiştir (ve fareler).
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Dr Gruber’in ekibi, C. elegans’a farklı yaşlanma yollarını hedefleyen iki ya da üç bileşiğin kombinasyonlarını uyguladı. Sonuçlar, iki ilaç çiftinin, her bir ilacın tek tek her birinden daha fazla solucanların ortalama ömrünü uzattığını ve üçüncü bir bileşikle kombinasyon halinde, ortalama yaşam sürelerini neredeyse iki katına çıkardığını gösterdi. Bu etki, yetişkin hayvanlarda herhangi bir ilaç müdahalesi için önceden bildirilmiş olan ömür boyu uzatmadan daha büyüktür.
 
 ![image](https://www.yale-nus.edu.sg/wp-content/uploads/2018/10/N2_control2-1024x765.jpg)*Dr. Gruber'in çekmiş olduğu fotoğraf*
