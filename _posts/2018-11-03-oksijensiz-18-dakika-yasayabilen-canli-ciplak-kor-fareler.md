@@ -17,6 +17,17 @@ Hile, çıplak kör farelerinin şekeri nasıl metabolize ettiği ile ilgili ola
 
 Oksijenden yoksun çıplak kör farelerindeki kimyasal değişimleri araştıran araştırmacılar, kandaki iki şekerin, fruktoz ve sukrozun (fruktoz ve glükozdan oluşan bir molekül) keskin bir şekilde daha yüksek seviyelerini buldular. Ve diğer memelilerle karşılaştırıldığında, bu kör fareler, hem fruktozu hücrelere taşıyan bir molekül olan hem GLUT5'in hem de fruktozu glikoliz içine girebilen bir forma dönüştüren bir enzimin vücudunda daha yüksek seviyelere sahipti. Lewin, “Bu, çıplak kör farelerinin oksijen olmadığında glikoz yerine fruktoz kullanmasına izin verir” diyor Lewin.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Fruktoz daha sonraki bir aşamada glikolize girdiği için, oksijen mevcut değilse ve glikolizin ilk adımları bloke edilirse enerji üretimi devam edebilir. McClelland'a göre, oksijen olmadan uzun süre ayakta kalabilen balıklar veya kaplumbağalar bile bu şekilde glikoliz modifiye etmemişlerdir. “Aynı veya benzer çevresel zorluklar için farklı çözümler bulmanın mükemmel bir örneği,” diyor.
 
 “Bu glikozdan fruktoz anahtarına hayran kaldım,” diyor California San Francisco'daki bir araştırma şirketi Calico'da biyolog olan Rochelle Buffenstein. Buffenstein 30 yıldan uzun bir süredir çıplak mol fareleri üzerinde çalışmaktadır ve hayvanların onu şaşırtmayı başardığını söylüyor. Araştırmacılar, düşük oksijenli ortamlardaki diğer hayvanların bu şekilde fruktoz kullanmak için evrimleşmiş olup olmadıklarına bakmaya başlamalıdır, diyor ki, “orada harika, çılgın eleştirmenler dünyası var” diyor.
