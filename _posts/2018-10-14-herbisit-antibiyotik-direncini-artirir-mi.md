@@ -15,6 +15,17 @@ Bu çalışma, kitlesel bir endüstri ölçeğinde kullanılan ancak antibiyotik
 
 “Uzun vadede antibiyotikleri koruyacaksak, antibiyotik kullanımının yanı sıra, bakterilerin modern ortamda maruz kaldığı kimyasalların kombinasyonu da ele alınmalıdır” diyor.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Antibiyotik direnci de önemli ölçüde arttı
 -
 Yeni çalışmanın önemli bir bulgusu, herbisitlerin antibiyotiklerin toksisitesini artırdığı durumlarda bile, antibiyotik direncini de önemli ölçüde arttırmış olmalarıdır. Bu çalışmada, yazarın yazıları hem tarımda hem de ilaçta antibiyotiklerin daha fazla kullanılmasına katkıda bulunabileceğini söylemişlerdir.
