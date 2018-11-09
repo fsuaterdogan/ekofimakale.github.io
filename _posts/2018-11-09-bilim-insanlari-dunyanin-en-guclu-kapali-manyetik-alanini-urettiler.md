@@ -30,7 +30,7 @@ Japon ve Rus deneylerinde, manyetik alanlar elektromanyetik akı-sıkıştırmas
 
 Manyetik alanlarını oluşturmak için TNT kullanmak yerine, Japon araştırmacılar küçük bir bobin tarafından üretilen zayıf bir manyetik alanın saatte yaklaşık 20.000 mil hızla hızla sıkışmasına neden olmak için büyük miktarda enerjiyi (3.2 megajoule) jeneratöre attılar. Bu, jeneratörü kullanarak 4 milyon amperlik akımı beslemeyi içerir, ki bu bir yıldırım cıvatasından binlerce kat daha fazladır. Bu bobin gidecek kadar küçük olduğu zaman, geri sıçramaktadır. Bu, bobinin ve jeneratörün çoğunu yok eden güçlü bir şok dalgası üretir.
 
-Şok dalgasından kendilerini korumak için, Japon araştırmacılar jeneratör için bir demir kafes inşa ettiler. Ancak bunu sadece 700 Tesla dayanacak şekilde inşa ettiler, bu yüzden 1200 Teslas'tan gelen şok dalgası kapının kapısını havaya uçurdu.
+Şok dalgasından kendilerini korumak için, Japon araştırmacılar jeneratör için bir demir kafes inşa ettiler. Ancak bunu sadece 700 Tesla dayanacak şekilde inşa ettiler, bu yüzden 1200 Tesla'dan gelen şok dalgası kapının kapısını havaya uçurdu.
 
 Tokyo Üniversitesi'nden fizikçi Shojiro Takeyama, IEEE Spectrum'a “Bu kadar yüksek olmasını beklemiyordum” dedi. “Bir dahaki sefere kasayı güçlendireceğim.”
 
