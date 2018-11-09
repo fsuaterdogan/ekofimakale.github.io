@@ -17,8 +17,6 @@ Bu, kontrollü, kapalı bir ortamda üretilen en güçlü manyetik alandır, ama
 
 Japon ve Rus deneylerinde, manyetik alanlar elektromanyetik akı-sıkıştırması adı verilen bir teknik kullanılarak üretildi. Bu teknik, manyetik alanın kuvvetinde, daha küçük bir boyuta hızla “sıkıştırarak” kısa bir artışa neden olmaktadır.
 
-Manyetik alanlarını oluşturmak için TNT kullanmak yerine, Japon araştırmacılar küçük bir bobin tarafından üretilen zayıf bir manyetik alanın saatte yaklaşık 20.000 mil hızla hızla sıkışmasına neden olmak için büyük miktarda enerjiyi (3.2 megajoule) jeneratöre attılar. Bu, jeneratörü kullanarak 4 milyon amperlik akımı beslemeyi içerir, ki bu bir yıldırım cıvatasından binlerce kat daha fazladır. Bu bobin gidecek kadar küçük olduğu zaman, geri sıçramaktadır. Bu, bobinin ve jeneratörün çoğunu yok eden güçlü bir şok dalgası üretir.
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -29,6 +27,8 @@ Manyetik alanlarını oluşturmak için TNT kullanmak yerine, Japon araştırmac
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Manyetik alanlarını oluşturmak için TNT kullanmak yerine, Japon araştırmacılar küçük bir bobin tarafından üretilen zayıf bir manyetik alanın saatte yaklaşık 20.000 mil hızla hızla sıkışmasına neden olmak için büyük miktarda enerjiyi (3.2 megajoule) jeneratöre attılar. Bu, jeneratörü kullanarak 4 milyon amperlik akımı beslemeyi içerir, ki bu bir yıldırım cıvatasından binlerce kat daha fazladır. Bu bobin gidecek kadar küçük olduğu zaman, geri sıçramaktadır. Bu, bobinin ve jeneratörün çoğunu yok eden güçlü bir şok dalgası üretir.
 
 Şok dalgasından kendilerini korumak için, Japon araştırmacılar jeneratör için bir demir kafes inşa ettiler. Ancak bunu sadece 700 Tesla dayanacak şekilde inşa ettiler, bu yüzden 1200 Teslas'tan gelen şok dalgası kapının kapısını havaya uçurdu.
 
