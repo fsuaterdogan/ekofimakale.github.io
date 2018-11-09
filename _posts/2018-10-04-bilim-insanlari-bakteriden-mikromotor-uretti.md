@@ -18,6 +18,17 @@ Enerji olarak ışık kullanılıyor.
 -
 Di Leonardo, “Tasarımımız, vahşi tip bakterilere ve düz yapılara dayanan önceki girişimlerle karşılaştırıldığında, yüksek bir dönme hızını dalgalanmada büyük bir azalma ile birleştirir. "En iyi enerji kaynağı olarak ışığı kullanan bağımsız kontrollü rotorların geniş dizilerini üretebiliriz. Bu cihazlar, mikroatrelerde mikroatrelerde ucuz ve tek kullanımlık aktüatörler olarak bir güne hizmet edebilirler.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 İçlerinde bulunan mekanik enerji: Aktif sıvı
 -
 Çok fazla yüzme bakterisi içeren bir sıvıya, içerdiği mekanik enerji nedeniyle "aktif sıvı" denir. Aktif akışkanların mikromakinlerin itilmesi için bir yakıt olarak kullanılması için, bakterilerin düzensiz hareketleri kontrol edilmelidir.
