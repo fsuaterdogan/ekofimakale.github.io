@@ -11,6 +11,17 @@ Terim, Alfred A. Tomatis tarafından ortaya atıldı. Birleşik Devletler Gürci
 
 Rauscher, Shaw ve Ky (1993) Mozart'ın mekansal akıl yürütme konusundaki müziğini dinleme etkisini araştırdı ve sonuçlar yayınlandı. Stanford-Binet IQ testinin mekansal akıl yürütme alt görevleri ile ölçülen mekansal akıl yürütmenin geçici bir iyileştirme olduğu söylendi. Rauscher ve arkadaşları müzik koşulunun güçlendirici etkisinin yalnızca geçici olduğunu söyledi: Hiçbir öğrencinin test ettikleri etki 15 dakikalık sürenin ötesinde olmamıştır.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Campbell; stres, depresyon ve anksiyete olaylarını azaltmak, gevşeme veya uykuyu uyandırmak için genel müzik kullanımını tavsiye eder, ayrıca bu belleği güçlendirir. Müzik ve sesin yenilikçi ve deneysel kullanımı, dinleme bozuklukları, disleksi, dikkat eksikliği bozukluğu, otizm vs. iyileşmesini geliştirebilir.
 
 Mozart'ı buradan dinleyebilirsiniz:
