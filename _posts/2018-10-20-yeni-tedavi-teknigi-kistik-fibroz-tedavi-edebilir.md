@@ -16,6 +16,17 @@ Devam eden test ve onay ile, üçlü ilaç kombinasyonu, kistik fibroz hastalar�
 
 ABD'de yaklaşık 30.000 kişiyi etkileyen kistik fibrozda, tam fonksiyonel CFTR proteininin eksikliği, vücutta sorunlara neden olmaktadır. Normalde, akciğerlerin hava yollarını ve diğer organları kaplayan hücrelerde bulunan protein, bir hücrenin zarında bir kanal görevi görür. Klorür iyonları olarak adlandırılan yüklü parçacıkların yanı sıra suya hücrelere ve dışarıya hareketi düzenler.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Fakat protein işe yaramadığında, akciğerler, istilacıları bakteriler gibi yakalayan yapışkan, kalın mukus ile tıkanır. Sonuç olarak, hastalar zamanla akciğerlere zarar veren ve sonuçta akciğer yetmezliğine yol açan kalıcı enfeksiyonlara sahiptir. Kistik fibrozlu kişilerin yaşam beklentileri, 30 yıldan 50 yıla kadar geniş bir yelpazede değişmektedir.
 
 Yeni üçlü ilaç tedavisi, vücudun başka bir kusurlu CFTR proteini yapmasına neden olan daha nadir bir mutasyona sahip olan hastalar için 2012 yılında onaylanmış olan daha önceki bir ilacın, ivakaferin başarısı üzerine inşa edilmiştir.
