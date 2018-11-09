@@ -16,6 +16,17 @@ Bu yeraltı ağları hakkında ne kadar çok şey öğrenirsek, bitkiler hakkın
 
 Kara bitkilerinin yaklaşık % 90'ı, funguslarla karşılıklı olarak faydalı ilişkidedir. 19. yüzyıl Alman biyolog Albert Bernard Frank, mantarın bitkinin köklerini sömürdüğü bu ortaklıkları tanımlamak için "mikoriza" sözcüğünü belirledi.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Mantarlar 'Dünya'nın doğal interneti' olarak adlandırıldı.
 -
 Bitkiler mantarlara karbonhidratlar şeklinde besin sağlarlar. Buna karşılık, mantarlar bitkilerin su emmesine yardımcı olur ve miselyumları vasıtasıyla fosfor ve azot gibi besinler sağlar. 1960'lardan beri, mikorizaların bireysel bitkilerin büyümesine yardımcı olduğu biliniyordu.
