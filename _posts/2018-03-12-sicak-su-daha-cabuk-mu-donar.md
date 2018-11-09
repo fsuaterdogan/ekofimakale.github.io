@@ -31,6 +31,17 @@ Rene Descartes, Metodolojisi Üzerine Yazdığı Metodunda şunları yazdı: “
 
 ![image](https://www.sciencealert.com/images/articles/processed/mpemba_effect_1024.jpg)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Mpemba'nın gözlemi
 -
 Efekt Tanzanian Erasto Mpemba'dan sonra adlandırılmıştır. 1963'te Magamba Ortaokulu, Tanganyika'nın 3. Formunda, dondurma derslerinde çok sıcak olan dondurma karışımını dondururken ve soğuk karışımdan önce donduğunu fark ettiğinde anlattı. Daha sonra Iringa'da Mkwawa İkincil (eskiden Lise) Okulu'nda öğrenci oldu. Müdür, Dar es Salaam'daki Üniversite Koleji'nden Dr. Denis G. Osborne'u fizik üzerine bir ders vermek üzere davet etti. Dersten sonra, Erasto Mpemba ona soruyu sordu: "Eğer eşit hacimlerde su, biri 35 ° C (95 ° F) ve diğeri 100 ° C'de (212 ° F) iki benzer kap alırsanız bir dondurucuya, 100 ° C (212 ° F) 'de başlayan, ilk önce donar. Neden? ", sadece sınıf arkadaşları ve öğretmenleri tarafından alay edilir. İlk istiladan sonra Osborne meseleyi işyerinde tekrar denedi ve Mpemba'nın bulgusunu doğruladı.
