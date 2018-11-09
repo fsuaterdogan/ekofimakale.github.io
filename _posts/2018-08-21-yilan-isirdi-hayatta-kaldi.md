@@ -20,6 +20,17 @@ Bay Friede yakın zamanda bir taipan ve siyah bir mamba tarafından ısırıldı
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ucpGlWnq8EE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 **Dikkat: Kan, yaralanmalar**
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 2011'de iki ardışık kobra ısırmasından sonra komaya girdi ve neredeyse öldü dendi.
 
 “O kadar kötüydü ki bu aşamada yenebileceğim bu aşamada olmak gerçekten çok güzel” dedi.
