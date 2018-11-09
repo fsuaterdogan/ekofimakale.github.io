@@ -16,6 +16,17 @@ Bilim insanları neler yaptılar
 -
 -20 ° C'de (-4 ° F) bir laboratuarda soğuk depoda yıllarca oturduktan sonra, numuneler, gelişimlerini desteklemek için zenginleştirme kültürü olan bir Petri kabında eritildi. Birkaç hafta boyunca 20 ° C'de (68 ° F) ısıtıldılar ve yeterince emin olduktan sonra, nematodlar tekrar hareket etmeye başladı ve aynı zamanda bir besin kaynağı olarak eklenmiş olan E. coli'yi devirmeye başladılar.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Bilim adamları bir açıklamada, "Verilerimiz, çok hücreli organizmaların uzun süreli (on binlerce yıl) doğal kriyo-koruma koşulları altında kriyobiyozu sürdürebilmelerini sağladığını gösteriyor" diyor. Bu kabiliyetin, Pleistosen nematodlarının, kriyo - kedicik, kryobiyoloji ve astrobiyoloji gibi ilgili bilim alanları için bilimsel ve pratik öneme sahip bazı uyarlamalı mekanizmalara sahip olduğunu öne sürdüğü açıktır.
 
 Canlandırılan nematodların taramalı elektron mikroskobu görüntüleri
