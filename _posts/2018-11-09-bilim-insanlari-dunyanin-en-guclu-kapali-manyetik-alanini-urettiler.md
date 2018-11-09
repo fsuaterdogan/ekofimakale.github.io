@@ -6,7 +6,7 @@ Bilim insanları en güçlü kapalı manyetik alanı oluşturdular ancak yanlı�
 -
 Tokyo Üniversitesi'ndeki araştırmacılar güçlü bir manyetik alan oluşturmayı bekliyorlardı, ancak pazarlık ettiklerinden çok daha fazlasını aldılar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hsu6FG_3adU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hsu6FG_3adU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                                                
 **Sesi kısmanızı öneriririz.**
 
 Bu yılın başlarında, Tokyo Üniversitesi'ndeki araştırmacılar, tarihin en güçlü kontrol edilebilir manyetik alanını kazayla oluşturdular ve bu süreçte laboratuvarlarının kapılarını patlattılar.
@@ -18,6 +18,17 @@ Bu, kontrollü, kapalı bir ortamda üretilen en güçlü manyetik alandır, ama
 Japon ve Rus deneylerinde, manyetik alanlar elektromanyetik akı-sıkıştırması adı verilen bir teknik kullanılarak üretildi. Bu teknik, manyetik alanın kuvvetinde, daha küçük bir boyuta hızla “sıkıştırarak” kısa bir artışa neden olmaktadır.
 
 Manyetik alanlarını oluşturmak için TNT kullanmak yerine, Japon araştırmacılar küçük bir bobin tarafından üretilen zayıf bir manyetik alanın saatte yaklaşık 20.000 mil hızla hızla sıkışmasına neden olmak için büyük miktarda enerjiyi (3.2 megajoule) jeneratöre attılar. Bu, jeneratörü kullanarak 4 milyon amperlik akımı beslemeyi içerir, ki bu bir yıldırım cıvatasından binlerce kat daha fazladır. Bu bobin gidecek kadar küçük olduğu zaman, geri sıçramaktadır. Bu, bobinin ve jeneratörün çoğunu yok eden güçlü bir şok dalgası üretir.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Şok dalgasından kendilerini korumak için, Japon araştırmacılar jeneratör için bir demir kafes inşa ettiler. Ancak bunu sadece 700 Tesla dayanacak şekilde inşa ettiler, bu yüzden 1200 Teslas'tan gelen şok dalgası kapının kapısını havaya uçurdu.
 
