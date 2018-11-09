@@ -28,6 +28,17 @@ Bu son teknoloji, optik iletişimin en uç noktasında, yine de kapasitelerini d
 
 "Bunu daha önce yapmak için, bir makinenin, telekomünikasyon için tamamen pratik olmayan bir büyüklüğünü gerektirmesi gerekir. Milimetrenin bir kısmını ölçen ultra ince topolojik nanotabakalar kullanarak, buluşumuz bu işi daha iyi yapar ve bir optik fiberin ucuna uyar. "
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 OAM ışığı (Orbital angular momentum of light) nedir?
 -
 Orbital açısal momentum ışığı (OAM), polarizasyon üzerinde değil, alan uzamsal dağılımına bağlı olan bir ışık huzmesinin açısal momentumunun bileşenidir. Dahili ve harici bir OAM'a daha da ayrılabilir. Dahili OAM, sarmal veya bükülmüş bir dalga cephesi ile ilişkilendirilebilen bir ışık huzmesinin kökten bağımsız açısal momentumudur. Harici OAM, ışık huzmesi pozisyonunun (kirişin merkezi) çapraz toplamı ve toplam lineer momentum olarak elde edilebilen orijine bağlı açısal momentumdur.
