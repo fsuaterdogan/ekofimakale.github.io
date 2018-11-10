@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni görüntüleme filmi, gelen güneş ısısının yüzde 70'ini reddediyor"
+title: "Yeni saydam görüntüleme filmi, gelen güneş ısısının yüzde 70'ini reddediyor"
 ---
 Pencereleri kaplamak için, klima maliyetlerinden tasarruf etmek için bu malzeme kullanılabilir.
 
