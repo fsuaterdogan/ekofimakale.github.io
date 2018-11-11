@@ -5,7 +5,7 @@ title: "Yeni immünoterapi tekniği geliştirildi, bireysel tümörleri birkaç 
 
 Yeni bir immünoterapi tekniği, T hücresi reseptörlerini, birkaç gün içinde bireysel tümörler için % 100 özgüllükle tanımlamaktadır; bu da, doktorların standart kanser ilaçlarının yan etkileri olmaksızın tümörleri etkin bir şekilde hedeflemesine olanak tanıyacak bireyselleştirilmiş kanser tedavilerini hızla oluşturabilmesini sağlamaktadır.
 
-![image](https://news.uci.edu/wp-content/uploads/2018/11/zhao_03_sz-768x558.jpg)*Steve Zylius / UCI*
+![image](https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/11/62091ba6-cancer.jpg)
 
 Kaliforniya Üniversitesi tarafından geliştirilen yeni bir immünoterapi tarama prototipi olan Irvine araştırmacıları, doktorların standart kanser ilaçlarının yan etkileri olmaksızın tümörleri etkin bir şekilde hedeflemelerine olanak sağlayacak bireyselleştirilmiş kanser tedavileri oluşturabildiler.
 
@@ -28,7 +28,7 @@ Chao Ailesi Kapsamlı Merkezi ve Sue & Bill Gross Kök Hücre Araştırma Merkez
 
 Zhao, geleneksel kanser tedavilerinin, sistemik ve ciddi yan etkilere yol açabilen kemoterapi ilaçları gibi tek-boyutta bir hastalık yanıtı sunduğunu ekledi.
 
-![image](https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/11/62091ba6-cancer.jpg)
+![image](https://news.uci.edu/wp-content/uploads/2018/11/zhao_03_sz-768x558.jpg)*Steve Zylius / UCI*
 
 Daha yeni bir teknoloji olan T hücresi reseptörü (TCR) tarafından yönetilen T hücre terapisi, tümörlere saldırabilmek için hastanın kendi bağışıklık sistemini kullanır. Kanser hücrelerinin yüzeyinde, vücudun bağışıklık sistemi T hücreleri tarafından tanınan antijenler, çıkıntılı moleküller bulunur. Bu yeni tedavi, kanser hücrelerini kanser hücresi antijenlerine bağlayacak ve T hücresinin kanser hücresini tahrip etmesine izin verecek şekilde tasarlanmış T hücreleri üzerinde yapılandırılmış moleküller yerleştirir. TCR tedavisi bireyselleştirilebilir, bu yüzden her hasta, tümör hücreleri için özel olarak tasarlanmış T hücrelerine sahip olabilir.
 
