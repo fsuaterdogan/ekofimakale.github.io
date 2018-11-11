@@ -28,6 +28,8 @@ Chao Ailesi Kapsamlı Merkezi ve Sue & Bill Gross Kök Hücre Araştırma Merkez
 
 Zhao, geleneksel kanser tedavilerinin, sistemik ve ciddi yan etkilere yol açabilen kemoterapi ilaçları gibi tek-boyutta bir hastalık yanıtı sunduğunu ekledi.
 
+![image](https://storage.googleapis.com/mmc-cdn-bucket/uploads/2018/11/62091ba6-cancer.jpg)
+
 Daha yeni bir teknoloji olan T hücresi reseptörü (TCR) tarafından yönetilen T hücre terapisi, tümörlere saldırabilmek için hastanın kendi bağışıklık sistemini kullanır. Kanser hücrelerinin yüzeyinde, vücudun bağışıklık sistemi T hücreleri tarafından tanınan antijenler, çıkıntılı moleküller bulunur. Bu yeni tedavi, kanser hücrelerini kanser hücresi antijenlerine bağlayacak ve T hücresinin kanser hücresini tahrip etmesine izin verecek şekilde tasarlanmış T hücreleri üzerinde yapılandırılmış moleküller yerleştirir. TCR tedavisi bireyselleştirilebilir, bu yüzden her hasta, tümör hücreleri için özel olarak tasarlanmış T hücrelerine sahip olabilir.
 
 Bu antijen-TCR tanıma sistemi çok spesifiktir - yüz milyonlarca farklı TCR molekülü olabilir. TCR-T hücre terapisi gelişimi için büyük bir zorluk, milyonlarca olasılıklı havuzdan belirli TCR moleküllerini tanımlamakta kalmaktadır. Bir eşleşme bulmak bir yıl kadar sürebilir (birçok kanser hastasının sahip olmadığı zaman) ve tedavi başına yarım milyon dolar veya daha fazlaya mal olabilir.
