@@ -4,7 +4,7 @@ title: "Fizikçiler keşfedilen buzun bir saatte 1.000 milin üzerinde nasıl b�
 ---
 Fizikçiler, buzun egzotik bir biçiminin saatte 1.000 milin üzerinde nasıl büyüdüğünü keşfediyor: Fizikçiler, ilk kez “Buz VII” nin nasıl oluştuğunu ve bunun galaksinin başka yerlerindeki yaşam için ne anlama geldiğini araştırıyor.
 
-Ekim ayının başlarında Physical Review Letters dergisinde yayınlanan araştırmalar, “Buz VII” olarak bilinen egzotik bir su fazının, yabancı okyanus dünyalarında bulunan atmosferik koşullar altında saatte 1.000 milin üzerine çıkabileceğini göstermektedir.
+Ekim ayının başlarında Physical Review Letters dergisinde yayınlanan araştırmalar, “Buz VII” olarak bilinen egzotik bir su fazının, yabancı gezegen okyanuslarında bulunan atmosferik koşullar altında saatte 1.000 milin üzerine çıkabileceğini gösteriyor.
 
 Su, üç ana fazda (katı, sıvı ve gaz) bulunur ve kapladığı faz atmosferik basınç ve sıcaklığın bir işlevidir. Katı su formu - buzun kendi kendine ait birçok fazı vardır, ancak bunların çoğu son derece düşük sıcaklıklarda mevcuttur (ancak bazıları basınç yeterince yüksek olduğu sürece 1300 derecelik fahrenhayt sıcaklıklarında bulunabilirler.
 
@@ -45,6 +45,8 @@ LLNL'deki bir fizikçi ve makalenin baş yazarı Philip Myint, “Şok sıkışt
 Bu, ilk defa, bir dizi buz VII deneyinde homojen çekirdeklenmenin “neredeyse anında” oluştuğunu açıklar. Bazı deneylerin, kap ve su arasındaki sınırdan başlayarak buz VII nükleasyonunu göstermesinin nedeni, diğerlerinin örnek boyunca gerçekleştiğini gösterdiğini, numunenin sıcaklığının yanı sıra suya uygulanan basınç seviyeleri ile ilgili olduğunu göstermiştir.
 
 Belirli bir basınç seviyesine kadar buz VII, numunenin kenarlarında oluşmaya başlayacak ve yoluna girecektir. Bu kritik eşiğin ötesinde, buz, örnek boyunca homojen bir şekilde oluşacaktır. Ancak bu, yalnızca sıvı suyun oluşmakta olan buz kristallerinden farklı bir sıcaklık olması durumunda ortaya çıkar. Simülasyonlarında, LLNL fizikçileri ayrıca buz VII'nin, örnek boyunca hızla yayılmadan önce 100 molekül kümelerinde oluştuğunu keşfettiler.
+
+<iframe allowfullscreen frameborder="0" width="698" height="573" scrolling="no" id="molvideoplayer" title="Embed Player" src="https://www.dailymail.co.uk/embed/video/1499333.html"></iframe>
 
 LLNL'de buz VII oluşumu üzerine yapılan çalışma, suyla kaplı olan dışsal gezegenler üzerinde yaşam arayan astrobiyologlara yardımcı olacaktır. Su bildiğimiz kadarıyla yaşam için bir ön koşul olsa da, bazı aşırı durumlarda astrofiziksel fenomenler, bir gezegenin okyanuslarının çoğunun buza dönüştüğü ve hayatın ortaya çıkışını engelleyen bir senaryo ile sonuçlanabilir.
 
