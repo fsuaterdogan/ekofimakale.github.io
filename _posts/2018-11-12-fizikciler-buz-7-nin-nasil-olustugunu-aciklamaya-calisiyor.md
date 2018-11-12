@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fizikçiler Keşfedilen buzun bir saatte 1.000 milin üzerinde nasıl büyüdüğünü keşfettiler"
+title: "Fizikçiler keşfedilen buzun bir saatte 1.000 milin üzerinde nasıl büyüdüğünü keşfettiler"
 ---
 Fizikçiler, buzun egzotik bir biçiminin saatte 1.000 milin üzerinde nasıl büyüdüğünü keşfediyor: Fizikçiler, ilk kez “Buz VII” nin nasıl oluştuğunu ve bunun galaksinin başka yerlerindeki yaşam için ne anlama geldiğini araştırıyor.
 
@@ -23,11 +23,11 @@ Buz fazları, buz kristallerindeki atomların şekline göre ayrılır. Örneği
 
 Buz VII, bu yılın başlarında, dünyanın yüzeyinin 400 milin üzerinde oluşturulmuş elmaslarla kapana kısılmış olarak keşfedildi. Bu tesadüfi keşif, Dünya'nın çekirdeğinde sıvı suyun bulunduğunu, ama aynı zamanda ilk kez buzun bir laboratuvarın dışında görüldüğünü ortaya koydu.
 
+Lawrence Livermore Ulusal Laboratuvarlarındaki teorisyenler, buzun bu egzotik fazın yabancı okyanus gezegenlerinde nasıl oluştuğunu açıklamaya yardımcı olan “çekirdeklenme” olarak bilinen bir süreç olan buzun VII'ye nasıl geçiş gösterdiğini göstermiştir.
+
 ![image](https://video-images.vice.com/articles/5bd3665b3e2dfd0006369cba/lede/1540581019194-ice875x500_0.jpeg?crop=1xw%3A0.9844969644405898xh%3Bcenter%2Ccenter&resize=2000%3A*)*Resim: LLNL*
 
-Şimdi, Lawrence Livermore Ulusal Laboratuvarlarındaki teorisyenler, buzun bu egzotik fazın yabancı okyanus gezegenlerinde nasıl oluştuğunu açıklamaya yardımcı olan “çekirdeklenme” olarak bilinen bir süreç olan buzun VII'ye nasıl geçiş gösterdiğini göstermiştir.
-
-Suyun VII. Faza geçişini incelemek için, çeşitli laboratuvarlardaki araştırmacılar, tipik olarak deniz suyundaki atmosferik basıncın 100.000 katından daha büyük basınçlarda sıvı suları kısaca sıkıştırmak için şok dalgalarını kullanırlar. Bununla birlikte, konu, bu farklı deneylerin, suyun buza nasıl geçiş yaptığını açıklamakta birbiriyle çelişmesidir VII. Örneğin, bir deney buz kabuğunun kabuğunun yüzeyinde oluşmaya başladığını ve daha sonra tüm örnek donduruluncaya kadar yoluna devam ettiğini, diğer deneylerin çoğunun buzun tüm örnek boyunca ve şaşırtıcı derecede hızlı oranlarda homojen olarak oluştuğunu gösterdiğini öne sürdü. . Bir durumda, bir su örneği sadece 10 nanosaniyede buz VII'ye geçti.
+Suyun VII. Faza geçişini incelemek için, çeşitli laboratuvarlardaki araştırmacılar, tipik olarak deniz suyundaki atmosferik basıncın 100.000 katından daha büyük basınçlarda sıvı suları kısaca sıkıştırmak için şok dalgalarını kullanırlar. Bununla birlikte, konu, bu farklı deneylerin, suyun buza nasıl geçiş yaptığını açıklamakta birbiriyle çelişmesidir VII. Örneğin, bir deney buz kabuğunun kabuğunun yüzeyinde oluşmaya başladığını ve daha sonra tüm örnek donduruluncaya kadar yoluna devam ettiğini, diğer deneylerin çoğunun buzun tüm örnek boyunca ve şaşırtıcı derecede hızlı oranlarda homojen olarak oluştuğunu gösterdiğini öne sürdü. Bir durumda, bir su örneği sadece 10 nanosaniyede buz VII'ye geçti.
 
 LLNL'deki bir fizikçi ve makalenin baş yazarı Philip Myint, “Şok sıkıştırma ile yaratılan koşullar, sistemin çekirdeklenmesi için muazzam bir itici güç ürettikleri için sıra dışı.” Dedi. “Sıvı, dengesizlikten öylesine çabuk uzaklaşıyor ki, geçici nükleasyon olarak bilinen bir süreç, kümelerin ortaya çıkması için ek zaman alıyor.”
 
