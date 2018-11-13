@@ -14,7 +14,18 @@ Yeni bir çalışma, düzenli kafein tüketiminin ağrı sinyallerinin işlenmes
  
 62 sağlıklı yetişkinin çalışmasında, daha yüksek diyet kafein tüketiminin, ısı ve basınca karşı duyarlılığın azalmasıyla ilişkili olduğu bulunmuştur.
 
-Çalışmaya katılanlar günlük kafein tüketim günlüklerini ve günlük uyku günlüklerini bir hafta boyunca raportladılar. Ayrıca uyku aktivitelerini izlemek için bileklerinde küçük bir hareket sensörü taktılar. Daha sonra, katılımcılara ağrı duyarlılığı testi uygulandı.
+Çalışmaya katılanlar günlük kafein tüketim günlüklerini ve günlük uyku günlüklerini bir hafta boyunca raporladılar. Ayrıca uyku aktivitelerini izlemek için bileklerinde küçük bir hareket sensörü taktılar. Daha sonra, katılımcılara ağrı duyarlılığı testi uygulandı.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Araştırmacılar, tüketilen her 100 mg'lık günlük kafeinin, ısı ağzı eşiğinde 5 ° C'lik bir artış ve basınç ağrısı eşiğinde 31.2 kilopaskal artışla ilişkili olduğunu bulmuşlardır. Isı ön kollara uygulandı ve kademeli olarak arttı, basınç ise trapeziusa uygulandı.
 
