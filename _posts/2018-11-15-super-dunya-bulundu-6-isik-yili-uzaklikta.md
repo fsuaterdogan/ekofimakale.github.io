@@ -14,7 +14,7 @@ Bu küçük bir dünya
 -
 Bilim adamları 1990'lı yıllara kadar dışsal gezegenlerin varlığını doğrulamamışlarsa da, Hollandalı astronom Peter van de Kamp bundan 30 yıl önce iki dev, büyük gezegenin Barnard'ın Yıldız'ını çevrelediğini ve böylesi yakın dünyaları teyit etmekle ilgilendiğini bildirmişti. Van de Kamp’ın gezegenlerinin neredeyse hiç yok olmadığına dikkat çeken Ribas, yeni gözlem kampanyalar sırasında takımın bu kadar büyük dünyayı farkedeceğini söylüyor. Ancak, küçük gezegenler, bu yakınlardaki yıldızın etrafında dönerek, boyutlarından dolayı onlarca yıldır gizlenmiş olabilirler.
 
-Bize çok yakın yıldızlar için bile, daha küçük dünyaları tespit etmek neredeyse bir teleskopu hedeflemek kadar kolay değildir. NASA'nın üretken Kepler teleskobu yaptığı gibi, gezegensel geçişler aramak gibi bazı teknikler için bu bir ölçek meselesidir: Geçiş dünyalarını görmemizi sağlayan hizalamalar nispeten nadirdir, ancak Kepler yüzlerce binlerce yıldızla dolup taşan bir gökyüzüne bakmaktadır. Nihayetinde binlerce keşif gerçekleştiriyor.
+Çok küçük dünyaları tespit etmek için teleskopu hedeflemek kolay değildir. NASA'nın üretken Kepler teleskobu yaptığı gibi, gezegensel geçişler aramak gibi bazı teknikler için bu bir ölçek meselesidir: Geçiş dünyalarını görmemizi sağlayan hizalamalar nispeten nadirdir, ancak Kepler yüzlerce binlerce yıldızla dolup taşan bir gökyüzüne bakmaktadır. Nihayetinde binlerce keşif gerçekleştiriyor.
 
 Diğer teknikler bu tür hizalamalara güvenmemekte, ancak ortaya çıkarabilecekleri gezegen türlerinde sınırları vardır. Çoğu durumda, gezegenlerin varlığını ortaya koyan sayısız sinyaller, bu dünyalar boyut olarak küçüldükçe daha da zorlaşıyor, diyor Caltech’in Erik Petigura.
 
@@ -22,6 +22,4 @@ Diğer teknikler bu tür hizalamalara güvenmemekte, ancak ortaya çıkarabilece
 
 “Şimdi, yayınladığımız neredeyse 800 ölçümümüz var” diyor. “Orada olan bu çok net sinyale sahibiz, bu yüzden bu periyodikliğin orada olduğuna hiç şüphemiz yok.”
 
-Ama çalışmaları bitmedi. Bir sinyal aldıklarında, ekibin bir gezegen gibi maskelenmesi muhtemel, jiggle, yıldız çukurları veya aktif bölgelerin diğer olası kaynaklarını dışlamak zorunda kaldı. Birçok kırmızı cüce yıldız, önce yörüngedeki bir gezegen gibi gözüken çok sayıda işaret fişeği ve spazm üretir. Ancak gözlemlere dayanarak, Barnard'ın Yıldızı son derece sessiz ve iyi huyludur; bu nedenle Ribas ve ekibi artık tespitlerinde makul ölçüde eminler.
-
-“Bunun yüzde 99'unun gezegensel bir sinyalden olduğuna inanıyoruz - ancak 99'u 100 değil” diyor. “Barnard Star gezegeni gerçekten orada değilse? Pek çok kez vurulacak ve insanlar onu öldürmeye çalışacak, ama bilim bu şekilde çalışıyor.”
+Ama çalışmaları bitmedi. Birçok kırmızı cüce yıldız, önce yörüngedeki bir gezegen gibi gözüken çok sayıda işaret fişeği ve spazm üretir. Ancak gözlemlere dayanarak, Barnard'ın Yıldızı son derece sessiz ve iyi huyludur; bu nedenle Ribas ve ekibi artık tespitlerinde makul ölçüde eminler.
