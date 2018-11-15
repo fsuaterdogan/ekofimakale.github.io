@@ -2,7 +2,7 @@
 layout: single
 title: "Süper-dünya bulundu: 6 ışık yılı uzaklıkta"
 ---
-Potansiyel süper Dünya onlarca yıl sonra avın yakınında bulundu
+Potansiyel süper Dünya onlarca yıl sonra aranılan şeyin yanında bulundu
 -
 Nature dergisinde bugün açıklanan yeni keşfedilen aday gezegen, güneşimizdeki en yakın tek yıldız olan Barnard's Star olarak bilinen şeyleri ortaya çıkardı. İki ışık yılı daha yakın olan ve kendi gezegenine ev sahipliği yapan parlak Alpha Centauri sistemi aslında üç yıldızdan oluşuyor. Aksine, Barnard'ın yıldızı güneşten daha büyük bir küçük kırmızı cüce. İyi bir teleskop olmaksızın görülemiyor - yakın yıldız 1916'ya kadar keşfedilmemişti bile.
 
@@ -24,4 +24,4 @@ Diğer teknikler bu tür hizalamalara güvenmemekte, ancak ortaya çıkarabilece
 
 Ama çalışmaları bitmedi. Bir sinyal aldıklarında, ekibin bir gezegen gibi maskelenmesi muhtemel, jiggle, yıldız çukurları veya aktif bölgelerin diğer olası kaynaklarını dışlamak zorunda kaldı. Birçok kırmızı cüce yıldız, önce yörüngedeki bir gezegen gibi gözüken çok sayıda işaret fişeği ve spazm üretir. Ancak gözlemlere dayanarak, Barnard'ın Yıldızı son derece sessiz ve iyi huyludur; bu nedenle Ribas ve ekibi artık tespitlerinde makul ölçüde eminler.
 
-“Bunun yüzde 99'unun gezegensel bir sinyalden olduğuna inanıyoruz - ancak 99'u 100 değil” diyor. “Barnard Star gezegeni gerçekten orada değilse? Pek çok kez vurulacak ve insanlar onu öldürmeye çalışacak, ama bilim bu şekilde çalışıyor. ”
+“Bunun yüzde 99'unun gezegensel bir sinyalden olduğuna inanıyoruz - ancak 99'u 100 değil” diyor. “Barnard Star gezegeni gerçekten orada değilse? Pek çok kez vurulacak ve insanlar onu öldürmeye çalışacak, ama bilim bu şekilde çalışıyor.”
