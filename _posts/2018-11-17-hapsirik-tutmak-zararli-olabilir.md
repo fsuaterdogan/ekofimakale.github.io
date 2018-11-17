@@ -2,10 +2,10 @@
 layout: single
 title: "Hapşırık tutmak zararlı olabilir: Bir adam hapşırırken burnunu tutarak ve ağzını kapatarak boğazında bir delik açtı!"
 ---
-Bir adam burnunu tutarak ve hapşırırken ağzını kapatarak boğazındaki küçük bir deliği havaya uçurdu. 2 hafta hastanede kaldı.
+Bir adam burnunu tutarak ve hapşırırken ağzını kapatarak boğazında küçük bir delik açtı. 2 hafta hastanede kaldı.
 
 Hapşırmayı içinde tutmak boyunda bir literal ağrı bırakabilir
-
+-
 Hapşırmak üzereyseniz - üstelik sakin bir yerse - doktorlar size rahatça hapşırmanızı tavsiye eder. İngiltere'de 34 yaşında bir isimsiz adam dersini zor yolu seçerek aldı ve ortaya çıkan sakatlığı nedeniyle hastanede iki hafta geçirdi. "Hapşırma sırasında boyunda çatlamaya yol açıyor" başlıklı bir vaka raporu hazırlandı. Rapor Pazartesi günü tıbbi dergi BMJ Olgu Raporlarında yayınlandı.
 
 Rapora göre, bu "daha önce gayet sağlıklı" adam burnunu sıktı ve "güçlü" bir hapşırma sırasında ağzını kapalı tuttu. Daha sonra doktorlara boynunda bir haşlanma hissi hissettiğini söyledi. İlk başlarda hiç sorun görmedi, ama birkaç saat sonra boğazında ve boynunda ağrı hissetti. Şişti ve sesi değişince hastaneye gitti.
