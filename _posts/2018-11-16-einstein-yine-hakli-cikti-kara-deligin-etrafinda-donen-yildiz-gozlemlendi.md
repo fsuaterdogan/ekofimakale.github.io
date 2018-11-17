@@ -12,17 +12,6 @@ Peki bu işin mantığı ne?
 -
 Işık, güçlü bir yer çekimi alanına sahip bir bölgeden kaçarken, dalgaları gerilir ve yerçekimsel kırmızıya kayma olarak bilinen bir süreç ışığı daha kırmızı yapar. Gravity Collaboration olarak bilinen bir ekip olan bilim adamları, yıldızın ışığının genel göreliliğin öngördüğü miktarda kırmızıya kaydığını göstermek için Şili Atacama Çölü'nde bulunan Very Large Telescope dizisini kullandılar.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7868661326160958"
-     data-ad-slot="3072558811"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Bilim insanları daha önce yerçekimsel kırmızıya kayma olayını gözlemlemişlerdi çünkü yerçekimsel kırmızıya kayma hesaba katılmadığında GPS uyduları düzgün çalışmayabiliyor. Ancak böyle bir etki kara deliğin çevresinde hiçbir zaman görülmemiştir.
 
 Samanyolu’nın kalbinde, güneşin yaklaşık 4 milyon katı büyüklüğünde bir kütleye sahip, süper kütleli bir karadelik bulunuyor. Araştırmacılar, 16 yılda bir kara deliğin etrafında eliptik bir yörüngeyi tamamlayan S2 olarak bilinen bir yıldıza sığındılar.
