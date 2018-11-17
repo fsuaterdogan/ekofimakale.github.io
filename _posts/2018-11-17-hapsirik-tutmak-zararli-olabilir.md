@@ -2,6 +2,10 @@
 layout: single
 title: "Hapşırık tutmak zararlı olabilir: Bir adam hapşırırken burnunu tutarak ve ağzını kapatarak boğazında bir delik açtı!"
 ---
+**Başlamadan önce bizleri Twitter'dan takip ederek güncel haberleri alabilirsiniz.**
+<blockquote class="twitter-tweet" data-lang="tr"><p lang="tr" dir="ltr">Hapşırık tutmak zararlı olabilir: Bir adam hapşırırken burnunu tutarak ve ağzını kapatarak boğazında bir delik açtı! <a href="https://twitter.com/hashtag/bilim?src=hash&amp;ref_src=twsrc%5Etfw">#bilim</a> <a href="https://twitter.com/hashtag/bilgi?src=hash&amp;ref_src=twsrc%5Etfw">#bilgi</a> <a href="https://twitter.com/hashtag/sa%C4%9Fl%C4%B1k?src=hash&amp;ref_src=twsrc%5Etfw">#sağlık</a> <a href="https://twitter.com/hashtag/t%C4%B1p?src=hash&amp;ref_src=twsrc%5Etfw">#tıp</a> <a href="https://twitter.com/hashtag/ya%C5%9Fam?src=hash&amp;ref_src=twsrc%5Etfw">#yaşam</a> <a href="https://twitter.com/hashtag/insan?src=hash&amp;ref_src=twsrc%5Etfw">#insan</a> <a href="https://twitter.com/hashtag/biyoloji?src=hash&amp;ref_src=twsrc%5Etfw">#biyoloji</a> | <a href="https://t.co/dIodqHxmuA">https://t.co/dIodqHxmuA</a> <a href="https://t.co/1lpWiAtjMx">pic.twitter.com/1lpWiAtjMx</a></p>&mdash; Ekofi Research TR (@ekofiresearchTR) <a href="https://twitter.com/ekofiresearchTR/status/1063710307103707136?ref_src=twsrc%5Etfw">17 Kasım 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Bir adam burnunu tutarak ve hapşırırken ağzını kapatarak boğazında küçük bir delik açtı. 2 hafta hastanede kaldı.
 
 Hapşırmayı içinde tutmak boyunda bir literal ağrı bırakabilir
