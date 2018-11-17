@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Einstein yine haklı çıktı: Bir kara deliğin etrafında dönen yıldız gözlemlendi ve genel görelilik, süper kütleli bir kara deliğin yakınında ilk kez doğrulandı.
+title: "Einstein yine haklı çıktı: Bir kara deliğin etrafında dönen yıldız gözlemlendi ve genel görelilik, süper kütleli bir kara deliğin yakınında ilk kez doğrulandı."
 ---
 Samanyolu'nun merkezindeki kara deliğin etrafında duran tek bir yıldız, astronomlara, Albert Einstein'ın yerçekimi konusunda haklı olduğuna dair yeni bir kanıt verdi.
 
