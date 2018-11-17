@@ -8,7 +8,9 @@ Samanyolu'nun merkezindeki kara deliğin etrafında duran tek bir yıldız, astr
 
 100 yıldan uzun bir süre önce, Einstein’ın genel görelilik kuramı, yer çekiminin, uzay-zamanın kumaşını eğrilten maddenin sonucu olduğunu ortaya çıkarmıştı. Şimdi, yayınlanan bir makalede, bir grup araştırmacı, genel görelilik ile yerçekimsel kırmızıya kayma olarak bilinen bir işaretin gözlemlendiğini bildiriyor. Ölçüm, genel göreliliğin süper kütleli bir kara deliğin yakınında ilk kez doğrulandığının kanıtı nitelikte.
 
-Işık, güçlü bir yer çekimi alanına sahip bir bölgeden kaçarken, dalgaları gerilir ve yerçekimsel kırmızıya kayma olarak bilinen bir süreç ışığı daha kırmızı yapar. Gravity collaboration olarak bilinen bir ekip olan bilim adamları, yıldızın ışığının genel göreliliğin öngördüğü miktarda kırmızıya kaydığını göstermek için Şili Atacama Çölü'nde bulunan Very Large Telescope dizisini kullandılar.
+Peki bu işin mantığı ne?
+-
+Işık, güçlü bir yer çekimi alanına sahip bir bölgeden kaçarken, dalgaları gerilir ve yerçekimsel kırmızıya kayma olarak bilinen bir süreç ışığı daha kırmızı yapar. Gravity Collaboration olarak bilinen bir ekip olan bilim adamları, yıldızın ışığının genel göreliliğin öngördüğü miktarda kırmızıya kaydığını göstermek için Şili Atacama Çölü'nde bulunan Very Large Telescope dizisini kullandılar.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -21,11 +23,11 @@ Işık, güçlü bir yer çekimi alanına sahip bir bölgeden kaçarken, dalgala
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Bilim insanları daha önce yerçekimsel kırmızıya kayma olayını gözlemlemişlerdi. Yerçekimsel kırmızıya kayma hesaba katılmadığında GPS uyduları düzgün çalışmayabilir. Ancak böyle bir etki kara deliğin çevresinde hiçbir zaman görülmemiştir.
+Bilim insanları daha önce yerçekimsel kırmızıya kayma olayını gözlemlemişlerdi çünkü yerçekimsel kırmızıya kayma hesaba katılmadığında GPS uyduları düzgün çalışmayabiliyor. Ancak böyle bir etki kara deliğin çevresinde hiçbir zaman görülmemiştir.
 
 Samanyolu’nın kalbinde, güneşin yaklaşık 4 milyon katı büyüklüğünde bir kütleye sahip, süper kütleli bir karadelik bulunuyor. Araştırmacılar, 16 yılda bir kara deliğin etrafında eliptik bir yörüngeyi tamamlayan S2 olarak bilinen bir yıldıza sığındılar.
 
-![image](https://www.sciencenews.org/sites/default/files/2018/07/072518_EC_black-hole_inline_730.jpg)*Birsürü yıldız, bu simülasyonda gösterilen Samanyolu’nun süper kütleli kara deliğini yörüngede gösteriyor. Kredi: L. CALÇADA / SPACEENGINE.ORG / ESO*
+![image](https://www.sciencenews.org/sites/default/files/2018/07/072518_EC_black-hole_inline_730.jpg)*Bir sürü yıldız, bu simülasyonda gösterilen Samanyolu’nun süper kütleli kara deliğini yörüngede gösteriyor. Kredi: L. CALÇADA / SPACEENGINE.ORG / ESO*
 
 Mayıs 2018'de yıldız, çok hızlı bir şekilde kara deliğe yaklaşım yaptı. O noktada, yıldız kara deliğe sadece 20 milyar kilometre uzaktaydı. Bu kulağa çok uzak gelebilir, ancak güneş ile Neptün arasındaki mesafenin sadece dört katı kadardır.
 
