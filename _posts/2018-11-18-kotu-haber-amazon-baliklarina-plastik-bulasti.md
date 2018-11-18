@@ -2,12 +2,12 @@
 layout: single
 title: "Kötü haber: Amazon balıklarına plastik bulaştı"
 ---
-Maalesef: Bilim insanları Amazon'daki tatlı su balıklarındaki ilk plastik bulaşma kanıtını buldular. Brezilya’nın büyük kollarından biri olan Brezilya’nın Xingu Nehri’ndeki balıkların mide içeriğinin test edilmesi, incelenen türlerin % 80’inden fazlasında plastik parçacıkların tüketimini ortaya çıkardı.
+Maalesef, bilim insanları Amazon'daki tatlı su balıklarındaki ilk plastik bulaşma kanıtını buldular. Brezilya’nın büyük kollarından biri olan Brezilya’nın Xingu Nehri’ndeki balıkların mide içeriğinin test edilmesi, incelenen türlerin % 80’inden fazlasında plastik parçacıkların tüketimini ortaya çıkardı.
 
 Brezilya'daki bilim insanları Amazon havzasındaki tatlı su balıklarındaki ilk plastik kirliliği buldu
 -
  Kırmızı karınlı piranha (Pygocentrus nattereri), Xingu Nehri'nde plastiklerin bulaştığı tespit edilen bir türdür. 
-Bilim insanları Amazon'daki tatlı su balıklarındaki plastik kontaminasyonun ilk kanıtlarını buldular ve bu durum nehirlerdeki çöplerin, şişelerin ve diğer atıkların dünyadaki vahşi hayatı etkilediğini vurgulamaktadır.
+Bilim insanları Amazon'daki tatlı su balıklarındaki plastik kontaminasyonun ilk kanıtlarını buldular ve bu durum nehirlerdeki çöplerin, şişelerin ve diğer atıkların dünyadaki vahşi hayatı etkilediğini vurgular.
 
 Brezilya'nın en büyük kollarından biri olan Brezilya'nın Xingu Irmağı'ndaki balıkların mide içeriğine ilişkin testler, omnivor papağan pacu, otçul ekşimsi gümüş dolar ve et yiyen kırmızı da dahil olmak üzere incelenen türlerin % 80'inden fazlasında plastik parçacıklar ortaya çıkardı.
 
