@@ -3,7 +3,7 @@ layout: single
 title: "Bilim insanları "çift" etkili kanser öldürücü virüs keşfettiler"
 ---
 Bilim insanları tarafından geliştirilen çift etkili kanser öldürücü virüs
--
+
 Virüs, en yaygın kanser türü olan karsinomları hedefler ve iç organları kaplayan veya kaplayan deri veya dokulardaki hücrelerde başlar.
 
 Bilim insanları, karsinom (Karsinom, tıpta, dokularda oluşan herhangi bir kanser, habis tümöral kütleye verilen isim) hücrelerini bir proteinle öldüren bir virüs keşfettiler. Bu sayede, bağışıklık sisteminden kanseri korumak ve onu büyüme faktörleri - besin maddeleri ile beslemek üzere kandırılan hücreleri hedefleyip öldürebilirler.
