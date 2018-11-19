@@ -10,7 +10,7 @@ Bilim insanları, karsinom (Karsinom, tıpta, dokularda oluşan herhangi bir kan
  
 Oxford Üniversitesi'ndeki araştırmacılar, katı tümörlerde kansere bağlı fibroblastların ilk defa bu şekilde spesifik olarak hedef alındığını söylediler.
 
-Daha fazla güvenlik testi başarılı olursa daha fazla inanacaklar çünkü insan kanser numunelerinde ve farelerde test ettikleri çift-eylemli virüs, gelecek yıllardaki gibi karsinomlu insanlarda test edilebilir.
+Daha fazla güvenlik testi başarılı olursa bu sisteme daha fazla inanacaklar çünkü insan kanser numunelerinde ve farelerde test ettikleri çift-eylemli virüs, gelecek yıllardaki gibi karsinomlu insanlarda test edilebilir.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
