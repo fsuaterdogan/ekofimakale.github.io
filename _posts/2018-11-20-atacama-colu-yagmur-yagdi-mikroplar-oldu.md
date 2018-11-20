@@ -6,7 +6,7 @@ Asırda ilk kez yağmur Atacama Çölü'ne düştüğünde, bilim insanları ya�
 
 Şok edici keşif bu hafta Bilimsel Raporlar dergisinde yayınlandı. Kuzey Şili'de bulunan Atacama Çölü'nde, son 500 yıldır yağmur yağmamıştı. Fakat üç yıl önce, bölgede yeniden yağmur yağmaya başladı.
 
-![image](https://cdn.pixabay.com/photo/2013/01/11/01/22/landscape-74572_960_720.jpg)
+![image](https://i.hizliresim.com/EmQOWq.jpg)
 
 Bitirici yağmurlar
 -
