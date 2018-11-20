@@ -12,7 +12,7 @@ Yüzlerce yıl içinde ilk kez Şili'deki Atacama Çölü'nde yağmur yağdı ve
 
 ![image](https://i.hizliresim.com/y62GoL.jpg)*Şili'deki Atacama Çölü'nde çok nadir bir gökkuşağı. Kredi: Carlos González-Silva*
 
-Bu tür yağmurların çiçekler ve yeni yaşam tarafından takip edileceğini düşünmek doğal görünebilir. Ancak, uluslararası bir gezegensel astrobiyolog ekibi bu yağışın bölgedeki mikrobiyal yaşamın çoğunu öldürdüğünü keşfettiler.
+Bu tür yağmurların çiçekler ve yeni yaşam tarafından takip edileceğini düşünmek doğal görünebilir. Ancak, uluslararası bir gezegensel astrobiyolog ekibi bu yağışın bölgedeki mikrobiyal yaşamın çoğunu öldürdüğünü keşfetti.
 
 “Yağmurlar Atacama'ya geldiğinde, görkemli çiçeklenmeler oluşacağını ve çöllere hayat vereceğini umut ediyorduk. Bunun aksine, Atacama Çölü'nde yağmurun, orada yerli mikrobiyal türlerin çoğunun büyük bir yok olmasına neden olduğunu bulduk" ifadesinde, bir astrobiyolog olan Alberto Fairen bir açıklamada bulundu.
 
