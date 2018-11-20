@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Atacama Çölü'ne 500 yılda ilk kez yağmur yağdı, ama kötü haber: Bu haber canlılaşmanın değil aynı zamanda ölümün işareti"
+title: "Atacama Çölü'ne 500 yılda ilk kez yağmur yağdı, ama kötü haber: Bu haber canlılaşmanın değil ölümün işareti"
 ---
 Asırda ilk kez yağmur Atacama Çölü'ne düştüğünde, bilim insanları yaşam görmeyi beklediler. Bunun yerine neredeyse her şey öldü.
 
