@@ -6,17 +6,19 @@ Asırda ilk kez yağmur Atacama Çölü'ne düştüğünde, bilim insanları ya�
 
 Şok edici keşif bu hafta Bilimsel Raporlar dergisinde yayınlandı. Kuzey Şili'de bulunan Atacama Çölü'nde, son 500 yıldır yağmur yağmamıştı. Fakat üç yıl önce, bölgede yeniden yağmur yağmaya başladı.
 
+![image](https://cdn.pixabay.com/photo/2013/01/11/01/22/landscape-74572_960_720.jpg)
+
 Bitirici yağmurlar
 -
 Yüzlerce yıl içinde ilk kez Şili'deki Atacama Çölü'nde yağmur yağdı ve kitlesel yok oluşa neden oldu.
-
-![image](https://i.hizliresim.com/y62GoL.jpg)*Şili'deki Atacama Çölü'nde çok nadir bir gökkuşağı. Kredi: Carlos González-Silva*
 
 Bu tür yağmurların çiçekler ve yeni yaşam tarafından takip edileceğini düşünmek doğal görünebilir. Ancak, uluslararası bir gezegensel astrobiyolog ekibi bu yağışın bölgedeki mikrobiyal yaşamın çoğunu öldürdüğünü keşfetti.
 
 “Yağmurlar Atacama'ya geldiğinde, görkemli çiçeklenmeler oluşacağını ve çöllere hayat vereceğini umut ediyorduk. Bunun aksine, Atacama Çölü'nde yağmurun, orada yerli mikrobiyal türlerin çoğunun büyük bir yok olmasına neden olduğunu bulduk" ifadesinde, bir astrobiyolog olan Alberto Fairen bir açıklamada bulundu.
 
 2015 yılında meydana gelen yağışlardan önce, bu kurak, Mars benzeri çölde, bilim adamları 16 farklı mikrop türünün bulunduğunu tahmin ediyorlardı. Fakat yağmurdan sonra sadece iki ila dört tür kaldı. Fairen, “Yok olma olayı çok büyüktü."
+
+![image](https://i.hizliresim.com/y62GoL.jpg)*Şili'deki Atacama Çölü'nde çok nadir bir gökkuşağı. Kredi: Carlos González-Silva*
 
 Tarihi yağış
 -
