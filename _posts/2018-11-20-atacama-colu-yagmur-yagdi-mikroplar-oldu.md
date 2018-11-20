@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Atacama Çölü'ne 500 yılda ilk kez yağmur yağdı, ama kötü haber: Bu haber canlılaşmanın değil aynı zamanda mikroplar için ölümün işareti"
+title: "Atacama Çölü'ne 500 yılda ilk kez yağmur yağdı, ama kötü haber: Bu haber canlılaşmanın değil aynı zamanda ölümün işareti"
 ---
-Asırda ilk kez yağmur Atacama Çölü'ne düştüğünde, bilim adamları yaşamı görmeyi beklediler. Bunun yerine neredeyse her şey öldü.
+Asırda ilk kez yağmur Atacama Çölü'ne düştüğünde, bilim insanları yaşam görmeyi beklediler. Bunun yerine neredeyse her şey öldü.
 
 Şok edici keşif bu hafta Bilimsel Raporlar dergisinde yayınlandı. Kuzey Şili'de bulunan Atacama Çölü'nün kurak çekirdeği, son 500 yıldır yağmur yağmamıştı. Fakat üç yıl önce, bölgede yeniden yağmur yağmaya başladı.
 
@@ -14,11 +14,22 @@ Yüzlerce yıl içinde ilk kez Şili'deki Atacama Çölü'nde yağmur yağdı ve
 
 Bu tür yağmurların çiçekler ve yeni yaşam tarafından takip edileceğini düşünmek doğal görünebilir. Ancak, uluslararası bir gezegensel astrobiyolog ekibi bu yağışın bölgedeki mikrobiyal yaşamın çoğunu öldürdüğünü buldu.
 
-“Yağmurlar Atacama'ya geldiğinde, görkemli çiçeklenmeler oluşacağını ve çöllere hayat vereceğini umut ediyorduk. Bunun aksine, Atacama Çölü'nün hiper-kurak çekirdeğindeki yağmurun, orada yerli mikrobiyal türlerin çoğunun büyük bir yok olmasına neden olduğunu bulduğumuz gibi, tersini öğrendik, ”ifadesinde, bir astrobiyolog olan ortak yazar Alberto Fairen bir açıklamada bulundu.
+“Yağmurlar Atacama'ya geldiğinde, görkemli çiçeklenmeler oluşacağını ve çöllere hayat vereceğini umut ediyorduk. Bunun aksine, Atacama Çölü'nün hiper-kurak çekirdeğindeki yağmurun, orada yerli mikrobiyal türlerin çoğunun büyük bir yok olmasına neden olduğunu bulduğumuz gibi, tersini öğrendik" ifadesinde, bir astrobiyolog olan Alberto Fairen bir açıklamada bulundu.
 
 2015 yılında meydana gelen yağışlardan önce, bu kurak, Mars benzeri çölde, bilim adamları 16 farklı mikrop türünün bulunduğunu tahmin ediyorlardı. Fakat yağmurdan sonra sadece iki ila dört tür kaldı. Fairen, “Yok olma olayı çok büyüktü.
 
 Fairen, “Sonuçlarımız, ilk defa aniden büyük miktarlarda suyun mikroorganizmalara sağlanmasının - en hüzünlü ortamlarda yetersiz ve zorlu nemin elde edilmesi için mükemmel bir şekilde uyarlanmasının - bunları ozmotik şoktan öldüreceğini gösteriyor” dedi. Burada ozmotik şok, bir hücrenin zarından geçirdiği ani bir su akışını ifade eder. Sel, kelimenin tam anlamıyla bakterilerin patlamasına neden olabilir.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Tarihi yağış
 -
