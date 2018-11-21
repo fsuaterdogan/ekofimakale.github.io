@@ -12,15 +12,37 @@ Bu sonuca ulaşmak için, 23 bilim insanı ekibi ve 3,000'den fazla bilimsel hak
 
 Çoğu çalışma iklim değişikliğinden kaynaklanan bir veya iki tehdite odaklanırken, bu makale etkilerini bir araya getirmekte ve tehditlerin nasıl izole edilmediğini, aksine birbirinin üzerine nasıl birleşik olduğunu göstermektedir.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 “İklim değişikliği, örneğin ısı dalgaları ya da şiddetli fırtınalar gibi en doğrudan tehditleri ele alırsak, kaçınılmaz olarak daha geniş toplumsal tehditlere bile sahip olabilecek daha büyük tehditlerle körleştirilecektir.” - Jonathan Patz, Wiscons Üniversitesi Küresel Sağlık Enstitüsü profesörü ve direktörü.
 
-Dünyanın tüm bölgeleri birleşik tehditlerle karşı karşıyayken, Kaliforniya ve Florida iki önemli örnektir.
+Dünyanın tüm bölgeleri birleşik tehditlerle karşı karşıyayken, Kaliforniya ve Florida iki önemli örnektir. *(bknz. Orman yangınları)*
 
 İklim değişikliğinin nasıl karma bir problem olduğunu görmek çok kolay. Isı, daha büyük yangınların alevlenmesine yardımcı olan kuraklığa yol açar. Yangınlar doğrudan duman inhalasyonu yoluyla hastalığa neden olurken, aynı zamanda barınma ve geçim kaybı ile sigorta kaybına ve / veya tıbbi bakım için ödeme yapılmamasına neden olur. Bu tür bir bileşik ya da domino etkisi meydana geldiğinde, topluma kümülatif zarar daha fazla gelir.
 
 Isıyı kesen sera gazları artmaya devam ettikçe, tehditler önümüzdeki on yıllarda çoğaltılacak. Mora ve ekibi, değişen sera gazı konsantrasyonlarına bağlı olarak değişen iklim koşullarından dünya çapındaki riskleri haritalamak için etkileşimli bir araç geliştirdi.
 
 Araştırma projesi, “… çok sayıda iklim tehlikesine maruz kalmanın, zengin ve fakir ülkeler arasında çok benzer olacağını, ancak uyarlanabilir kapasitedeki değişikliklerin muhtemelen farklı etkilere yol açacağını gösterdi.Örneğin, gelişmiş ülkeler için daha yüksek ekonomik kayıp ve daha yüksek kayıp gelişmekte olan ülkeler için hayat. "
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o5dBHhH4wIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **YouTube'da bu ilginç videoyu izleyebilirsiniz**
