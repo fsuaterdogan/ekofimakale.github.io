@@ -12,7 +12,8 @@ Avusturya Bilimler Akademisi ve Innsbruck Üniversitesi ile işbirliği içinde,
 
 Bununla birlikte, bu çalışma, onaltı yüzyılda Michael Faraday ve James Clerk Maxwell'in seminal çalışmalarına geri dönen dört Maxwell koşulundan çıkan, manyetik kaplinlerin uzun süredir devam eden inançlarına karşı çıkıyor.
 
-![image](https://www.techexplorist.com/wp-content/uploads/2018/11/3-D-printed-model-of-Dr-Jordi-Prat-Camps-696x418.jpg)*Dr Jordi Prat-Camps denemesi modeli ile Kredi: Sussex Üniversitesi*
+![image](https://www.techexplorist.com/wp-content/uploads/2018/11/3-D-printed-model-of-Dr-Jordi-Prat-Camps-696x418.jpg)*Dr Jordi Prat-Camps denemesi modeli ile Kredi: Sussex Üniversitesi*                                               
+
 Sussex Üniversitesi'nde araştırma görevlisi olan Dr. Jordi Prat-Camps: “Manyetik alanlar için bir diyot gibi davranan ilk cihazı oluşturduk. Elektrik diyotları o kadar önemlidir ki, mikroçipler, bilgisayarlar veya cep telefonları gibi mevcut elektronik teknolojilerin hiçbiri onlar olmadan mümkün olmaz.”
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -34,4 +35,4 @@ Prat-Camps: “Mıknatıslar veya devreler arasındaki manyetik bağlantı son d
 
 Bilim insanları, çalışmanın geniş etkileri olabileceğini düşünüyor.
 
-Innsbruck fizikçileri Oriol Romero-Isart ve Gerhard Kirchmair şunları söyledi: “Bobinler arasındaki bağlantı simetrik ise, enerjinin bir kısmı da aktarma verimliliğini büyük ölçüde azaltabilen zıt yönde akabilir. Bu geri akışı önlemek için manyetik bir diyot kullanarak, aktarımın verimliliği büyük ölçüde artırılabilir. ”
+Innsbruck fizikçileri Oriol Romero-Isart ve Gerhard Kirchmair şunları söyledi: “Bobinler arasındaki bağlantı simetrik ise, enerjinin bir kısmı da aktarma verimliliğini büyük ölçüde azaltabilen zıt yönde akabilir. Bu geri akışı önlemek için manyetik bir diyot kullanarak, aktarımın verimliliği büyük ölçüde artırılabilir.”
