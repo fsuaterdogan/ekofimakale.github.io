@@ -109,9 +109,10 @@ Bellek saray tekniği ile, apartman daireniz, büyüdüğünüz blok veya işini
 
 Bellek saray tekniğini kullanmak için:
 
-Hafıza sarayının önünde durduğunu hayal et. Eviniz, saray olmasa bile başlamak için harika bir yerdir.
-Akılda kalmak istediğiniz şeyleri saklamak için kullanabileceğiniz ayırt edici özellikleri fark ederek bu saraydan zihinsel olarak yürüyün. Bu yoldaki her durak, fikri veya nesneyi yerleştirebileceğiniz bir "konum" dur. Örneğin, ön kapınız bir loci, masa ikinci bir loci, veya oturma odanızda bir lamba olabilir. Bu özellikleri belleğe iletin, böylece sarayınızı düşündüğünüzde, rota ve içindeki nesneler aklınızda bulunacaktır.
-Saraydaki loci ile hatırlaman gerekenleri birleştir. Bir bakkal listeniz varsa, örneğin, ön kapıda, bir süt şelalesi gibi, içeriden kapıdan süzülen süt resmi olabilir. Sonra masaya gidersiniz, masa tavana yığılmış bütün çikolata parçacıklılarının ağırlığı altında çöküyor. Ve oturma odanızda bir ampul yerine, flüoresan sarı muzları görüyorsunuz.
+- Hafıza sarayının önünde durduğunu hayal et. Eviniz, saray olmasa bile başlamak için harika bir yerdir.
+- Akılda kalmak istediğiniz şeyleri saklamak için kullanabileceğiniz ayırt edici özellikleri fark ederek bu saraydan zihinsel olarak yürüyün. Bu yoldaki her durak, fikri veya nesneyi yerleştirebileceğiniz bir "konum" dur. Örneğin, ön kapınız bir loci, masa ikinci bir loci, veya oturma odanızda bir lamba olabilir. Bu özellikleri belleğe iletin, böylece sarayınızı düşündüğünüzde, rota ve içindeki nesneler aklınızda bulunacaktır.
+- Saraydaki loci ile hatırlaman gerekenleri birleştir. Bir bakkal listeniz varsa, örneğin, ön kapıda, bir süt şelalesi gibi, içeriden kapıdan süzülen süt resmi olabilir. Sonra masaya gidersiniz, masa tavana yığılmış bütün çikolata parçacıklılarının ağırlığı altında çöküyor. Ve oturma odanızda bir ampul yerine, flüoresan sarı muzları görüyorsunuz.
+                                                   
 Kulağa oldukça saçma geliyor, ama daha sonra tartışacağımız gibi, daha görsel, cana yakın ve çirkin anılarınızı daha iyi hale getirebilirsiniz.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
