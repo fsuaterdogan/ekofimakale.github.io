@@ -8,7 +8,9 @@ Bilim insanları ve filozoflar insan belleğinin en az 2.000 yıl boyunca nasıl
 
 Belleğinizi iyileştirebilecek yaşam tarzı değişiklikleri
 -
-Genel olarak, daha iyi bir uyku, düzenli egzersiz ve daha iyi beslenme ile genel sağlığınızı arttırmak, beyninizin sağlığını (ayrıca hafıza dahil) ve fiziksel sağlığınızı da iyileştirir. Hadi hep beraber yakından inceleyelim
+Genel olarak, daha iyi bir uyku, düzenli egzersiz ve daha iyi beslenme ile genel sağlığınızı arttırmak, beyninizin sağlığını (ayrıca hafıza dahil) ve fiziksel sağlığınızı da iyileştirir. Hadi hep beraber yakından inceleyelim.
+
+![image](http://www.selecteventsolutions.com/wp-content/uploads/2017/02/mind-palace-blog-1600x1067.jpg)
 
 1. Uyku
 -
