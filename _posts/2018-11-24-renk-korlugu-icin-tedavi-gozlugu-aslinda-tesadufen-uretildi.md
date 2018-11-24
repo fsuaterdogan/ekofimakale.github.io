@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Araştırmacı renk körlüğü için tedavi gözlüğünü tesadüfen üretmiş!"
+title: "Araştırmacı renk körlüğü için tedavi gözlüğünü aslında tesadüfen üretmiş!"
 ---
 Lazer göz ameliyatı yapan doktorlar için göz koruyucu gözlük geliştirmeye çalışan araştırmacı, frizbi oynarken arkadaşının onları ödünç almasına izin verdi ve arkadaşı ona renk körlüğünü iyileştirdiğini söyledi.
 
