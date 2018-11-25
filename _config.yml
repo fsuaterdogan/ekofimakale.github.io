@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ekofi Bilim"
-  avatar           : #"/assets/images/t-azure.png"
+  avatar           : "/assets/images/op5_default_v1_4k.png"
   bio              : "Her hayal bir dünyadır."
   location         : 
   email            : "ferhat@ekofi.science"
