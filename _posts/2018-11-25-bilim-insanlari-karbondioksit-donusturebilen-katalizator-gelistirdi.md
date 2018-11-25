@@ -4,7 +4,7 @@ title: "Bilim insanları katalizör geliştirdi: Küresel ısınmanın ana sebeb
 ---
 Rutgers bilim insanları, küresel ısınmanın ana sebebi olan karbondioksiti plastikler, kumaşlar, reçineler ve diğer ürünlere dönüştüren katalizörler geliştirdiler. Yapay fotosentez kimyasına dayanan keşif, Energy & Environmental Science dergisinde detaylandırıldı.
 
-Elektro katalizörler, enzimlerden başka, karbon dioksiti ve suyu yüzde 99'dan fazla verim ile bir, iki, üç veya dört karbon atomu içeren karbon yapı taşlarına dönüştürebilen ilk malzemelerdir. Araştırmacılar tarafından üretilen iki ürün - methylglyoxal (C3) ve 2,3-furandiol (C4) - plastikler, yapıştırıcılar ve eczacılık ürünleri için öncüler olarak kullanılabilir. Zehirli formaldehit, daha güvenli olan metilglikoksal ile ikame edilebilir.
+Elektro katalizörler, enzimlerden başka, karbon dioksiti ve suyu yüzde 99'dan fazla verim ile bir, iki, üç veya dört karbon atomu içeren karbon yapı taşlarına dönüştürebilen ilk malzemelerdir. Araştırmacılar tarafından üretilen iki ürün - methylglyoxal (C3) ve 2,3-furandiol (C4) - plastikler, yapıştırıcılar ve eczacılık ürünleri için öncüler olarak kullanılabilir.
 
 ![image](https://news.rutgers.edu/sites/medrel/files/inline-img/CarbonProcess-BigPicture-01%20%281%29.png)*Image: Karin Calvinho/Rutgers University-New Brunswick*
 
