@@ -6,9 +6,7 @@ Alzheimer hastalığının en büyük genetik çalışmasında, St. Louis'deki W
 
 Washington Üniversitesi Tıp Fakültesi. Louis ve Kaliforniya Üniversitesi, San Francisco tarafından yönetilen bir uluslararası araştırmacılar ekibi, 1,5 milyondan fazla insanın DNA'sını araştırdı ve bu sonuca ulaştılar.
 
-image * Normalde kardiyovasküler hastalıklar ile bağlantılı bir molekül *
-
-Bilim adamları uzun zamandır kolesterol ve lipit metabolizması ve Alzheimer hastalığında yer alan APOE geninin varyasyonları arasındaki bağlantılardan haberdar olmuştur. Bu genin bazı hastalarda Alzheimer hastalığı riskini ikiye katladığı ve diğerlerinde 12 kata kadar risk oluşturduğu bilinmektedir. Ancak yeni çalışmada, araştırmacılar hem kardiyovasküler hastalık riski hem de Alzheimer hastalığı riski gibi diğer DNA noktalarını tanımlamışlardır.
+Bilim adamları uzun zamandır kolesterol ve lipit metabolizması ve Alzheimer hastalığında yer alan APOE geninin varyasyonları arasındaki bağlantılardan bilgi aldılar. Bu genin bazı hastalarda Alzheimer hastalığı riskini ikiye katladığı ve diğerlerinde 12 kata kadar risk oluşturduğu bilinmektedir. Ancak yeni çalışmada, araştırmacılar hem kardiyovasküler hastalık riski hem de Alzheimer hastalığı riski gibi diğer DNA noktalarını tanımlamışlardır.
 
 ![image](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-580x288/public/news/research/news/crop_75.jpg?itok=4Thqjm1W)*Kardiyovasküler hastalıklar ile bağlantılı bir molekül*
  
