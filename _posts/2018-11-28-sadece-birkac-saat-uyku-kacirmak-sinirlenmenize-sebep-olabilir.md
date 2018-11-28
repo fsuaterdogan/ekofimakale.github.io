@@ -2,11 +2,13 @@
 layout: single
 title: "Sadece birkaç saat uyku kaybetmek, özellikle sinir bozucu durumlarda sizi oldukça sinirlendiriyor"
 ---
+Uyku çok önemli
+-
 Yeni Iowa State Üniversitesi araştırmasına göre, geceleri sadece birkaç saat uykuyu kaybetmek, özellikle sinir bozucu durumlarda sizi oldukça sinirlendiriyor. Sonuçlar sezgisel görünebilir olsa da, çalışma uyku kaybının öfkeye neden olduğuna dair kanıt sunan ilklerden bir tanesi.
 
 Iowa Eyaletindeki psikoloji profesörü Zlatan Krizan: Diğer çalışmalar uyku ve öfke arasında bir bağlantı olduğunu göstermişti, ancak uyku kaybının sorumlu olup olmadığı veya öfkenin uyku bozukluğundan sorumlu olup olmadığı hakkındaki sorular gösterilmemişti. Deneysel Psikoloji Dergisi'nde yayınlanan araştırma, bu sorulara cevap veriyor ve yorgunken rahatsız edici koşullara uyum sağlama yeteneğimiz hakkında yeni bilgiler veriyor.
 
-“Rahatsız edici şeylere (rahatsız edici bir gömlek veya havlayan bir köpek) alışmak için tipik eğilimler olmasına rağmen, uyku ile sınırlı kişiler aslında öfke ve sıkıntıya doğru bir eğilim göstermişlerdir, esasen zaman içinde sinir bozucu koşullara uyum sağlama yeteneklerini kaybetmişlerdir. Bunu daha önce hiç kimse göstermedi”
+“Rahatsız edici şeylere (rahatsız edici bir gömlek veya havlayan bir köpek) alışmak için tipik eğilimler olmasına rağmen, uyku ile sınırlı kişiler aslında öfke ve sıkıntıya doğru bir eğilim gösterdiler, esasen zaman içinde sinir bozucu koşullara uyum sağlama yeteneklerini kaybettiler. Bunu daha önce hiç kimse göstermedi”
 
 ![image](https://media.tenor.com/images/7b744526a279e76897673300ecf64e90/tenor.gif)
 
@@ -23,10 +25,12 @@ Iowa Eyaletindeki psikoloji profesörü Zlatan Krizan: Diğer çalışmalar uyku
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Öfkeyi ölçmek için, psikolojideki ISU doktora öğrencileri olan Krizan ve Garrett Hisler, katılımcıların kahverengi sesi (spreyleme suyunun sesine benzer şekilde) dinlerken farklı ürünleri değerlendirmek için laboratuvara (uyku manipülasyonundan önce ve sonra) geldiler. Krizan, amacın öfkeyi kışkırtacak rahatsız edici koşullar oluşturmak olduğunu söyledi.
+Öfkeyi ölçmek için, psikolojideki ISU doktora öğrencileri olan Krizan ve Garrett Hisler, katılımcıların kahverengi sesi (spreyleme suyunun sesine benzer bir ses) dinlerken farklı ürünleri değerlendirmek için laboratuvara (uyku manipülasyonundan önce ve sonra) geldiler. Krizan, amacın öfkeyi kışkırtacak rahatsız edici koşullar oluşturmak olduğunu söyledi.
 
-Krizan, “Genel olarak, uykunun sınırlı olduğu için öfke önemli ölçüde daha yüksekti” dedi. “Gürültüden rahatsızlık duyduğumuzda ve beklendiği gibi, insanların gürültünün daha nahoş olduğu zamanlarda daha fazla öfke duyduğunu düşündük. Uyku kısıtlandığında, insanlar gürültüye bakılmaksızın daha fazla öfke bildirdi. ”
+Krizan, “Genel olarak, uykunun sınırlı olduğu için öfke önemli ölçüde daha yüksekti” dedi. “Gürültüden rahatsızlık duyduğumuzda ve beklendiği gibi, insanların gürültünün daha nahoş olduğu zamanlarda daha fazla öfke duyduğunu düşündük. Uyku kısıtlandığında, insanlar gürültüye bakılmaksızın daha fazla öfke bildirdi.”
 
+Uyku kaybı olumsuz duyguları artırıyor
+-
 Krizan, uyku kaybının, kaygı ve üzüntü gibi olumsuz duyguları artırdığını, mutluluk ve coşku gibi olumlu duyguları azalttığını da belirtti. O ve hisler, bu etkileri genellikle uyku, öfke ve duygular arasındaki ilişkiyi daha iyi anlamak için ölçmüşlerdir. Krizan, öfkeyi benzersiz bir şekilde etkilemek için uyku kaybı bulduğunu ve sadece o anda daha olumsuz hissetmenin bir sonucu olmadığını söylüyor.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
