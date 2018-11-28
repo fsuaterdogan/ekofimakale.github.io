@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Sadece birkaç saat uyku kaybetmek, özellikle sinir bozucu durumlarda sizi oldukça sinirlendiriyor"
 ---
 Yeni Iowa State Üniversitesi araştırmasına göre, geceleri sadece birkaç saat uykuyu kaybetmek, özellikle sinir bozucu durumlarda sizi oldukça sinirlendiriyor. Sonuçlar sezgisel görünebilir olsa da, çalışma uyku kaybının öfkeye neden olduğuna dair kanıt sunan ilklerden bir tanesi.
 
