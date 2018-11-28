@@ -12,11 +12,33 @@ Iowa Eyaletindeki psikoloji profesörü Zlatan Krizan: Diğer çalışmalar uyku
 
 Çalışmaya katılanlar rastgele iki gruba ayrıldı: biri normal uyku rutinini sürdürdü ve ikincisi her gece iki gece dört ila dört saat uykularını kısıtladı. Yasaklı grup her gece yaklaşık dört buçuk saat sürerken, bir gece neredeyse yedi saat uyumaya devam etti. Krizan, günlük hayatımızda düzenli olarak yaşadığımız uyku kaybını yansıttığını söyledi.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Öfkeyi ölçmek için, psikolojideki ISU doktora öğrencileri olan Krizan ve Garrett Hisler, katılımcıların kahverengi sesi (spreyleme suyunun sesine benzer şekilde) dinlerken farklı ürünleri değerlendirmek için laboratuvara (uyku manipülasyonundan önce ve sonra) geldiler. Krizan, amacın öfkeyi kışkırtacak rahatsız edici koşullar oluşturmak olduğunu söyledi.
 
 Krizan, “Genel olarak, uykunun sınırlı olduğu için öfke önemli ölçüde daha yüksekti” dedi. “Gürültüden rahatsızlık duyduğumuzda ve beklendiği gibi, insanların gürültünün daha nahoş olduğu zamanlarda daha fazla öfke duyduğunu düşündük. Uyku kısıtlandığında, insanlar gürültüye bakılmaksızın daha fazla öfke bildirdi. ”
 
 Krizan, uyku kaybının, kaygı ve üzüntü gibi olumsuz duyguları artırdığını, mutluluk ve coşku gibi olumlu duyguları azalttığını da belirtti. O ve hisler, bu etkileri genellikle uyku, öfke ve duygular arasındaki ilişkiyi daha iyi anlamak için ölçmüşlerdir. Krizan, öfkeyi benzersiz bir şekilde etkilemek için uyku kaybı bulduğunu ve sadece o anda daha olumsuz hissetmenin bir sonucu olmadığını söylüyor.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ![image](https://media.tenor.com/images/27c19e33a77ef953315431db3089b672/tenor.gif)
 
