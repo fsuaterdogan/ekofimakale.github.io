@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Atomik saatler o kadar doğru ki yerçekimini bile ölçebilir"
+title: "Bilim insanları atomik bir saat ürettiler ve kütle çekimsel dalgaları ölçmek için kullanacaklar"
 ---
 Zaman, sadece bittiğinde önemli görünebiliyor. Fakat fizikçilere göre, zaman her zaman çok önemlidir. Görelilik, zaman akışının, ölçtüğünüz koşullara bağlı olduğunu bize bildirir: Saatler, örneğin, zemin seviyesine göre dağların tepesinde daha hızlı ilerler, ve daha hızlı gittiğinizde, saatleriniz gittikçe yavaşlar. Zaman uzaya bağlıdır.
 
-Şimdi, atomik saatlerdeki teknolojik ilerlemeler sayesinde -tasarladığımız en doğru zaman tutma cihazları- işleri tersine çevirebilir ve zamanın geçişini inceleyebilir, böylece fiziksel parametreleri daha doğru bir şekilde belirleyebiliriz. Mekan anlayışımız zamana bağlı olacaktır.
+Atomik saatlerdeki teknolojik ilerlemeler sayesinde -tasarladığımız en doğru zaman tutma cihazları- işleri tersine çevirebilir ve zamanın geçişini inceleyebilir, böylece fiziksel parametreleri daha doğru bir şekilde belirleyebiliriz. Mekan anlayışımız zamana bağlı olacaktır.
 
 Bugün Nature dergisinde anlatılan yeni saatler, atomik saatlerin sözünden daha iyi söz verecek: Gelişmiş zaman işleyişi, iletişim ve navigasyon teknolojileri. Ancak, çevrelerindeki fiziki alana dair kavrayışlarına ek olarak, cihazlar yerçekimsel dalgaları bulmaya, görelilik tahminlerini test etmeye ve kara madde için avlanmaya da yardımcı olabilir. Tüm bunlar, süper hassas saatler sayesinde.
 
