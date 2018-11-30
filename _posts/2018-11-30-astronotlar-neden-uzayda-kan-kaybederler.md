@@ -4,7 +4,7 @@ title: "Astronotlar neden yerçekiminde kanlarının % 22 kadarını kaybeder?"
 ---
 Astronotlar, yerçekiminde kanlarının % 22 kadarını kaybeder, mikro yerçekiminden kaynaklanan üniform kan basıncına bir tepki olarak. Vücudunun bu kanı yerine koymasına kadar, pek çok dönen astronot, bayılmadan birkaç dakikadan fazla duramaz.
 
-Yerçekimi sadece bir güç değil, aynı zamanda bir işaret - vücuda nasıl davranılacağını söyleyen bir işaret. Bir şey için, kaslara ve kemiklere ne kadar güçlü olmaları gerektiğini söyler. Sıfır-G'de, kaslar hızlı bir şekilde atrofidir, çünkü vücut onlara ihtiyaç duymadığını algılar. Yerçekimi ile savaşmak için kullanılan kaslar - buzağılarda ve omurgalarda, postürü koruyanlar gibi - onları kullanmazsanız kütlelerinin yaklaşık yüzde 20'sini kaybedebilir. Kas kütlesi haftada % 5 kadar yüksek bir oranda yok olabilir.
+Yerçekimi sadece bir güç değil, aynı zamanda bir işaret - vücuda nasıl davranılacağını söyleyen bir işaret. Bir şey için, kaslara ve kemiklere ne kadar güçlü olmaları gerektiğini söyler. Sıfır-G'de, kaslar hızlı bir şekilde atrofidir(küçülmeye yönelme), çünkü vücut onlara ihtiyaç duymadığını algılar. Yerçekimi ile savaşmak için kullanılan kaslar - buzağılarda ve omurgalarda, postürü koruyanlar gibi - onları kullanmazsanız kütlelerinin yaklaşık yüzde 20'sini kaybedebilir. Kas kütlesi haftada % 5 kadar yüksek bir oranda yok olabilir.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
