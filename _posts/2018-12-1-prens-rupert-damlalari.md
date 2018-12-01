@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bu camın kafa tarafını bir çekiçle 15.000 paskal darbe vurmadan kıramazsınız: Prens Rupert'in damlaları"
+title: "Bu camın kafa tarafını bir çekiçle 15.000 pascal darbe vurmadan kıramazsınız: Prens Rupert'in damlaları"
 ---
 Prens Rupert'in damlaları erimiş cam damlalarını soğuk suya düşürerek üretilir. Su, camı dışarıdan hızla soğutur ve katılaştırır. Bu termal söndürme, hızlı soğutulmuş bir kürenin basitleştirilmiş bir modeli kullanılarak açıklanabilir.
 
