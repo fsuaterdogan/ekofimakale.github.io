@@ -6,7 +6,7 @@ Prens Rupert'in damlaları erimiş cam damlalarını soğuk suya düşürerek ü
 
 Umm, yüzyıllar boyunca araştırmalara yol açan ilginç detaylar var. Kuyruk kesilirken, damla toz haline gelir, soğanlı kafa ise 15.000 newton'a (3,400 lbf) kadar dayanabilir.
 
-Bu damlacıklar dahili olarak çok yüksek tortusal gerilmelerle karakterize edilir, bu, kuyruk ucunda eğer patlayıcı parçalanma meydana getirirken patlayıcı parçalanma gösterirken, kopmadan uçtan bir darbeye (örneğin bir çekiç) dayanma yeteneği gibi karşı-sezgisel özelliklere yol açar. biraz hasar görmüş. Doğada, volkanik lavlarda belirli koşullar altında benzer yapılar üretilir ve Pele'nin gözyaşları olarak bilinir.
+Bu damlacıklar dahili olarak çok yüksek tortusal gerilmelerle karakterize edilir, bu, kuyruk ucunda eğer patlayıcı parçalanma meydana getirirken, kopmadan uçtan bir darbeye (örneğin bir çekiç) dayanma yeteneği gibi karşı-sezgisel özelliklere yol açar. Doğada, volkanik lavlarda belirli koşullar altında benzer yapılar üretilir ve Pele'nin gözyaşları olarak bilinir.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/76/Prince_Ruperts_drops.jpg)*Wikimedia Commons*
 
@@ -23,13 +23,13 @@ Bu damlacıklar dahili olarak çok yüksek tortusal gerilmelerle karakterize edi
 
 Tarihçe
 -
-Prens Rupert düşüşleri keşfetmedi, 1660 yılında İngiltere'ye getirerek tarihlerinde bir rol oynadı. Onları Kral II. Charles'a verdi. bilimsel çalışma için.
+Prens Rupert damlaları keşfetmedi, 1660 yılında İngiltere'ye getirerek sadece bir rol oynadı. Onları Kral II. Charles'a verdi. bilimsel çalışma için.
 
 Daha fazla detay
 -
 Bir Prens Rupert'in düşüşünde, iç ve dış bölgeler arasındaki arayüz güçleri yana doğru saptırır, bu yüzden çatlak yayılamaz. Ayrıca, kuyruk kırılırsa, kuyruktaki sığ çatlaklar, düşme eksenine, başın derinine ve ara yüze paralel olarak çekim yapar. Hasar çok büyük ve patlamaya neden oluyor.
 
-Purdue doktora sonrası arkadaşı Koushik Viswanathan, "Gerilme gerilmesi genellikle malzemelerin bir kağıdın yırtılmasına benzer şekilde kırılmalarına neden oluyor." Diyor. “Ama eğer gerilme gerginliğini bir basınç stresine dönüştürebilirseniz, o zaman çatlakların büyümesi zorlaşır ve bu, Prince Rupert'in damlalarının baş kısmında gerçekleşen şeydir.”
+Purdue doktora sonrası arkadaşı Koushik Viswanathan, "Gerilme gerilmesi genellikle malzemelerin bir kağıdın yırtılmasına benzer şekilde kırılmalarına neden oluyor." diyor. “Ama eğer gerilme gerginliğini bir basınç stresine dönüştürebilirseniz, o zaman çatlakların büyümesi zorlaşır ve bu, Prince Rupert'in damlalarının baş kısmında gerçekleşen şeydir.”
 
 Bilimsel kullanım
 -
