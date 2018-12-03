@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Fotosentez ses çıkarıyor: İşte o ses!"
+title: "Fotosentez ses çıkarıyor, işte o ses!"
 ---
 Bilim adamları bir mercan kayalığında alglerin sesini duyduklarını düşündüklerinde önsezileri bir miktar şüpheyle karşılandı. Okyanustaki en ateşli (ve en dingin) sakinleri, sersemlemiş dalgalar ve gürültülü insanlar üzerinde, görünüşte bu kadar hareketsiz bir şey nasıl olabilir? Kabarcıkları ile, onlar yukarı doğru hareket ediyor.
 
@@ -13,6 +13,17 @@ Ses oynatıcı
 <audio class="wp-audio-shortcode" id="audio-25659-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/wav" src="https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav?_=1" /><a href="https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav">https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav</a></audio>
 
 Statik altında hafifçe gömülü olmasına rağmen, fotosentezle üretilen bir balonun neden olduğu ayırt edici tıklama veya ping sesi bu klibe 1.5 saniye sürebilir.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Simon, “Sesin karides yakalamasından, hikayenin sonundan geldiğini söyledik” diyor. “[Ama] deniz ile deniz tabanını kaplayan alglerin oranı arasında bir korelasyon var gibi görünüyordu.”
 
