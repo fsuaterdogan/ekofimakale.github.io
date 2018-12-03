@@ -9,7 +9,7 @@ Nefes almamıza yardımcı olan bitkiler gibi, algler de fotosentez yapar. Sualt
 Eşler Lauren ve Simon Freeman, Rhode Island'daki ABD Donanma Denizaltı Harp Merkezi'ndeki oşinograflar. İlk önce Hawai Adaları'ndaki garip tepkileri fark ettiler. Sağlıklı, korunmuş resiflerin ses tonlarının düşük frekanslı sesler tarafından (tipik olarak balıklar ve diğer büyük hayvanlar tarafından yapılan tür) baskın olduğunu ve bozulmuş resiflerin belirgin şekilde daha yüksek perdelere sahip olduğunu gördüler.
 
 Ses oynatıcı
-
+-
 <audio class="wp-audio-shortcode" id="audio-25659-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/wav" src="https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav?_=1" /><a href="https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav">https://www.hakaimagazine.com/wp-content/uploads/algae_ping.wav</a></audio>
 
 Statik altında hafifçe gömülü olmasına rağmen, fotosentezle üretilen bir balonun neden olduğu ayırt edici tıklama veya ping sesi bu klibe 1.5 saniye sürebilir.
@@ -24,11 +24,8 @@ Staaterman, “Suya bir kaydediciyi koyduğumda, daha önce hiç duymadığım h
 
 Staaterman, alg seslerini izleme potansiyel uygulamaları ile ilgi çekiyor. Mercan resiflerinde, algler oksijen üretmeye yardımcı olur. Ancak, bunların prevalansı her zaman olumlu değildir: eğer kapak çok kalınlaşırsa, algler mercanlar gibi hassas türleri boğabilir ve hatta zararlı mikroplarda başaklara neden olabilir. Bazı ince ayarlarla, araştırmacıların umudu, algleri dinlemenin, bilim adamlarını resif kompozisyonundaki problemli değişikliklere karşı uyarabilmesidir.
 
-![image](https://www.hakaimagazine.com/wp-content/uploads/algae-embed.mp4)
-Oşinografi yazarı Simon Freeman, alglerin algılanmasına neden oldu.
+![image](https://c1.staticflickr.com/1/560/18786525312_f716806031_b.jpg)*Algea fotosentez yaparken*
 
 Staaterman, “Biyoakustik ve biyoçeşitlilik arasında bu tür bağlantılar kurmak, çok fazla vaat veren heyecan verici bir alandır” diyor. Avustralya'da yaşamsal deniz otu habitatını izlemek için akustik izleme zaten kullanılıyor.
 
 “Şimdilik, resifler dalgıçlar tarafından görsel olarak değerlendiriliyor,” diyor Simon. Süreç, zaman alıcı ve pahalı olup, her bir anketin kapsamını sınırlar. “Gelecekte, belki de bir otonom araç kullanarak, bir mercan kayalığı sesini hızla dinlemek ve önceki yıldan nasıl değişmiş olabileceğini değerlendirmek mümkün olabilir.”
-
-Okyanus orkestrasında, her enstrüman bir rol oynar. Alçakgönüllü üçgen gibi, algler de alglerin ince pingi olmadan aynı olmazdı.
