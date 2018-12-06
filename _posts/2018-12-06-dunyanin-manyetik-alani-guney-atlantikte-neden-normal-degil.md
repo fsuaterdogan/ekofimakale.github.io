@@ -10,17 +10,6 @@ Manyetik alanın yeryüzünde zamansız, sabit bir yaşam yönüne sahip olduğu
 
 Dünyanın manyetik alanının gücü son 160 yıldır endişe verici bir oranda azalmaktadır. Bu çöküş Güney Atlantik Bölgesi'nin Güney Atlantik Anomalisi olarak bilinen ve Zimbabve'den Şili'ye uzanan geniş çaplı genişlemesine odaklanmıştır. Manyetik alan şiddeti o kadar zayıf ki, bu bölge üzerinde yörüngeye yayılan uydular için bir tehlike oluşturuyor.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7868661326160958"
-     data-ad-slot="3072558811"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Ve alan zayıflamaya devam ediyor, potansiyel olarak manyetik kutupların küresel bir geri dönüşünü de içeren daha dramatik olayları temsil ediyor. Böyle büyük bir değişim, navigasyon sistemlerimizi ve elektrik iletimini etkileyecektir. Kuzey ışıklarının gösterimi farklı enlemlerde görünebilir. Ve daha fazla radyasyon, küresel bir geri dönüş sırasında Dünya'nın yüzeyine çok düşük alan güçlerine ulaşabileceğinden, kanser oranlarını da etkileyebilir. Araştırmamıza aciliyet katarak, bu etkilerin kapsamını tam olarak anlayamayız. Bunu ele almak için 700 yıllık Afrika arkeolojik kayıtları da dahil olmak üzere bazı beklenmedik veri kaynakları arıyoruz.
 
 ![image](https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed_tablet/public/2017/02/06/earthsinterior.png)*Credit: KELVINSONG, CC BY-SA*
