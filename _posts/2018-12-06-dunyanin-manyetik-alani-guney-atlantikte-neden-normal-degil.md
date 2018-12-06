@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Dünya'nın manyetik alanı güney atlantik bölgesinde anormaldir"
 ---
 Bu makalenin gerçeği The Conversation'da yayınlandı.
 
