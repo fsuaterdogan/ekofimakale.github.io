@@ -10,7 +10,7 @@ Loschmidt'ten önce
 -
 1874'te Loschmidt gazetesinden iki yıl önce, William Thomson, ikinci yasayı sınırlama yasasına karşı savundu.
 
-paradoks
+Paradoks
 -
 Loschmidt'in **tersinir paradoksu**, **tersinmezlik paradoksu** ya da **Umkehreinwand** olarak da bilinen paradoksu, zaman-simetrik dinamiklerden geri döndürülemez bir süreci ortaya çıkarmanın mümkün olmamasının itirazıdır. Bu, zaman içinde bilinen tüm düşük seviyeli temel fiziksel süreçlerin (neredeyse) ters simetrisinin yanı sıra, makro-termik sistemlerin davranışını tanımlayan ikinci termodinamik yasayı terk etme çabasıyla çelişir. Her ikisi de fizikte tanınmış, sağlam gözlemsel ve teorik destekle ilkelerdir, ancak maalesef çatışırlar; bu yüzden paradoks oluşur.
 
@@ -33,7 +33,7 @@ Josef Loschmidt'in eleştirisi Boltzmann'ın H-teoremi tarafından kışkırtıl
 
 Tersine çevrilebilir eylemin yasaları, dünyamızı, nispeten düşük entropi durumunda (evrensel ısı ölümünün denge entropisine kıyasla) şu ana kadar deneyimlediğimizi açıklayamaz; ve ayrıca geçmişte daha da az entropi vardı.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Johann_Josef_Loschmidt.jpg/220px-Johann_Josef_Loschmidt.jpg)*Johann Josef Loschmidt, Kredi: Wikimedia Commons*
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Johann_Josef_Loschmidt.jpg/220px-Johann_Josef_Loschmidt.jpg)                             *Johann Josef Loschmidt, Kredi: Wikimedia Commons*
 
 Zaman oku
 -
