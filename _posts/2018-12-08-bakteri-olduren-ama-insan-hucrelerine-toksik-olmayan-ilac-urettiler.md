@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Yaban arısı zehirinden antibiyotik ilaç üretildi: Bakterileri öldürüyor"
 ---
 ![image](https://i.hizliresim.com/grk9W3.jpg)*Kredi: Wikimedia Commons, Charles J. Sharp*
 
