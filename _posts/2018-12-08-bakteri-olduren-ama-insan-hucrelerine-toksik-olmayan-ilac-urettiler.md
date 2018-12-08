@@ -2,9 +2,9 @@
 layout: single
 title: "Yaban arısı zehirinden antibiyotik ilaç üretildi: Bakterileri öldürüyor"
 ---
-![image](https://i.hizliresim.com/grk9W3.jpg)*Kredi: Wikimedia Commons, Charles J. Sharp*
-
 MIT mühendisleri, bakteri öldüren ancak insan hücrelerine toksik olmayan bir antibiyotik ilaç olarak yaban arısı zehiri ürettiler. Bu zehir, fareler üzerinde yapılan bir çalışmada, peptit, solunum yolu ve diğer enfeksiyonlara neden olan ve çoğu antibiyotiğe dirençli olan bir bakteri türü olan Pseudomonas aeruginosa'yı tamamen ortadan kaldırabilir.
+
+![image](https://i.hizliresim.com/grk9W3.jpg)*Kredi: Wikimedia Commons, Charles J. Sharp*
 
 Güney Amerika eşekarısı tarafından üretilen doğal olarak oluşan bir peptide dayanan yeni antimikrobiyal peptitler
 -
@@ -60,4 +60,4 @@ Araştırmacılar, daha düşük dozlarda enfeksiyonları temizleyebileceklerini
 
 “Burada öğrendiğimiz bazı prensiplerin, doğadan türetilen diğer benzer peptidlere uygulanabilir olduğunu düşünüyorum” diyor. “Bu moleküllerin çoğu için helisite ve hidrofobiklik gibi şeyler çok önemlidir ve burada öğrendiğimiz bazı kurallar kesinlikle tahmin edilebilir.”
 
-<p class="notice--info"><strong>Gönderi kredisi:</strong><a href="https://bit.ly/2L3PNzO">MIT News</a></p>
+<p class="notice--info"><strong>Gönderi kredisi:</strong> <a href="https://bit.ly/2L3PNzO">MIT News</a></p>
