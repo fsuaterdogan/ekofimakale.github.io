@@ -53,6 +53,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
 search_full_content      : # true, false (default)
+google:
+  search_engine_id: 017969858460758489696:fkaghuyod2c
 
 # SEO Related
 google_site_verification : "53Nb95EGcKYMeQ_RVjyHGMXaDBc9_XDfSQXwaQ7zKSU"
