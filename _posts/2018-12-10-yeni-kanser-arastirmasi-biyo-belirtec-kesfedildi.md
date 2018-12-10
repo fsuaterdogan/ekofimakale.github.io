@@ -18,6 +18,17 @@ Prof Trau, "Bu kesinlikle bizi hayrete düşürdü. Tüm kanser için genel bir 
 Kanser, hücrelerin işlevini kontrol eden DNA'daki değişikliklerden kaynaklanır.
 Profesör Trau, "Genellikle kanser belirteçleri bulma yaklaşımı, DNA dizisine bakmaktır."
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Farklı bir taktikle, o ve meslektaşları, DNA'yı süsleyen ve hangi genlerin açılıp kapanacağını kontrol eden metil grupları olarak adlandırılan moleküllerin kalıplarına baktılar.
 
 Bu moleküllerin konumu, epigenomun bir parçasını oluşturur - genlerin nasıl ifade edildiğini kontrol eden bir talimatlar seti.
@@ -32,6 +43,17 @@ Profesör Trau, "İncelediğimiz tüm kanserli DNA parçaları, bu oldukça öng
 Bilim adamları teknolojiyi 200 insan kanseri örneğinde test ettiler ve Profesör Trau, kanser tespitinin doğruluğunun yüzde 90 gibi yüksek olduğunu söyledi.
 
 “Bunu, bizim immuno teşhis tekniklerimizin bazılarıyla karşılaştırabilirsiniz,” dedi.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Heyecan verici ve daha çok erken
 -
