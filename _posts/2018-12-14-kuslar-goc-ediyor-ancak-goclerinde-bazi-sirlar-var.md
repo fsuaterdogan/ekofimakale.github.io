@@ -2,7 +2,7 @@
 layout: single
 title: "Kuşlar göç ediyor ve uçuyorlar, ama aynı zamanda bazı sırları da var: Kuş göçünün gizemlerini çözüyoruz"
 ---
-İsveç'teki Lund Üniversitesi'nden Anders Hedenström, “Kuş meraklıları 1890'lardan beri kuşları çalıyor”. “Ancak zil verileri sadece kuşların nerede yakalandığını söyleyebilir. Ufukta ortadan kaybolduklarında, nelerin peşinde olduklarını söylemiyorlar.”
+İsveç'teki Lund Üniversitesi'nden Anders Hedenström, “Kuş meraklıları 1890'lardan beri kuşları çalıyor.” “Ancak GPS verileri sadece kuşların nerede yakalandığını söyleyebilir.”
 
 GPS'lerle, en küçük kuşları bile muhteşem yolculuklarında takip edebiliriz. Hedenström, “Sadece birkaç yıl içinde, göçmenlik stratejileri hakkında bir yüzyıldan daha fazla şey öğrendik.” Bu arada, matematiksel modelleme ve moleküler biyoloji de bunun neden ve nasıl yapıldığına dair yeni bir bakış açısı getiriyor.
 
@@ -21,13 +21,13 @@ GPS'lerle, en küçük kuşları bile muhteşem yolculuklarında takip edebiliri
 
 Rüzgar yönü
 -
-Göçmen kuşlar için rüzgar yönü son derece önemlidir. Kuşlar kuzeye gidiyorlarsa, değerli enerjiyi harcayan rüzgâra uçmak için uğraşmak yerine, onların arkasında rüzgârı hissetmeyi severler. İlkbaharda, göç için ideal rüzgâr güneybatı dışındadır.
+Göçmen kuşlar için rüzgar yönü son derece önemlidir. Kuşlar kuzeye gidiyorlarsa, değerli enerjilerini harcayan rüzgâra karşı uçmak için uğraşmak yerine, rüzgârı arkalarına alırlar. İlkbaharda, göç için ideal rüzgâr güneybatı dışındadır.
 
 Kuşlar nasıl şekil alır?
 -
 Göçmen kuşlar olağanüstü sporculardır ve yetenekleri ciddi hazırlık gerektirir. Kalkıştan önceki haftalarda, çoğu aşırı fizyolojik değişiklikler geçirir. En bilineni, yağları yüklerler. Birçok durumda, sindirim organlarından mümkün olduğunca fazla gıda alımını geçici olarak artırırlar. Daha sonra, yani kalkıştan hemen önce, kilolarını azaltmak için sindirim organlarından gelen gıdaları azaltırlar.
 
-Hepsi bu değil. Kanada'daki Ottawa Üniversitesi'nde Jean-Michel Weber'in “doğal doping” olarak tanımlıyor. Çamur karidesleri omega-3 yağ asitleri ile yüklenir ve Weber bu bileşiklerin kaliperlerdeki kasların verimliliğini artırdığından şüpheleniyor. Bu kuş, etkilerini diğer faktörlerden ayırt etmek için daha yerleşik bir kuştur.
+Hepsi bu değil. Kanada'daki Ottawa Üniversitesi'nde Jean-Michel Weber bu olayı “doğal doping” olarak tanımlıyor. Çamur karidesleri omega-3 yağ asitleri ile yüklenir ve Weber bu bileşiklerin kaliperlerdeki kasların verimliliğini artırdığından şüpheleniyor. Bu kuş, etkilerini diğer faktörlerden ayırt etmek için daha yerleşik bir kuştur.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
