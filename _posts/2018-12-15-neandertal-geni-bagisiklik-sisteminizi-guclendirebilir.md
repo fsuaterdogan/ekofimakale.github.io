@@ -63,6 +63,8 @@ Capra, “Diğer evrimsel mekanizmalarla ortaya çıkan aleller gibi, adaptif in
 
 Sonuçlar, belirli bir insan evrimi rotası hakkında yeni ipuçları veriyor. Akey, “Yeni bir yararlı mutasyonu beklemek yerine, bu yeni ortama zaten adapte olmuş bir popülasyonla melezleşerek bir tane seçebiliriz” dedi. “Arkaik insanlardan miras kalan avantajlı genleri bulmak da melezleşmenin insanlık tarihinin sadece bir yan notu olmadığını, ancak günümüz bireylerinde hala görebileceğimiz önemli sonuçları olduğunu gösteriyor.”
 
+![image](https://www.lakeandsumterstyle.com/wp-content/uploads/2018/08/dna-3539309_1920.jpg)
+
 Capra'nın kabulu: “İnsan genomlarında intikam alma imzasını yeteri kadar görüyoruz ki, onu evrim ve seçim modellerine entegre etmemiz gerekiyor.”
 
 Bu, Neandertal / Denisovan genlerinin bazı artıları ve eksileri listesidir, bağışıklık geni bunlardan biridir:
@@ -102,8 +104,6 @@ Bu genlerin insanlara ne sunduğunu tam olarak bilmiyoruz, ancak bu genlerin kal
 Homo Sapiens ve Neandertallerin DNA'ları çok iyi karışmamıştı. Uzun, uzun insan DNA uzantıları Neandertal genine sahip değildir. Bu, bu bölgelerdeki genetik değişikliklerin hayatta kalmak için negatif olduğunu göstermektedir. Örneğin, motor koordinasyonu ve dil ve konuşma için FOXP2 geninin Neandertal girişi yoktur.
 
 Yani, insan DNA'sının geniş bölgelerinde Neandertal girişi yoktur.
-
-![image](https://www.lakeandsumterstyle.com/wp-content/uploads/2018/08/dna-3539309_1920.jpg)
 
 Dahası, insan erkek X kromozomları, Neandertal girdisinde özellikle eksiktir; yani, bir İnsan-Neandertal birliğinin erkek çocuklarının, ortalamadan daha düşük doğurganlığa sahip olma şansı vardır.
 
