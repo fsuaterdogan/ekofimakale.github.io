@@ -56,6 +56,4 @@ Aşırı yağış olaylarında, çevredeki toprakların bir fırtına öncesi ı
 
 Sharma, “Bu, geçmişte IPCC [Hükümetlerarası İklim Değişikliği Paneli Raporları] raporlarında artan bir sel argümanıyla çelişiyor, ama muhtemelen çok daha kötü bir senaryoya işaret ediyor” dedi. “Küçük seller su temini için çok önemlidir, çünkü barajları doldurur ve su kaynağımızın temelini oluştururlar.”
 
-
-The findings were published November 5th in the journal, Water Resources Research.
 <p class="notice--info"><strong>Kredi: </strong><a href="https://agupubs.onlinelibrary.wiley.com/journal/19447973">Water Resources Research</a></p>
