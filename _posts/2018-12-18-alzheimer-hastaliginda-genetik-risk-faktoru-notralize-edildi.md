@@ -40,7 +40,7 @@ Herz, bu bulguların geç başlangıçlı Alzheimer hastalığının önlenmesi 
 </script>
 
 
-Alzheimer'ın araştırmalarının çoğu, beyinde bulunduktan sonra amiloid ve tau protein agregatlarının oluşumunu durdurmaya odaklandı ve dejenerasyon çoktan başladı. “Bu çalışmadaki yaklaşımımız, genel dejenerasyon sürecini daha önce durdurmaktı; Bu, bu kümelerin oluşumundan önce, ”dedi Dr.
+Alzheimer'ın araştırmalarının çoğu, beyinde bulunduktan sonra amiloid ve tau protein agregatlarının oluşumunu durdurmaya odaklandı ve dejenerasyon çoktan başladı. “Bu çalışmadaki yaklaşımımız, genel dejenerasyon sürecini daha önce durdurmaktı; Bu, bu kümelerin oluşumundan önce,” Dr. Herz
 
 Bir sonraki adım, beyine NHE6'yı etkin ve seçici bir şekilde bloke edebilen, kişiye özel, küçük moleküler inhibitörler geliştirmektir.
 
