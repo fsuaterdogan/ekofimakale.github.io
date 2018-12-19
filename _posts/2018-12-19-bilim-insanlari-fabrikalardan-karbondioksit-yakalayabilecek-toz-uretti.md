@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bilim insanları, fabrikalardan ve enerji santrallerinden karbondioksit yakalayabilecek bir toz üretti, bu sayede karbondioksit filtrelenebilecek"
+title: "Bilim insanları, fabrikalardan ve enerji santrallerinden karbondioksit yakalayabilecek bir toz üretti, bu sayede karbondioksit filtrelenecek"
 ---
 Bilim insanları, fabrikalardan ve enerji santrallerinden CO2 yakalayabilecek bir toz üretti. Toz, atmosfere salınmadan önce fosil yakıtlarla güçlendirilen tesislerde CO2'yi filtreleyebilir ve temizleyebilir. Ayrıca geleneksel yöntemlerden iki kat daha etkilidir.
 
@@ -27,6 +27,8 @@ Chen, gözeneklerin büyüklüğünü ve konsantrasyonunu manipüle etmek için 
 
 Chen, “Gelecekte daha da önemli olacak” diyen Chen, “Fosil yakıtların yakılmasıyla üretilen tüm CO2 ile başa çıkmanın yollarını bulmak zorundayız” dedi.
 
+CO2 molekülleri, temas ettikleri zaman karbon yüzeyine yapışırlar, adsorpsiyon olarak bilinen bir süreç. Bol, ucuz ve çevre dostu olduğundan, karbonu CO2 yakalama için mükemmel bir malzeme yapar. Çin'de çeşitli üniversitelerde meslektaşlarıyla işbirliği yapan araştırmacılar, karbon malzemelerindeki gözeneklerin büyüklüğünü ve konsantrasyonunu manipüle ederek adsorpsiyon performansını artırmaya karar verdiler.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -37,8 +39,6 @@ Chen, “Gelecekte daha da önemli olacak” diyen Chen, “Fosil yakıtların y
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-CO2 molekülleri, temas ettikleri zaman karbon yüzeyine yapışırlar, adsorpsiyon olarak bilinen bir süreç. Bol, ucuz ve çevre dostu olduğundan, karbonu CO2 yakalama için mükemmel bir malzeme yapar. Çin'de çeşitli üniversitelerde meslektaşlarıyla işbirliği yapan araştırmacılar, karbon malzemelerindeki gözeneklerin büyüklüğünü ve konsantrasyonunu manipüle ederek adsorpsiyon performansını artırmaya karar verdiler.
 
 Geliştirdikleri teknik, bitki maddesinden siyah karbon tozu elde etmek için ısı ve tuz kullanır. Tozu oluşturan karbon küreler birçok gözeneklere sahiptir ve bunların büyük çoğunluğu çap olarak bir metrenin milyonda birinden daha azdır.
 
