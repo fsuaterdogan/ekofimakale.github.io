@@ -19,7 +19,7 @@ Bilim insanları, fabrikalardan ve enerji santrallerinden CO2 yakalayabilecek bi
 
 Toz Karbondioksit (CO2) emisyonlarını azaltmaya yardımcı olabilir
 -
-Waterloo Üniversitesi'ndeki bilim insanları](https://uwaterloo.ca/news/news/new-powder-could-help-cut-co2-emissions), fabrikalardan ve enerji santrallerinden CO2 yakalayabilecek bir toz üretti.
+[Waterloo Üniversitesi'ndeki bilim insanları](https://uwaterloo.ca/news/news/new-powder-could-help-cut-co2-emissions), fabrikalardan ve enerji santrallerinden CO2 yakalayabilecek bir toz üretti.
 
 Waterloo'da bir kimya mühendisliği profesörü olan Zhongwei Chen'in laboratuarında oluşturulan toz, atmosfere salınmadan önce fosil yakıtlarla çalışan tesislerde CO2'yi filtreleyip kaldırabilir ve geleneksel yöntemlerden iki kat daha verimlidir.
 
