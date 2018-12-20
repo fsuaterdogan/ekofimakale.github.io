@@ -11,10 +11,20 @@ Wisconsin-Madison Üniversitesi'ndeki mühendisler tarafından geliştirilen bat
 
 Laboratuar testinde, cihazlar sıçanların vücut ağırlığının neredeyse yüzde 40'ını çıkardı. Çalışmanın sonuçları Nature Communications dergisinde bugün (17 Aralık 2018) yayımlandı.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 1 santimetreden daha az ya da bir ABD kuruşunun yaklaşık üçte birinin ölçülmesinde, vücutta kullanım için güvenli olan ve minimal invaziv bir prosedürle implante edilebilir olan küçük cihazlar, mide doğal çalkalama hareketlerinden hafif elektrik darbeleri üretir ve Onları, beyni ve mideyi birbirine bağlayan vagus sinirine yollayın.
 
 Bu hafif uyarım, beynin, yalnızca birkaç atıştırmalık gıdadan sonra dolu olduğunu düşünerek beynini kandırır.
-
 
 ![image](https://www.engr.wisc.edu/app/uploads/2018/12/Xudong-Wang-Guang-Standing-weight-loss-device-300x200.jpg)
 *Guang Yao ve Xudong Wang'ın fotoğrafı
@@ -25,6 +35,17 @@ UW-Madison malzeme bilimi ve mühendisliği profesörü olan Xudong Wang, “Nab
 Mide kapasitesini kalıcı olarak değiştiren gastrik bypasstan farklı olarak, yeni cihazların etkileri de tersine çevrilebilir. Wang ve onun işbirlikçileri 12 haftadan sonra cihazları çıkardığında, çalışmanın fareleri normal yeme alışkanlıklarına ve ağırlıkları tekrar sağa döndü.
 
 Wang’ın cihazı, mevcut bir üniteye göre kilo kaybı için vagus siniri uyaran çeşitli avantajlara sahiptir. 2015 yılında Gıda ve İlaç İdaresi tarafından onaylanan mevcut birim olan “Maestro”, beyin ve mide arasındaki tüm iletişimi kesmek için vagus sinirine yüksek frekanslı zapları yönetmektedir. Sıklıkla yeniden şarj edilmesi gereken karmaşık bir kontrol ünitesi ve hacimli piller gerektirir.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 UW – Madison’ın Minimal İnvaziv, Foregut ve Bariatrik Cerrahi Anabilim Dalı'nda araştırmada yer almayan bir cerrahi profesörü olan Dr. Luke Funk, devam eden bakımın kullanılmasının büyük bir engel olabileceğini söylüyor. “Mevcut vagus sinir uyarıcıları üzerindeki yeni cihazın potansiyel bir avantajı, harici pil şarjı gerektirmemesidir; bu da, hastaların bir saat boyunca haftada bir kez bir pil şarj etmek zorunda kaldıkları zaman yaşadıkları rahatsızlıktan dolayı önemli bir avantajdır. Yani, ”diyor.
 
