@@ -4,7 +4,8 @@ title: "İmplante edilebilir cihaz geliştirildi: Kilo kaybına yardımcı oluyo
 ---
 Büyüyen sayı ve kiloyla ilgili sağlık problemlerini “yükselen bir pandemik” olarak adlandırılan 2017 araştırmasına göre dünya çapında 700 milyondan fazla yetişkin ve çocuk obez.
 
-![image](https://www.engr.wisc.edu/app/uploads/2018/12/3Dprinter-Xudong-Wang-weight-loss-device-featured-copy-825w.jpeg)*Graduate student Guang Yao (seated) and principal investigator Xudong Wang (standing) make adjustments to a 3D printer that was used to fabricate implantable weight-loss devices. Photo credit: Sam Million-Weaver*
+![image](https://www.engr.wisc.edu/app/uploads/2018/12/3Dprinter-Xudong-Wang-weight-loss-device-featured-copy-825w.jpeg)
+*Yüksek lisans öğrencisi Guang Yao (oturmuş) ve baş araştırmacı Xudong Wang (ayakta durmak), implante edilebilir kilo kaybı cihazlarını imal etmek için kullanılan bir 3D yazıcıya ayarlamalar yapar. Fotoğraf kredisi: Sam Million-Weaver*
 
 Wisconsin-Madison Üniversitesi'ndeki mühendisler tarafından geliştirilen bataryasız, kolayca takılabilen yeni zayıflama cihazları, çıkmaza karşı savaşmak için umut verici yeni bir silah sunabilir.
 
