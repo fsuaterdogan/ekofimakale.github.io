@@ -10,8 +10,6 @@ Communications Biology'de yayınlanan araştırma, dünyanın dört bir yanında
 
 > Davis Üniversitesi Tıp Fakültesi ve Göz Merkezi'nde oftalmoloji ve görme bilimi profesörü Ala Moshiri, “Bu, kalıtsal göz hastalığı olan kişiler için son derece değerli” dedi. “Tüm oftalmik topluluk bu verileri kullanmaya başlayacak.”
 
-Davis Üniversitesi'nden araştırmacılar tarafından yürütülen bu yeni çalışma, göz anatomisi ile ilişkili genleri tanımlamak için IMPC verilerini kullanıyor. Bu, IMPC'nin genetik araştırmayı belirli anatomilerle ilişkili gen sayısını büyük ölçüde artırarak nasıl dönüştürdüğünün en iyi örneğidir. IMPC'nin amacı, nakavt farede standart bir fenotip boru hattı kullanılarak memeli genomunun fonksiyonel bir kataloğunu oluşturmaktır. Bu ölçekte, 12 ülkede 20 laboratuvardan oluşan bir projenin, 20.000 veya daha fazla genden oluşan bir veri tabanını doldurması gerekmektedir. Bu çalışma, 4364 genine dayanmaktadır ve bu çalışmanın analizi tamamlandığında bile, çalışma için mevcut olan fenotipli genlerin sayısı 5.000'in üzerine çıkmıştır.
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -23,7 +21,11 @@ Davis Üniversitesi'nden araştırmacılar tarafından yürütülen bu yeni çal
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-> IMPC başkanı Steve Brown şunları söyledi: IMPC'nin çalışması, genetik peyzaj ve çeşitli hastalık sistemlerine dahil olan genler ve yollar hakkındaki anlayışımızı dönüştürüyor. Çalıştığımız her sistem için, şimdiye kadar hastalık ile hiçbir zaman ilişkilendirilmemiş çok geniş bir gen yelpazesi buluyoruz. Burada bildirilen göz hastalığıyla ilişkili yeni genler de dahil olmak üzere bu bulgular, altta yatan genetik anlayışımızı aydınlatır ve genetik tanı ve terapötik müdahale için potansiyel yeni hedeflerde önemli ilerlemeler sağlar.
+Davis Üniversitesi'nden araştırmacılar tarafından yürütülen bu yeni çalışma, göz anatomisi ile ilişkili genleri tanımlamak için IMPC verilerini kullanıyor. Bu, IMPC'nin genetik araştırmayı belirli anatomilerle ilişkili gen sayısını büyük ölçüde artırarak nasıl dönüştürdüğünün en iyi örneğidir. IMPC'nin amacı, nakavt farede standart bir fenotip boru hattı kullanılarak memeli genomunun fonksiyonel bir kataloğunu oluşturmaktır. Bu ölçekte, 12 ülkede 20 laboratuvardan oluşan bir projenin, 20.000 veya daha fazla genden oluşan bir veri tabanını doldurması gerekmektedir. Bu çalışma, 4364 genine dayanmaktadır ve bu çalışmanın analizi tamamlandığında bile, çalışma için mevcut olan fenotipli genlerin sayısı 5.000'in üzerine çıkmıştır.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uh6wvsSF8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> IMPC başkanı Steve Brown şunları söyledi: "IMPC'nin çalışması, genetik peyzaj ve çeşitli hastalık sistemlerine dahil olan genler ve yollar hakkındaki anlayışımızı dönüştürüyor. Çalıştığımız her sistem için, şimdiye kadar hastalık ile hiçbir zaman ilişkilendirilmemiş çok geniş bir gen yelpazesi buluyoruz. Burada bildirilen göz hastalığıyla ilişkili yeni genler de dahil olmak üzere bu bulgular, altta yatan genetik anlayışımızı aydınlatır ve genetik tanı ve terapötik müdahale için potansiyel yeni hedeflerde önemli ilerlemeler sağlar."
 
 Kaç genin göz gelişimi ve hastalığı ile ilişkili olduğunu araştırmak için araştırmacılar, IMPC projesinin bir parçası olarak toplanan tüm ilgili fenotipleri kullandılar. Bunlar, tüm gözü etkileyen anatomik anormallikleri ve kornea, iris, lens, retina, koroid ve optik sinir dahil olmak üzere spesifik yapıları içerir.
 
