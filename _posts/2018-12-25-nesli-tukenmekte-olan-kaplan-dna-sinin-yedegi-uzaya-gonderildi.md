@@ -23,13 +23,14 @@ Guangdong eyaletinin başkenti Guangzhou'da bulunan hayvanat bahçesine göre, k
 
 Şu anda yerden yaklaşık 1000 kilometre ötedeki yörüngede ve düşük sıcaklıkta bulunuyor.
 
-Bu tür kaynakları kaybetme riskini önlemeye yardımcı olur ve yeryüzündeki türlerin orijinal gen verilerinin en son korunmasını sağlayabilir ve insan etkisinden korur.
+Bu, tür kaynakları kaybetme riskini önlemeye yardımcı olur ve yeryüzündeki türlerin orijinal gen verilerinin en son korunmasını sağlayabilir ve insan etkisinden korur.
 
 Güney Çin Kaplanı
 -
 Güney Çin kaplanı doğu, orta ve güney Çin’de yaşar ve Çin’e özgü bir kaplan türü olarak öne çıkar. Yaşayan Güney Çin kaplanları şu anda sadece hayvanat bahçelerinde görülmektedir.
 
 ![image](https://i.hizliresim.com/mM7481.jpg)
+* Uzay konteynırı - Kaplan DNA'sı Kredi: chinadailycomcn *  
 
 Bu sefer, Guangdong eyaleti, Shenzhen'deki bir havacılık teknolojisi şirketi olan Endless Door ile ortaklaşa düzenlenen ve Çin'deki Fırlatma Aracı Teknolojisi Akademisi ile birlikte kurutulmuş DNA tozu için ortak kaplar geliştirdi.
 
