@@ -4,6 +4,8 @@ title: "Rejeneratif tıp için önemli bir adım: İnsan kan hücreleri doğruda
 ---
 Kök hücreler, dokumuzun tamamlayıcıları olarak kabul edilir: süresiz olarak çoğalabilirler. Pluripotent embriyonik kök hücreler ise, akla gelebilecek tüm hücre tiplerini oluştururlar. 2006 yılında, Japon bilim adamı Shinya Yamanaka, bu tür hücrelerin laboratuarda da üretilebileceğini kabul etti - olgun vücut hücrelerinden. Yamanaka, bu keşif için 2012 yılında Nobel Tıp Ödülü'ne layık görüldü.
 
+2018 ve çalışmanın geleceği 2019
+-
 Heidelberg'deki Alman Kanser Araştırma Merkezi (DKFZ) ve HI-STEM Direktörü Andreas Trumpp, "Bu kök hücre araştırmaları için büyük bir atılım oldu" dedi. “Bu, özellikle insan embriyonik kök hücrelerinin oluşumuna izin verilmeyen Almanya'daki araştırmalar için geçerlidir. Kök hücreler hem temel araştırmalar hem de hastalarda hastalıklı dokuyu restore etmeyi amaçlayan rejeneratif tedavilerin geliştirilmesi için büyük bir potansiyele sahiptir. Yeniden programlama, aynı zamanda problemlerle de ilişkilidir: Örneğin, pluripotent hücreler, teratomlar olarak adlandırılan germ hattı tümörlerini oluşturabilir.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
