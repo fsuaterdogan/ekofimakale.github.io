@@ -38,4 +38,4 @@ Konteyner, uzay radyasyonuna ve ani yüksek sıcaklıklara karşı koruma sağla
 
 Önceki araştırmalar insan ve hayvan gen örneklerinin yörüngede elde edilebildiğini başarılı bir şekilde kanıtladı.
 
-<p class="notice--info"><strong>Kredi: </strong><a href="https://www.dkfz.de/en/presse/pressemitteilungen/2018/dkfz-pm-18-71-Human-blood-cells-can-be-directly-reprogrammed-into-neural-stem-cells.php">https://www.dkfz.de/en/presse/pressemitteilungen/2018/dkfz-pm-18-71-Human-blood-cells-can-be-directly-reprogrammed-into-neural-stem-cells.php</a></p>
+<p class="notice--info"><strong>Kredi: </strong><a href="http://www.chinadaily.com.cn/a/201812/24/WS5c20943fa3107d4c3a00286c.html">http://www.chinadaily.com.cn/a/201812/24/WS5c20943fa3107d4c3a00286c.html</a></p>
