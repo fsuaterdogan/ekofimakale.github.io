@@ -10,6 +10,17 @@ Dünya Sağlık Örgütü (WHO), sorunu “bugün küresel sağlık, gıda güve
 
 Yeni bakteri türü, Galler, Brezilya, Irak ve Kuzey İrlanda'dan gelen araştırmacılardan oluşan Swansea Üniversitesi Tıp Fakültesinde bulunan bir ekip tarafından keşfedildi.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ![image](https://www.sciencedaily.com/images/2018/12/181227111427_1_540x360.jpg)
 
 *Yeni suş Streptomyces sp. myrophorea. Kredi: G Quinn, Swansea University*
@@ -26,6 +37,17 @@ Araştırmanın ana bulguları, Streptomyces'in yeni tanımlanmış suşu idi:
 
 WHO tarafından sağlıkla ilişkili enfeksiyonlardan sorumlu olarak tanımlanan ilk altı çok dirençli patojenin dördünün büyümesini inhibe["](https://tr.wiktionary.org/wiki/inhibe) etti (azalttı): Vankomisine dirençli Enterococcus faecium (VRE), metisiline dirençli Staphylococcus aureus (MRSA), Klebsiella pneumonia ve Carbenepenem'e dirençli Acinetobacter baumanii.
 Ayrıca, hücre duvarlarının yapısında farklı olan hem gram pozitif hem de gram negatif bakterileri inhibe etmiştir; Genellikle gram negatif bakteriler antibiyotiklere karşı daha dirençlidir
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Yeni suşun hangi bileşeninin patojenlerin büyümesini önlediği henüz belli değil, ancak araştırmacılar bunu araştırıyor.
 
