@@ -5,10 +5,10 @@ title: "İşte araştırmacılar için yeni yöntem: Kanserin yayılmasını dur
 ![image](https://cdn.technologynetworks.com/tn/images/thumbnails/rectangle/converting-cancer-cells-to-fat-cells-to-stop-cancers-spread-313824.png)
 
 Bilim insanları kanserle adeta mücadele halindeler. Geçenlerde basit bir kan testi ile kanser tespit edebilen biyobelirteçleri keşfetmişlerdi.
-<p class="notice--info"><a href="https://makale.ekofi.science/yeni-kanser-arastirmasi-biyo-belirtec-kesfedildi/">Avustralyalı araştırmacılar benzersiz bir kanser biyobelirteçleri keşfettiler, basit bir kan testi ile kanser tespit edilebiliyor</a></p>
+<p class="notice--info"><a href="https://makale.ekofi.science/yeni-kanser-arastirmasi-biyo-belirtec-kesfedildi/"><strong>Önerilen makale: </strong>Avustralyalı araştırmacılar benzersiz bir kanser biyobelirteçleri keşfettiler, basit bir kan testi ile kanser tespit edilebiliyor</a></p>
 
 Ayrıca ‘çift’ etkili kanser öldürücü virüs keşfetmişlerdi.
-<p class="notice--info"><a href="https://makale.ekofi.science/bilim-insanlari-cift-etkili-kanser-oldurucu-virus-kesfettiler/">Bilim insanları ‘çift’ etkili kanser öldürücü virüs keşfettiler</a></p>
+<p class="notice--info"><a href="https://makale.ekofi.science/bilim-insanlari-cift-etkili-kanser-oldurucu-virus-kesfettiler/"><strong>Önerilen makale: </strong>Bilim insanları ‘çift’ etkili kanser öldürücü virüs keşfettiler</a></p>
 
 Meme kanseri hücrelerini yağ hücrelerine doğru "kandırmanın" bir yöntemi, Basel Üniversitesi'nden araştırmacılar tarafından keşfedildi. Ekip, EMT'den türetilmiş meme kanseri hücrelerini, hastalığın bir fare modelinde yağ hücrelerine dönüştürebildi ve bu da metastaz oluşumunu önledi. Kavram kanıtı çalışması, Cancer Cell dergisinde yayımlandı.
 
