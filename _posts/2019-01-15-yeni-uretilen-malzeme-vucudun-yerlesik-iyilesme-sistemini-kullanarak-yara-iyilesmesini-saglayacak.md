@@ -16,8 +16,6 @@ Dr. Ben Almquist ve Imperial College London'daki ekibi, geleneksel malzemelerin 
 
 Araştırmacılar, TRAP'leri mevcut tıbbi malzemelere dahil etmenin yaralanmaların tedavi edilmesinde devrim yaratabileceğini söylüyor. Imperial’ın Biyomühendislik Bölümünden Dr. Almquist şunları söyledi: “Teknolojimiz, iyileşmeyi sağlamak için dokularla aktif olarak çalışan yeni nesil bir malzemenin kullanılmasına yardımcı olabilir.”
 
-Bulgular İleri Malzemelerde yayınlanmaktadır.
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
