@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bilim adamları bir petri kabında mükemmel insan kan damarları büyüttüler"
+title: "Bilim insanları bir petri kabında insan kan damarları büyüttüler"
 ---
 ![image](https://news.ubc.ca/wp-content/uploads/2019/01/VascularOrganoid_illustration3-1024x766.jpg)
 
