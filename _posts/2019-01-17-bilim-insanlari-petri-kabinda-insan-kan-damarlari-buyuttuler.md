@@ -2,7 +2,7 @@
 layout: single
 title: "Bilim insanları bir petri kabında insan kan damarları büyüttüler"
 ---
-![image](https://news.ubc.ca/wp-content/uploads/2019/01/VascularOrganoid_illustration3-1024x766.jpg)
+![Kan, damar, kan damarı](https://news.ubc.ca/wp-content/uploads/2019/01/VascularOrganoid_illustration3-1024x766.jpg)
 
 *Orijinal verilere göre laboratuar yapımı insan kan damarları, vasküler organoids bir örneğidir. Kredi: IMBA*
 
@@ -43,7 +43,7 @@ Diyabet dünya çapında yaklaşık 420 milyon kişiyi etkilemektedir. Diyabetik
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![image](https://news.ubc.ca/wp-content/uploads/2019/01/basment-membrane-1-768x636.jpg)
+![Kan, damar, kan damarı, membran, baz](https://news.ubc.ca/wp-content/uploads/2019/01/basment-membrane-1-768x636.jpg)
 *Baz membranı*
 Diyabetik kan damarı hastalarda ve insandaki vasküler organoidlerde değişir. Kan damarlarının etrafındaki (kırmızı) taban zarı (yeşil), diyabetik hastalarda (beyaz oklar) büyük ölçüde genişlemiştir. Laboratuvarda “diyabetik” yapılan insan vasküler organoitleri şimdi yeni tedavileri tanımlamak için diyabetik model olarak kullanılabilir. Kredi: IMBA
 
