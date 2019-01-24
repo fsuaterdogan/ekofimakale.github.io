@@ -4,7 +4,7 @@ title: "Bilim insanları karbon zengini meteor örneklerinde hayatın yapı taş
 ---
 Bilim insanları simüle edilmiş meteor buzunu ultraviyole ışınımı ile bombalayarak 2-deoksiriboz (DNA'daki “D” yi oluşturan şeker) oluşturdular. Bu, astrofiziksel süreçlerle oluşturulabilecek geniş kapsamlı karmaşık biyolojik bileşikler listesine başka bir öğe ekler.
 
-![image](https://images.unsplash.com/photo-1468817739446-479f000a4c0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1370&q=80)
+![Meteor, şeker, uzay, dünya](https://images.unsplash.com/photo-1468817739446-479f000a4c0f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1370&q=80)
 
 Dünya dışı şeker
 -
@@ -46,7 +46,7 @@ Kısacası bu çalışma, 2-deoksiriboz gibi biyolojik bileşiklerin biyolojik o
 
 “Makalemiz, son 25 yılda yayınlanan benzer astrokimya deneylerini tarif eden diğer birkaç makale ile birlikte, astrofizik ortamlarda abiyotik (yani biyolojik olmayan) koşullar altında çok çeşitli biyolojik ilgi bileşiklerinin oluşabileceğini göstermektedir. ”NASA Ames Araştırma Merkezi'nden araştırmacı Michel Nuevo bir e-postada.
 
-![image](https://images.unsplash.com/photo-1438932150719-500cc59a04cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
+![Meteor, şeker, uzay, dünya](https://images.unsplash.com/photo-1438932150719-500cc59a04cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
 
 Hala DNA aranıyor
 -
