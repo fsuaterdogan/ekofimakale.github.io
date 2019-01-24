@@ -2,7 +2,7 @@
 layout: single
 title: "İşte araştırmacılar için yeni yöntem: Kanserin yayılmasını durdurmak için kanser hücrelerini yağ hücrelerine dönüştürmek"
 ---
-![image](https://cdn.technologynetworks.com/tn/images/thumbnails/rectangle/converting-cancer-cells-to-fat-cells-to-stop-cancers-spread-313824.png)
+![Kanser hücresi, hücre](https://cdn.technologynetworks.com/tn/images/thumbnails/rectangle/converting-cancer-cells-to-fat-cells-to-stop-cancers-spread-313824.png)
 
 Bilim insanları kanserle adeta mücadele halindeler. Geçenlerde basit bir kan testi ile kanser tespit edebilen biyobelirteçleri keşfetmişlerdi.
 <p class="notice--info"><a href="https://makale.ekofi.science/yeni-kanser-arastirmasi-biyo-belirtec-kesfedildi/"><strong>Önerilen makale: </strong>Avustralyalı araştırmacılar benzersiz bir kanser biyobelirteçleri keşfettiler, basit bir kan testi ile kanser tespit edilebiliyor</a></p>
@@ -35,7 +35,7 @@ Kanser hücreleri, primer tümörden uzaklaşmak ve sekonder metastazları oluş
 
 Fare ve insan meme kanserinin fare modellerini kullanan ekip, EMT sürecinde kanser hücrelerini terapötik olarak hedefleyip hedefleyemediklerini araştırdı - hücreler oldukça plastik bir durumda. Farelere Rosiglitazon, MEK inhibitörleri ile kombinasyon halinde uygulandığında, kanser hücrelerinin post-mitotik ve fonksiyonel adipositlere (yağ hücreleri) dönüşmesine neden olmuştur. Ek olarak primer tümör büyümesi baskılandı ve metastaz önlendi.
 
-![image](https://cdn.technologynetworks.com/tn/images/body/imageresized1547471232181.jpg)
+![Tümor, kanser hücresi, yağ hücresi](https://cdn.technologynetworks.com/tn/images/body/imageresized1547471232181.jpg)
 *Tümörün yüzeyinde (solda) yeşil renkte işaretlenmiş kanser hücreleri ve kırmızı ile işaretlenmiş bir yağ hücresi. Tedaviden sonra (sağ), üç eski kanser hücresi yağ hücrelerine dönüştürülmüştür. Yeşil ve kırmızı renkteki birleşik işaretleme, koyu sarı görünmelerine neden olur. Kredi: Basel Üniversitesi, Biyomedikal Anabilim Dalı*
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
