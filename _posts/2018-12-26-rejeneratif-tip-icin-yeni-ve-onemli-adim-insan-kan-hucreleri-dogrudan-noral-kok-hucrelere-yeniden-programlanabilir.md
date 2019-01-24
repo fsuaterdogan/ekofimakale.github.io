@@ -21,7 +21,7 @@ Heidelberg'deki Alman Kanser Araştırma Merkezi (DKFZ) ve HI-STEM Direktörü A
 
 Diğer bir olasılık da, gelişim sürecini tamamen geri çevirmemektir. İlk kez, Trumpp'in ekibi olgun insan hücrelerini, neredeyse belirsiz bir şekilde çoğalabilen tanımlanmış bir tür nöral kök hücrelerin üretildiği şekilde yeniden programlamayı başardı. Çalışmanın ilk yazarı Marc Christian Thier, “Yamanaka gibi dört genetik faktör kullandık, yeniden programlamamız için farklı olanları kullandık” diye açıklıyor. “Faktörlerimizin, sinir sisteminin gelişiminin erken bir aşamasına kadar yeniden programlamaya izin vereceğini varsaydık.”
 
-![image](https://images.unsplash.com/photo-1507413245164-6160d8298b31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Sinir, sinir sistemi, nöron, nöral ağ](https://images.unsplash.com/photo-1507413245164-6160d8298b31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Geçmişte, diğer araştırma grupları ayrıca bağ doku hücrelerini olgun sinir hücrelerine veya sinir öncü hücrelerine yeniden programladı. Bununla birlikte, yapay olarak üretilen bu sinir hücreleri çoğu zaman genişleyemedi ve bu nedenle terapötik amaçlar için zorlukla kullanılabildi. Andreas Trumpp, “Genellikle, fizyolojik koşullar altında vücutta bulunmayabilecek farklı hücre tiplerinde heterojen bir karışımdı” dedi.
 
