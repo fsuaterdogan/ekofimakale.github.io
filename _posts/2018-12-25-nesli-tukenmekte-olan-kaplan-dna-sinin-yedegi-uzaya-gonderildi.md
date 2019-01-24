@@ -4,7 +4,7 @@ title: "Nesli tükenmekte olan kaplan DNA'sının yedeği uzaya gönderildi"
 ---
 Nesli tükenmekte olan kaplan DNA'sı yedek olarak uzaya gönderildi - Guangzhou Hayvanat Bahçesinin bir Güney Çin kaplanından gelen kuru DNA tozu, bu nesli tükenmekte olan türlerin genlerinin yedek depolanması için Cumartesi günü Long 11 Mart taşıyıcı roketi tarafından uzaya püskürtüldü.
 
-![image](https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Kaplan, DNA, kaplan DNA](https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Guangzhou Hayvanat Bahçesinde bir Güney Çin kaplanından elde edilen kuru DNA tozu, bu nesli tükenmekte olan bu türlerin genlerinin yedek depolanması için Cumartesi günü Long 11 Mart taşıyıcı roketiyle uzaya fırlatıldı.
 
@@ -29,7 +29,7 @@ Güney Çin Kaplanı
 -
 Güney Çin kaplanı doğu, orta ve güney Çin’de yaşar ve Çin’e özgü bir kaplan türü olarak öne çıkar. Yaşayan Güney Çin kaplanları şu anda sadece hayvanat bahçelerinde görülmektedir.
 
-![image](https://i.hizliresim.com/mM7481.jpg)
+![Uzay, DNA, Kaplan DNA](https://i.hizliresim.com/mM7481.jpg)
 * Uzay konteynırı - Kaplan DNA'sı Kredi: chinadailycomcn *  
 
 Bu sefer, Guangdong eyaleti, Shenzhen'deki bir havacılık teknolojisi şirketi olan Endless Door ile ortaklaşa düzenlenen ve Çin'deki Fırlatma Aracı Teknolojisi Akademisi ile birlikte kurutulmuş DNA tozu için ortak kaplar geliştirdi.
