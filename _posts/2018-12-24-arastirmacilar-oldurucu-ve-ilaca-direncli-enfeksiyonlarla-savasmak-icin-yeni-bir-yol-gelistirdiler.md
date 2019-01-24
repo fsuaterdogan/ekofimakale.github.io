@@ -23,7 +23,7 @@ Araştırmacılar daha önce doğal olarak oluşan bir antibiyotik bileşik olan
 
 Tiyopeptitleri daha iyi kullanmak için, CU Boulder araştırmacıları temellere geri döndü ve bu moleküllerin temel kimyasal özellikleri hakkındaki önceki varsayımları yeniden inceledi.
 
-![image](https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![İlaç, antibiyotik](https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
 Yeni araştırmanın yazarı ve CU Boulder Bölümü'nde yardımcı doçent olan Maciej Walczak, “Bu tiyopeptitlerin yapısal ortaklıkları, mevcut süper böcekler ışığında yeniden değerlendirildi, çünkü kimse onlara bakmadı ve modern bağlamda analiz etmedi” dedi. Kimya
 
