@@ -21,7 +21,7 @@ Yeni bakteri türü, Galler, Brezilya, Irak ve Kuzey İrlanda'dan gelen araştı
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![image](https://www.sciencedaily.com/images/2018/12/181227111427_1_540x360.jpg)
+![Suş, su, yeni suş](https://www.sciencedaily.com/images/2018/12/181227111427_1_540x360.jpg)
 
 *Yeni suş Streptomyces sp. myrophorea. Kredi: G Quinn, Swansea University*
 
