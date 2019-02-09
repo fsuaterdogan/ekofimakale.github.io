@@ -8,6 +8,8 @@ Bal arıları susam büyüklüğünde beyine sahip olabilir, ancak matematik kon
 
 Çarşamba günü Science Advances dergisinde yayınlanan makalede, araştırmacılar 14 arıları eğitmek için renk kodlu şekilleri basit aritmetik yapmak için nasıl kullandıklarını açıkladılar. Bir matematik problemi ve iki olası çözümle (biri doğru, biri yanlış) sunulduğunda, bu eğitimli arılar zamanın % 63.6'sı ile % 72.1'i arasında doğru seçeneği seçti - rastgele seçtilerinden çok daha sık.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fG3vvLUctbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p class="notice--info"><a href="https://makale.ekofi.science/dunyanin-manyetik-alani-guney-atlantikte-neden-normal-degil/"><strong>Önerilen makale: </strong>Dünya'nın manyetik alanı güney atlantik bölgesinde anormaldir</a></p>
 
 Bu gelişme beyin büyüklüğü ile zeka arasındaki ilişkiyi daha fazla soruya yöneltiyor ve hatta bilim adamlarının matematiğin gerçekten sandığımız kadar zor olup olmadığını sorgulamasını sağlıyor.
