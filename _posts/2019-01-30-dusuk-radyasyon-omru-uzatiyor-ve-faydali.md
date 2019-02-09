@@ -2,7 +2,7 @@
 layout: single
 title: "Atom bombalarından düşük dozlu radyasyona maruz kalmak sizce faydalı mıydı? Büyük ihtimalle"
 ---
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/800px-Atomic_bombing_of_Japan.jpg)
+![bomba, nagazaki, hiroşima, atom, atom bombası, atom bomba](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/800px-Atomic_bombing_of_Japan.jpg)
 *Wikimedia Commons, Japonya'ya atılan bombalar*
 
 Ağustos 1945’te, ABD, Japonya'nın Hiroşima ve Nagazaki kentlerine atom bombası attı. Benzeri görülmemiş patlamalar ve bunun sonucunda meydana gelen radyoaktif serpinti, yaklaşık 200.000 kişinin trajik ölümleriyle sonuçlandı.
@@ -24,4 +24,4 @@ Radyasyon hormesisi birçok çalışma ile desteklenmektedir, ancak şu anda Ulu
 
 Hormesis laboratuvarda çalışmak zordur - sizce radyasyona maruz kalan kişilerin ne kadar zararlı veya yararlı olduğunu bilmeden dozu ayarlamak etik midir? Sutou'nun yeni bulguları radyasyon hormesisi vakasını güçlendirmekte, ancak radyasyona maruz kalma konusundaki mevcut toleranssız politikaları değiştirmek muhtemelen yeterli olmayacaktır.
 
-<p class="notice--info"><strong>Credit: </strong><a href="https://doi.org/10.1186/s41021-018-0114-3">https://doi.org/10.1186/s41021-018-0114-3</a></p>
+<p class="notice--info"><strong>Kredi: </strong><a href="https://doi.org/10.1186/s41021-018-0114-3">https://doi.org/10.1186/s41021-018-0114-3</a></p>
