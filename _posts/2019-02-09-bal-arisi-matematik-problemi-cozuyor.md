@@ -4,7 +4,7 @@ title: "Bal arıları matematik problemleri çözüp insan beyninin üstünlüğ
 ---
 ![çiçek, arı, bal](https://i.hizliresim.com/V9QEqV.jpg)
 
-Bal arıları susam büyüklüğünde beynine sahip olabilir, ancak matematik konusunda çok iyiler. Çarpıcı yeni araştırmalar, daha büyük beyinlerimizin mutlaka daha iyi ya da özellikle benzersiz olmadığını öne sürerek basit matematik yapabileceklerini gösteriyor.
+Bal arıları susam büyüklüğünde beyine sahip olabilir, ancak matematik konusunda çok iyiler. Çarpıcı yeni araştırmalar, daha büyük beyinlerimizin mutlaka daha iyi ya da özellikle benzersiz olmadığını öne sürerek basit matematik yapabileceklerini gösteriyor.
 
 Çarşamba günü Science Advances dergisinde yayınlanan makalede, araştırmacılar 14 arıları eğitmek için renk kodlu şekilleri basit aritmetik yapmak için nasıl kullandıklarını açıkladılar. Bir matematik problemi ve iki olası çözümle (biri doğru, biri yanlış) sunulduğunda, bu eğitimli arılar zamanın yüzde 63.6'sı ile % 72.1'i arasında doğru seçeneği seçti - rastgele seçtilerinden çok daha sık.
 
