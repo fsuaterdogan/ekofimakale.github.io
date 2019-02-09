@@ -9,6 +9,8 @@ Ağustos 1945’te, ABD, Japonya'nın Hiroşima ve Nagazaki kentlerine atom bomb
 
 Patlamaların yarattığı yüksek iyonize edici radyasyon, ilk patlamalardan kurtulan kişileri çeşitli kanserlere mahkum etti. Bununla birlikte, garip bir şekilde, daha düşük radyasyon dozlarına maruz kalanlar gerçekte uzun ömürlü olabilir ve kanser mortalitesini düşürmüş olabilirler. Bu durum, Genes and Environment dergisinde yakın zamanda basılan bir makalenin açıklaması.
 
+<p class="notice--info"><a href="https://makale.ekofi.science/dunyanin-manyetik-alani-guney-atlantikte-neden-normal-degil/"><strong>Önerilen makale: </strong>Dünya'nın manyetik alanı güney atlantik bölgesinde anormaldir</a></p>
+
 Makalenin yazarı Shujitsu Kadınlar Üniversitesi'nden Araştırmacı Shizuyo Sutou. Sutou, 1950'den bu yana atom bombası patlamasından 120.000 kişinin kurtulduğunu takip eden Hayat Boyu Çalışma'dan elde edilen verileri incelemiştir. Yaptığı analizler, 0.005 ile 0.5 Gr arasındaki radyasyona maruz kalanların (hafif radyasyon hastalığının başlamasından hemen önce) göreceli ölüm oranlarından daha düşük olduğunu göstermiştir. Atom bombası radyasyonuna maruz kalmayan kontrol bireyleri.
 
 ![radyasyon, kanser](http://assets.realclear.com/images/46/468202_5_.gif)
