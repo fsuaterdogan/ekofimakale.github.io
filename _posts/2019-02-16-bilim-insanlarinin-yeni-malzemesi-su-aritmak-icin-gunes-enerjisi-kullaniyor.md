@@ -3,7 +3,7 @@ layout: single
 title: "Yeni malzeme, suyu hızlı ve güvenli bir şekilde arıtmak için ışık kullanıyor: Testlerde, kirli sudaki bakterilerin %99'unu öldürdü"
 ---
 ![su, temiz su](https://images.unsplash.com/photo-1460501501851-d5946a18e552?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
-<p class="notice--danger"><a><strong>Önerilen makale: </strong>Dünyada 2 milyardan fazla insanın güvenli içme suyu yok.</a></p>
+<p class="notice--danger"><a>Dünyada <strong>2 milyardan fazla</strong> insanın güvenli içme suyu yok.</a></p>
 
 Bir prototip “yeşil” malzeme, ışık kullanarak, dört kişi için yalnızca bir saat içinde günlük yeterli suyu arıtıyor. *Chem*'de araştırmacıların yazdığı rapora göre, testlerde 10 litre sudaki bakterilerin neredeyse %100'ünü öldürdü.
 
