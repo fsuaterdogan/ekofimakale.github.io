@@ -30,4 +30,12 @@ Wang, “Poliolefin atıklarını dönüştürmek için büyük bir başarı eld
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRbc_0SaVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+```
+!git clone https://github.com/tensorflow/models.git
+!apt-get -qq install libprotobuf-java protobuf-compiler
+!protoc ./models/research/object_detection/protos/string_int_label_map.proto --python_out=.
+!cp -R models/research/object_detection/ object_detection/ #Dosya ve klasör kopyalama işlemleri gerçekleştiriyor. cp kaynak-dosya-klasor - hedef-dosya-klasor
+!rm -rf models #Dosyayı siler
+```
+
 <p class="notice--info"><strong>Kredi: </strong><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.8b03841">https://pubs.acs.org/doi/10.1021/acssuschemeng.8b03841</a></p>
