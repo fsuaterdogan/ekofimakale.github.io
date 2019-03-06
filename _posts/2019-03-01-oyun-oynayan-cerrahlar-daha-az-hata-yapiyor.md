@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<img src="https://img.icons8.com/nolan/64/000000/mind-map.png"> Geçmişte haftada üç saatten fazla video oyunu oynayan cerrahlar yüzde 37 daha az hata yapıyor ve genel olarak yüzde 27 daha hızlılar"
+title: "Geçmişte haftada üç saatten fazla video oyunu oynayan cerrahlar yüzde 37 daha az hata yapıyor ve genel olarak yüzde 27 daha hızlılar"
 ---
 ![doktor, ameliyat, muayene, cerrah](https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
