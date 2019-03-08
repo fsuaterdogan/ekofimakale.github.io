@@ -2,6 +2,7 @@
 layout: single
 title: "Python'da yapay zekâ ile obje algılama nasıl yapılır?"
 ---
+İlk düzenleme
 ```
 !git clone https://github.com/tensorflow/models.git
 !apt-get -qq install libprotobuf-java protobuf-compiler
@@ -9,6 +10,7 @@ title: "Python'da yapay zekâ ile obje algılama nasıl yapılır?"
 !cp -R models/research/object_detection/ object_detection/ #Dosya ve klasör kopyalama işlemleri gerçekleştiriyor. cp kaynak-dosya-klasor - hedef-dosya-klasor
 !rm -rf models #Dosyayı siler
 ```
+Kütüphaneleri aktarma
 ```
 import numpy as np
 import os
@@ -27,10 +29,8 @@ from PIL import Image
 from object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as vis_util
 ```
+Model aktarımı
 ```
-#Hangi model kullanılacak
-# MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
-
 #Daha iyi sonuç veren model
 MODEL_NAME = 'faster_rcnn_inception_resnet_v2_atrous_coco_2017_11_08'
 
@@ -70,6 +70,7 @@ def load_image_into_numpy_array(image):
   return np.array(image.getdata()).reshape(
       (im_height, im_width, 3)).astype(np.uint8)
 ```
+Resim aktarma
 ```
 #Make directory images: images adında yeni yön oluşturur
 !mkdir images
@@ -85,6 +86,7 @@ TEST_IMAGE_PATHS = [ os.path.join(PATH_TO_TEST_IMAGES_DIR, 'resim_{}.jpg'.format
 
 IMAGE_SIZE = (12, 8)
 ```
+Gösterme
 ```
 with detection_graph.as_default():
   with tf.Session(graph=detection_graph) as sess:
