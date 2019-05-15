@@ -1,0 +1,126 @@
+---
+layout: single
+title: "Kriptografi - Karışım ağları nedir?"
+---
+Karışım ağları, birden fazla göndericiden mesaj alan, karıştıran ve bir sonraki hedefe rastgele sırayla gönderen, karışım olarak bilinen bir proxy sunucu zinciri kullanarak izlemesi zor iletişim kurabilen yönlendirme protokolleridir. Bu, isteğin kaynağı ve hedef arasındaki bağlantıyı keserek, dinleyicilerin uçtan uca iletişim kurmasını izlemesini zorlaştırır.
+
+Her mesaj, ortak anahtar şifrelemesi kullanılarak her proxy'ye şifrelenir; Elde edilen şifreleme, en içteki katmanla birlikte verilen bir mesajla (her "matruşka"nın aynı boyutta olması dışında) bir Matruşka gibi katmanlanır. Her proxy sunucusu, iletiyi daha sonra nereye göndereceğinizi ortaya çıkarmak için kendi şifreleme katmanını çıkarır. Proxy sunucularından biri dışındakilerin tümü izleyici tarafından tehlikeye atılırsa, bazı zayıf rakiplere karşı hala izlenememe elde edilebilir.
+
+Karma ağlar kavramı ilk olarak 1981 yılında David Chaum tarafından tanımlanmıştır.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Nasıl çalışır?
+-
+Katılımcı A, mesaja rastgele bir R değeri ekleyerek, alıcının genel anahtarı {\ displaystyle K_ {b}} K_ {b}, B'nin adresini ekleyerek ve ardından sonucu mühürleyerek, B üyesine teslim için bir mesaj hazırlar. karışımın ortak anahtarı {\ displaystyle K_ {m}} K_ {m}. M onu özel anahtarıyla açar, şimdi B'nin adresini bilir ve {\ displaystyle K_ {b} (mesaj, R)} K_b (mesaj, R) 'yi B'ye gönderir.
+
+* Mesaj formatı
+{\ displaystyle K_ {m} (R1, K_ {b} (R0, mesaj), B) \ longrightarrow (K_ {b} (R0, mesaj), B)} K_m (R1, K_b (R0, mesaj), B ) \ longrightarrow (K_b (R0, mesaj), B)
+
+Bunu başarmak için, gönderen, karışımın ortak anahtarını alır ({\ displaystyle K_ {m}} K_ {m}) ve onu, adreslenmiş bir yuvalanmış bir rastgele dize ({\ displaystyle R1} R1) içeren bir zarfı şifrelemek için kullanır. alıcıya ve alıcının e-posta adresi (B). Bu iç içe geçmiş zarf, alıcının genel anahtarıyla şifrelenmiştir ({\ displaystyle K_ {b}} K_ {b}) ve gönderilen iletinin gövdesiyle birlikte başka bir rastgele dize (R0) içerir. Şifreli üst düzey zarfın alınmasından sonra, karışım açmak için gizli anahtarını kullanır. İçeride, alıcının adresini (B) ve B'ye bağlı şifreli bir mesajı bulur. Rasgele dize ({\ displaystyle R1} R1) atılır.
+
+Bir saldırganın mesajları tahmin etmesini önlemek için mesajda {\ displaystyle R0} R0 gereklidir. Saldırganın gelen ve giden tüm mesajları gözlemleyebileceği varsayılmaktadır. Eğer rastgele dize kullanılmazsa (yani sadece {\ displaystyle (K_ {b} (mesaj))}} (K_b (mesaj)) {\ displaystyle B} B'ye gönderilir) ve bir saldırgan mesajın { \ displaystyle mesaj '} mesajı' gönderildi, {\ displaystyle K_ {b} (mesaj ') = K_ {b} (mesaj)} K_b (mesaj') = K_b (mesaj) 'ın tutup tutmadığını test edebilir. mesajın içeriği. {\ Displaystyle R0} R0 rasgele dizesini ekleyerek saldırganın bu tür saldırıları gerçekleştirmesi engellenir; doğru mesajı tahmin etse bile (yani, {\ displaystyle mesaj '= message} message' = mesaj doğru), doğru değeri {0 displaystyle R0} R0 bilmediğinden haklı olup olmadığını öğrenmeyecektir. Pratik olarak, {\ displaystyle R0} R0 bir tuz işlevi görür.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+* Dönüş adresleri
+Şimdi ihtiyaç duyulan şey, A'nın kimliğini hala B'den korurken, B'nin A'ya yanıt vermesinin bir yoludur.
+
+Çözüm, A'nın izlenemeyen bir geri dönüş adresi oluşturabilmesi için {\ displaystyle K_ {m} (S1, A), K_ {x}} K_m (S1, A), K_x, burada {\ displaystyle A} A'nın kendi gerçek adresi olduğu, {\ displaystyle K_ {x}} K_ {x}, yalnızca geçerli durum için seçilen genel bir kerelik bir anahtardır ve {\ displaystyle S1} S1, sızdırmazlık amacıyla da rasgele bir dize görevi görecek bir anahtardır. Daha sonra, A bu geri dönüş adresini daha önce tarif edilen teknikler tarafından gönderilen bir mesajın parçası olarak B'ye gönderebilir.
+
+B {\ displaystyle K_ {m} (S1, A), K_ {x} (S0, yanıt)} K_m (S1, A), K_x (S0, yanıt) M 'ye gönderir ve M onu {\ displaystyle A' ya dönüştürür. , S1 (K_ {x} (S0, yanıt))} {\ displaystyle A, S1 (K_ {x} (S0, yanıt))}.
+
+Bu karışım, mesaj bölümünü yeniden şifrelemek için bir anahtar olarak {\ displaystyle K_ {m} (S1, A)} K_m (S1, A) adres kısmının şifresini çözdükten sonra bulduğu {\ displaystyle S1} S1 bit dizesini kullanır. {\ displaystyle K_ {x} (S0, yanıt)} K_x (S0, yanıt). Sadece muhatap A, elde edilen çıktının şifresini çözebilir, çünkü A hem {\ displaystyle S1} S1 hem de {\ displaystyle K_ {x}} K_ {x} oluşturmuştur. {\ Displaystyle K_ {x}} K_ {x} ek anahtarı, karışımın cevap iletisinin içeriğini görememesini sağlar.
+
+Aşağıdakiler, B'nin bu izlenemeyen geri dönüş adresini, yeni bir tür karışım yoluyla A'ya bir yanıt oluşturmak için nasıl kullandığını gösterir:
+
+A {\ displaystyle \ longrightarrow} \ longrightarrow B'den gelen mesaj:
+
+{\ displaystyle K_ {m} (R1, K_ {b} (R0, mesaj, K_ {m} (S1, A), K_ {x}), B) \ longrightarrow K_ {b} (R0, mesaj, K_ { m} (S1, A), K_ {x})} K_m (R1, K_b (R0, mesaj, K_m (S1, A), K_x), B) \ longrightarrow K_b (R0, mesaj, K_m (S1, A) , K_x)
+
+B {\ displaystyle \ longrightarrow} \ longrightarrow A kullanıcısının yanıtladığı mesaj:
+
+{\ displaystyle K_ {m} (S1, A), K_ {x} (S0, yanıt) \ longrightarrow A, S1 (K_ {x} (S0, yanıt))} K_m (S1, A), K_x (S0, yanıt) \ longrightarrow A, S1 (K_x (S0, yanıt))
+
+Burada: {\ displaystyle K_ {b}} K_ {b} = B’nin genel anahtarı, {\ displaystyle K_ {m}} K_ {m} = karışımın genel anahtarı.
+
+Bir hedef, kaynak anonimliğinden ödün vermeden bir kaynağa cevap verebilir. Cevap mesajı, kaynaktan gelen hedefe yapılan anonim mesajlarla tüm performans ve güvenlik avantajlarını paylaşır.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+Güvenlik açıkları
+-
+* Tehdit modeli
+Bir rakip, karma ağa gelen ve bu ağdan gelen trafiği izleyerek pasif bir saldırı gerçekleştirebilir. Birden fazla paket arasındaki varış zamanlarını analiz etmek, bilgiyi ortaya çıkarabilir. Paketlerde aktif olarak hiçbir değişiklik yapılmadığından, böyle bir saldırının tespit edilmesi zordur. En kötü saldırı durumunda, ağın tüm bağlantılarının düşman tarafından gözlenebildiğini ve karışım ağının stratejileri ve altyapısının bilindiğini varsayıyoruz.
+
+Bir giriş bağlantısındaki bir paket, paketin alındığı zaman, paketin boyutu veya paketin içeriği hakkındaki bilgilere dayanarak çıktı linkindeki bir paket ile ilişkilendirilemez. Paket zamanlamasına dayalı paket korelasyonu gruplama ile engellenir, içerik ve paket boyutuna dayalı korelasyon sırasıyla şifreleme ve paket dolgusu ile önlenir.
+
+Paketler arası aralıklar, yani iki ağ bağlantısında iki ardışık paketin gözlemlenmesi arasındaki zaman farkı, bağlantıların aynı bağlantıyı taşıdığını ortaya çıkarmak için kullanılır. Şifreleme ve doldurma, aynı IP akışına ilişkin paketler arası aralığı etkilemez. Paketler arası aralık dizileri bağlantılar arasında büyük farklılıklar gösterir, örneğin web'de gezinirken, trafik patlamalarda meydana gelir. Bu gerçek bir bağlantıyı tanımlamak için kullanılabilir.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+* Aktif saldırı
+Hedeflenen akışa benzersiz zamanlama imzaları içeren paket patlamaları enjekte edilerek aktif ataklar gerçekleştirilebilir. Saldırgan, bu paketleri diğer ağ bağlantılarında tanımlamaya çalışmak için saldırılar gerçekleştirebilir. Saldırgan, sonraki tüm karışımlarda gerekli olan simetrik anahtarların bilgisi nedeniyle yeni paketler oluşturamayabilir. Replay paketleri, karma ve önbellekleme yoluyla kolayca önlenebilir olduklarından kullanılamaz.
+
+* Yapay boşluk
+Eğer saldırgan akışta büyük miktarda ardışık paket düşürürse hedef akışında büyük boşluklar yaratılabilir. Örneğin, hedef akışına 3000 paket göndererek bir simülasyon gerçekleştirilir, burada saldırgan paketleri akışın başlamasından 1 saniye sonra düşürür. Ardışık paket sayısı azaldıkça, savunma bırakmanın etkinliği önemli ölçüde azalır. Büyük bir boşluğu tanıtmak hemen hemen her zaman tanınabilir bir özellik yaratacaktır.
+
+* Yapay patlamaları
+Saldırgan yapay patlamalar yaratabilir. Bu, yapay paketlerden belirli bir süre bir bağlantıda tutularak imzalandıktan sonra hepsini bir defada serbest bırakmak suretiyle yapılır. Savunma düşüşü bu senaryoda savunma yapmaz ve saldırgan hedef akışını belirleyebilir. Bu saldırıyı önlemek için alınabilecek başka savunma önlemleri var. Böyle bir çözüm, uyarlamalı doldurma algoritmaları olabilir. Paketler ne kadar ertelenirse, davranışı tanımlamak o kadar kolay olur ve bu nedenle daha iyi savunma gözlemlenebilir.
+
+* Diğer zaman analizi saldırıları
+Bir saldırgan, paketler arası aralıklar dışındaki diğer zamanlama saldırılarına da bakabilir. Saldırgan, ağın davranışında ortaya çıkan değişiklikleri gözlemlemek için paket akışlarını aktif olarak değiştirebilir. Davranışların bilgiyi ortaya çıkarmak için kolayca gözlenebildiği TCP paketlerinin yeniden iletilmesini zorlamak için paketler bozulabilir. [6]
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+* Uyuyan saldırı
+Bir düşmanın, mesajların eşik karışımlarına gönderildiğini ve alındığını görebildiğini, ancak bu karışımların dahili çalışmasını veya aynı tarafından ne gönderildiğini göremezler. Karşı taraf kendi mesajlarını ilgili karışımlarda bıraktıysa ve ikisinden birini alırsa, gönderilen mesajı ve ilgili göndereni belirleyebilir. Muhalif, mesajlarını (aktif bileşen) herhangi bir zamanda karışıma koymak zorundadır ve bir mesaj gönderilmeden önce mesajlar orada kalmalıdır. Bu tipik olarak aktif bir saldırı değildir. Daha zayıf rakipler, daha fazla soruna neden olmak için bu saldırıyı diğer saldırılarla birlikte kullanabilir.
+
+Karma ağlar, gelen ve giden mesajlar arasında anlamlı bir ilişki oluşturmaktan kaçınmak için aldıkları mesajların sırasını değiştirerek güvenlik sağlar. Karışımlar mesajlar arasında parazit yaratır. Girişim, karışımın bir gözlemcisine sızan bilgi oranını sınırlar. N büyüklüğündeki bir karışımda, karışıma giren ve çıkan bir ters gözlemci, bir eşleşmenin belirlenmesinde n düzen belirsizliğine sahiptir. Uyuyan bir saldırı bundan faydalanabilir. Katmanlı bir eşik karışımları ağında, her karışımda bir uyuyan ile, göndericilerin girişlerini alan bir katman ve mesajları nihai hedefe ileten bir ikinci karışım katmanı vardır. Bundan, saldırgan, alınan mesajın gönderenden, ateş etmeyen herhangi bir katman 1 karışımına gelemediğini öğrenebilir. Gönderilen ve alınan mesajları bu traverslerle eşleştirme olasılığı daha yüksektir, bu nedenle iletişim tamamen isimsiz değildir. Karışımlar ayrıca tamamen zamanlanabilir: belirli bir aralıkta alınan mesajların sırasını rastgele seçerler ve bazılarını karışımlara ekleyerek, aralığın sonunda bu aralıkta alınmış olmasına rağmen iletirler. Wi karıştırma için kullanılabilir.
+
+Etiketler: <a class="btn btn--primary">Bilişim</a> <a class="btn btn--primary">Kriptografi</a> <a class="btn btn--primary">Yazılım</a> <a class="btn btn--primary">Kodlama</a> <a class="btn btn--primary">Ağ</a>
