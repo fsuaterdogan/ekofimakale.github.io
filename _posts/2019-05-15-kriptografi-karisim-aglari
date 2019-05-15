@@ -2,9 +2,13 @@
 layout: single
 title: "Kriptografi - Karışım ağları nedir?"
 ---
+![hack, kripto, resim, kod](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 Karışım ağları, birden fazla göndericiden mesaj alan, karıştıran ve bir sonraki hedefe rastgele sırayla gönderen, karışım olarak bilinen bir proxy sunucu zinciri kullanarak izlemesi zor iletişim kurabilen yönlendirme protokolleridir. Bu, isteğin kaynağı ve hedef arasındaki bağlantıyı keserek, dinleyicilerin uçtan uca iletişim kurmasını izlemesini zorlaştırır.
 
-Her mesaj, ortak anahtar şifrelemesi kullanılarak her proxy'ye şifrelenir; Elde edilen şifreleme, en içteki katmanla birlikte verilen bir mesajla (her "matruşka"nın aynı boyutta olması dışında) bir Matruşka gibi katmanlanır. Her proxy sunucusu, iletiyi daha sonra nereye göndereceğinizi ortaya çıkarmak için kendi şifreleme katmanını çıkarır. Proxy sunucularından biri dışındakilerin tümü izleyici tarafından tehlikeye atılırsa, bazı zayıf rakiplere karşı hala izlenememe elde edilebilir.
+**Matruşka: Rus yapımı bir oyuncak bebek türüdür. Ahşap el yapımı olan bebekler ortasından açıldığında başka bir bebek çıkar, onu açtığınızda yine başka bir bebek çıkar.**
+
+Her mesaj, ortak anahtar şifrelemesi kullanılarak her proxy'ye şifrelenir; Elde edilen şifreleme, en içteki katmanla birlikte verilen bir mesajla (her "matruşka"nın aynı boyutta olması dışında) bir matruşka gibi katmanlanır. Her proxy sunucusu, iletiyi daha sonra nereye göndereceğinizi ortaya çıkarmak için kendi şifreleme katmanını çıkarır. Proxy sunucularından biri dışındakilerin tümü izleyici tarafından tehlikeye atılırsa, bazı zayıf rakiplere karşı hala izlenememe elde edilebilir.
 
 Karma ağlar kavramı ilk olarak 1981 yılında David Chaum tarafından tanımlanmıştır.
 
@@ -21,7 +25,7 @@ Karma ağlar kavramı ilk olarak 1981 yılında David Chaum tarafından tanımla
 
 Nasıl çalışır?
 -
-Katılımcı A, mesaja rastgele bir R değeri ekleyerek, alıcının genel anahtarı {\ displaystyle K_ {b}} K_ {b}, B'nin adresini ekleyerek ve ardından sonucu mühürleyerek, B üyesine teslim için bir mesaj hazırlar. karışımın ortak anahtarı {\ displaystyle K_ {m}} K_ {m}. M onu özel anahtarıyla açar, şimdi B'nin adresini bilir ve {\ displaystyle K_ {b} (mesaj, R)} K_b (mesaj, R) 'yi B'ye gönderir.
+Katılımcı A, mesaja rastgele bir R değeri ekleyerek, alıcının genel anahtarının adresini ekleyerek ve ardından sonucu mühürleyerek, B üyesine teslim için bir mesaj hazırlar. karışımın ortak anahtarı M olsun. M onu özel anahtarıyla açar, B'nin adresini bilir ve mesaj ve R'yi 'yi B'ye gönderir.
 
 * Mesaj formatı
 {\ displaystyle K_ {m} (R1, K_ {b} (R0, mesaj), B) \ longrightarrow (K_ {b} (R0, mesaj), B)} K_m (R1, K_b (R0, mesaj), B ) \ longrightarrow (K_b (R0, mesaj), B)
