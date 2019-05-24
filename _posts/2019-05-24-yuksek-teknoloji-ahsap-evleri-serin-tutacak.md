@@ -4,7 +4,7 @@ title: "Yüksek teknolojili ahşap üretildi: Güneş ışınlarını yansıtara
 ---
 ![resim](https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
-Bilim insanları, linyeni hidrojen peroksit kullanarak doğal odundan çıkararak yüksek teknolojili odun ürettiler. Bu odun, çok yoğun ve 404 megapaskal civarında bir gerilme mukavemetine sahip, bu da onu doğal odundan 8,7 kat daha güçlü yapıyor ve çelik dahil metal yapı malzemeleriyle karşılaştırılabiliniyor.
+Bilim insanları, linyeni hidrojen peroksit kullanıp doğal odundan çıkararak yüksek teknolojili odun ürettiler. Bu odun, çok yoğun ve 404 megapaskal civarında bir gerilme mukavemetine sahip, bu da onu doğal odundan 8,7 kat daha güçlü yapıyor ve çelik dahil metal yapı malzemeleriyle karşılaştırılabiliniyor.
 
 Yüksek teknolojili ahşaptan yapılmış evler, serin kalmamıza yardımcı olabilir ve ayrıca klimada kullanılan enerjiyi keserek karbon emisyonlarını azaltabilir.
 
