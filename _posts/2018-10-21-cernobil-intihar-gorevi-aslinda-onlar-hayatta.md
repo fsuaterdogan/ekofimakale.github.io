@@ -12,7 +12,7 @@ Reaktörün altındaki fıskiye havuzları, acil durum soğutma pompaları için
 Ne oldu?
 -
 Yakıt içeren kütle tarafından oluşturulan Çernobil corium lavı, reaktörün bodrumuna aktı.
-Üstte bulunan grafit, yakıt ve diğer materyaller 1200 ° C'den daha yüksek bir sıcaklıkta reaktör tabanından yanmaya başladı, reaktör kaplamasından erimiş betonla karıştırıldı ve lavula benzeyen radyoaktif bir yarı-sıvı malzeme olan corium oluştu. Bu karışım zeminden su havuzuna eritilmiş olsaydı, reaktörden daha fazla radyoaktif malzeme çıkaracak olan ciddi bir buhar patlaması yaratabileceğinden korkuluyordu. Havuzun boşaltılması gerekti.
+Üstte bulunan grafit, yakıt ve diğer materyaller 1200 ° C'den daha yüksek bir sıcaklıkta reaktör tabanından yanmaya başladı, reaktör kaplamasından erimiş betonla karıştırıldı ve lava benzeyen radyoaktif bir yarı-sıvı malzeme olan corium oluştu. Bu karışım zeminden su havuzuna eritilmiş olsaydı, reaktörden daha fazla radyoaktif malzeme çıkaracak olan **ciddi bir buhar patlaması yaratabileceğinden korkuluyordu**. Havuzun boşaltılması gerekti.
 
 Fıskiye havuzu savak kapılarını açarak boşaltılabilir. Ancak, onu kontrol eden vanalar bodrumda **su basmış bir koridorda bulunuyordu**. Böylece, dalış kıyafetleri ve dozimetrelerle donatılmış gönüllüler, diz derinliğinde radyoaktif suya girmiş ve valfleri açmayı başarmıştır. Bunlar vardiya amiri Boris Baranov'un eşliğinde mühendisler Alexei Ananenko ve Valeri Bezpalov (valilerin nerede olduğunu bilenler) idi. 
 
