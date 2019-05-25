@@ -8,7 +8,7 @@ Peki bu yenilik nasıl oldu ve gündem olarak haber oldu?
 -
 Bir nevi daha iyi bir tuzak kuruldu: Indiana Universitesi araştırmacıları klorürü yakalamak için moleküler bir 'kafes' sentezledi
 
-![resim, 3 boyutlu baskı, 3d baskı](https://www.iu.edu/~images/dams/72wdqc.jpg)
+<img src="https://www.iu.edu/~images/dams/72wdqc.jpg" height="393" width="393">
 *Yun Liu, 3D-basılmış klorür yakalama molekül modelini tutarken. Fotoğraf Fred Zwicky @ Urbana-Champaign Illinois Üniversitesi*
 
 Önceden çok zayıf sayılan kimyasal bağlar kullanılarak inşa edilen yeni molekül, on yıl önce İÜ'de oluşturulan benzer yapıya kıyasla yaklaşık 10 milyar kez iyileştirildi. Molekülün tasarımı bugün Science dergisinde rapor edildi.
@@ -30,7 +30,7 @@ Molekül, element klorun bir elektron elde etmek üzere başka bir elementle eş
 
 Aynı zamanda insan nüfusu artmaya devam ederken, tatlı su sistemlerine tuz sızması tüm dünyada içilebilir sulara erişimi azaltmaktadır. Sadece ABD'de, ABD Jeolojik Araştırmaları, tuzlar dahil yaklaşık 272 metrik ton çözünmüş katı maddenin yıllık tatlı su akışlarına girdiğini tahmin etmektedir. Katkıda bulunan faktörler arasında yağ ekstraksiyonuna katılan kimyasal prosesler, yol tuzları ve su yumuşatıcılarının kullanımı ve kayanın doğal yıpranması bulunur. Beş galon suyu kalıcı olarak kirletmek sadece bir tatlı kaşığı tuz alır.
 
-![resim, mokekül, klorür, bilgisayar, görüntü](https://www.iu.edu/~images/dams/mfkcc4wtpt_w768.jpg)
+![resim, mokekül, klorür, bilgisayar, görüntü](https://www.iu.edu/~images/dams/mfkcc4wtpt_w768.jpg) 
 *Altı triazol molekülünün bilgisayar tarafından oluşturulan bir görüntüsü. Görüntü Yun Liu, Urbana-Champaign'deki Illinois Üniversitesi'nden*
 
 Oluşturulan yeni tuz özütleme molekülü, altı triazol "motif" ten (azot, karbon ve hidrojenden oluşan beş üyeli halkalar) ve birlikte klorürü mükemmel şekilde şekillendirmek için üç boyutlu bir "kafes" oluşturan üçlü halkadan oluşur. 2008'de Flood'un laboratuvarı, dört triazol kullanan, düz bir donut şeklinde iki boyutlu bir molekül üretti. İki ekstra triazol, yeni moleküle, üç boyutlu şeklini ve etkinlik bakımından 10 milyar kat artış sağlıyor.
@@ -52,7 +52,7 @@ Buna karşılık, azot-hidrojen bağları olan kafesler genellikle daha esnektir
 
 Flood, "Molekülümüzü alıp, daha güçlü bağlar kullanan diğer kafeslere karşı biriktirmek istiyorsanız, performans artışında birçok büyüklükten söz ediyoruz" dedi. “Bu çalışma, moleküler kafeslerin tasarımında katılığın önemsiz olduğunu gösteriyor.”
 
-![baskı kalitesinde görüntü](https://www.iu.edu/~images/dams/22rli68vwh_w768.jpg)
+<img src="https://www.iu.edu/~images/dams/22rli68vwh_w768.jpg" height="384" width="384">
 *Amar Flood. Fotoğrafı çeken Eric Rudd, Indiana Üniversitesi*
 
 Sertlik, aynı zamanda, merkezi klorür kaybolduktan sonra aynı esneklik nedeniyle aynı koşullar altında çöken diğer tasarımlara kıyasla molekülün şeklini korumasını sağlar. Bu, moleküle daha fazla etkinlik ve çok yönlülük kazandırır.
