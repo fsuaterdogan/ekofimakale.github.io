@@ -2,9 +2,11 @@
 layout: single
 title: "Yaban mersini yiyin ve kalp sağlığınız iyileşsin!"
 ---
-Her gün yaban mersini yemek kalp sağlığını iyileştirir - Bulgular günde 150g yaban mersini yemenin kardiyovasküler hastalık riskini yüzde 15'e kadar azalttığını gösteriyor
+![resim, yaban mersini, bitki](https://images.unsplash.com/photo-1498557850523-fd3d118b962e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
-Günde bir bardak yaban mersini yemek, Harvard ve Birleşik Krallık'taki meslektaşları ile işbirliği içinde, East Anglia Üniversitesi tarafından yürütülen yeni bir araştırmaya göre, kalp-damar hastalıkları için risk faktörlerini azaltır.
+Her gün yaban mersini yemek kalp sağlığını iyileştiriyor - Bulgular günde 150g yaban mersini yemenin kardiyovasküler hastalık riskini yüzde 15'e kadar azalttığını gösteriyor
+
+Günde bir bardak yaban mersini yemek, Harvard ve Birleşik Krallık'taki meslektaşları ile işbirliği içinde, East Anglia Üniversitesi tarafından yürütülen yeni bir araştırmaya göre, kalp-damar hastalıkları için risk faktörlerini azaltıyor.
 
 Amerikan Klinik Beslenme Dergisi'nde bugün yayınlanan yeni bulgular, günde 150g yaban mersini yemenin kardiyovasküler hastalık riskini yüzde 15'e kadar azalttığını gösteriyor.
 
