@@ -12,7 +12,7 @@ locale                   : "tr-TR"
 title                    : "Ekofi Bilim"
 title_separator          : "-"
 name                     : "Ekofi Bilim"
-description              : "Her hayal bir dünyadır."
+description              : "Yeni bilimsel haberlere göz at, en ilginç ve harika içerikler hakkında bilgi edin."
 url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
