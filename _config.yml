@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "tr-TR"
-title                    : "Ekofi Bilim"
+title                    : "Ekofi Bilim - Türkçe Güncel Bilim Haberleri"
 title_separator          : "-"
 name                     : "Ekofi Bilim"
 description              : "Yeni bilimsel haberlere göz at, en ilginç ve harika içerikler hakkında bilgi edin."
