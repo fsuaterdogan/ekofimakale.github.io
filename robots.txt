@@ -4,3 +4,4 @@ Disallow: /cgi-bin
 Disallow: /ads.txt
 Disallow: /google9addec99eefa7ab3.html
 Disallow: /op5_default_v1_4k.png
+Sitemap: https://makale.ekofi.science/sitemap.xml
