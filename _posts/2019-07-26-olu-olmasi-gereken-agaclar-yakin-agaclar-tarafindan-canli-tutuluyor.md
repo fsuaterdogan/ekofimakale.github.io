@@ -28,7 +28,7 @@ Mantarların ağaçların karbon ve diğer besin maddelerini değiştirmesine ya
 "Ağaçlar arasında su ağı su kıtlığında onları daha dayanıklı hale getirebilir, ama aynı zamanda yayılan hastalıkların riskini artırabilir. Bu, kauri dieback adı verilen ölümcül bir hastalıktan etkilenen kauri ağaçları için özel bir endişedir."
 Ormancılar, 1800'lü yıllara kadar yaşayan kütükleri bildirdiler, ancak bu, nasıl hayatta kaldıklarının ilk çalışmalarından biridir.
 
-Komşu ağaçların kütüğü desteklemesinin birkaç nedeni vardır. Güdük ve kökleri, canlı ağaca zeminde daha fazla stabilite sunabilir ya da yapraksız bir güdük, ana ağacın daha geniş kök sisteminin bir parçası haline geldi.
+Komşu ağaçların kütüğü desteklemesinin birkaç nedeni var: Güdük ve kökleri, canlı ağaca zeminde daha fazla stabilite sunabilir ya da yapraksız bir güdük, canlı ağacın daha geniş kök sisteminin bir parçası haline gelmiş olabilir.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
