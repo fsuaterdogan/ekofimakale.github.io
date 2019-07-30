@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Ölü olması gereken ağaçlar yakın ağaçlar tarafından canlı tutulabilir!"
+title: "Ölü olması gereken ağaçlar yakın ağaçlar tarafından canlı tutuluyor!"
 ---
 ![ağaç, araştırma](https://images.newscientist.com/wp-content/uploads/2019/07/25151245/img_1280-800x533.jpg)*Sebastian Leuzinger*
 
 Ölmüş olması gereken bir ağaç kütüğü, birbirine bağlı bir kök sistemi aracılığıyla su ve besin maddelerini besleyen komşu ağaçlar tarafından canlı tutulmakta. Bu bulgu, ağaçların ve diğer organizmaların bir ormanın yararına birlikte çalışabileceği konusunda büyüyen bir anlayışa katkıda bulunuyor.
 
-Yeni Zelanda, Auckland Teknoloji Üniversitesi'ndeki Sebastian Leuzinger ve bir meslektaşı, Auckland'ın batısındaki bir orman parkurunda, başkasından büyüyen canlı dokuya sahip tek bir ağaç kütüğü fark ettiklerinde yürüyüş yapıyordu.
+Yeni Zelanda, Auckland Teknoloji Üniversitesi'ndeki Sebastian Leuzinger ve bir meslektaşı, Auckland'ın batısındaki bir orman parkurunda, başkasından büyüyen canlı dokuya sahip tek bir ağaç kütüğünü fark ettiklerinde yürüyüş yapıyordu.
 
-Yeşil yapraklar olmadan nasıl hayatta kaldığını merak ederek, kauri (agathis australis) kütüğüne ve aynı türün iki yakın yetişkin ağacına birkaç sürekli su monitörü koymaya karar verdiler.
+Yeşil yapraklar olmadan nasıl hayatta kaldığını merak ederek, kauri (agathis australis) kütüğüne ve aynı türün iki yakın yetişkin ağacına birkaç su monitörü koymaya karar verdiler.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -23,12 +23,12 @@ Yeşil yapraklar olmadan nasıl hayatta kaldığını merak ederek, kauri (agath
 
 ![resim](https://images.newscientist.com/wp-content/uploads/2019/07/25151257/img_1288-800x533.jpg)*Sebastian Leuzinger*
 
-Mantarların ağaçların karbon ve diğer besin maddelerini değiştirmesine yardımcı olma biçiminin giderek artan bir farkındalığı ile birlikte, bu ilişki ağaçların bireyler veya farklı varlıklar olarak kavramını zayıflatıyor. Leuzinger,” ve bu, orman ekosistemleri hakkındaki görüşümüzü ‘süper organizmalar’ olarak önemli ölçüde değiştiriyor" diyor.
+Mantarların ağaçların karbon ve diğer besin maddelerini değiştirmesine yardımcı olma biçiminin giderek artan bir farkındalığı ile birlikte, bu ilişki ağaçların bireyler veya farklı varlıklar olarak kavramını zayıflatıyor. Leuzinger, ”ve bu, orman ekosistemleri hakkındaki görüşümüzü ‘süper organizmalar’ olarak önemli ölçüde değiştiriyor" diyor.
 
-Leuzinger: "Ağaçlar arasında su ağ su kıtlığı onları daha dayanıklı hale getirebilir, ama aynı zamanda yayılan hastalıkların riskini artırabilir. Bu, kauri dieback adı verilen ölümcül bir hastalıktan etkilenen kauri ağaçları için özel bir endişedir."
+"Ağaçlar arasında su ağı su kıtlığında onları daha dayanıklı hale getirebilir, ama aynı zamanda yayılan hastalıkların riskini artırabilir. Bu, kauri dieback adı verilen ölümcül bir hastalıktan etkilenen kauri ağaçları için özel bir endişedir."
 Ormancılar, 1800'lü yıllara kadar yaşayan kütükleri bildirdiler, ancak bu, nasıl hayatta kaldıklarının ilk çalışmalarından biridir.
 
-Komşu ağaçların kütüğü desteklemesinin birkaç nedeni vardır. Güdük ve kökleri, canlı ağaca zeminde daha fazla stabilite sunabilirdi ya da yapraksız bir güdük, ana ağacın daha geniş kök sisteminin bir parçası haline geldi.
+Komşu ağaçların kütüğü desteklemesinin birkaç nedeni vardır. Güdük ve kökleri, canlı ağaca zeminde daha fazla stabilite sunabilir ya da yapraksız bir güdük, ana ağacın daha geniş kök sisteminin bir parçası haline geldi.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
