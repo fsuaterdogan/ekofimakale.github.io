@@ -5,7 +5,7 @@ title: "Tonlarca ağaç dikmek iklim değişikliğini çözebilir mi?"
 ![resim](https://i.hizliresim.com/Lvb070.jpg)
 *Resim: Kaz Dağları*
 
-İklim değişikliği mercan resiflerini yıkıyor, deniz seviyesini yükseltiyor ve dünyanın dört bir yanındaki insanları yerinden ediyor. Araştırmacılar en iyi çözümün aynı zamanda en basit olduğunu söylüyor: daha fazla orman dikmek. ![Science dergisinde yayınlanan yeni bir analizde](https://science.sciencemag.org/content/365/6448/76), bilim insanları ormanları restore etmenin atmosferik karbonu yüzde 25 oranında azaltabileceğini bildirdi.
+İklim değişikliği mercan resiflerini yıkıyor, deniz seviyesini yükseltiyor ve dünyanın dört bir yanındaki insanları yerinden ediyor. Araştırmacılar en iyi çözümün aynı zamanda en basit olduğunu söylüyor: daha fazla orman dikmek. [Science dergisinde yayınlanan yeni bir analizde](https://science.sciencemag.org/content/365/6448/76), bilim insanları ormanları restore etmenin atmosferik karbonu yüzde 25 oranında azaltabileceğini bildirdi.
 
 Yeni araştırmaya öncülük eden ETH Zürih çevre sistemleri bilimci Tom Crowther, “Ormanların yenilenmesinin iklim değişikliğiyle mücadelede bir rol oynayabileceğini biliyorduk, ancak bunun ne gibi bir etkisi olabileceği konusunda hiçbir bilimsel fikrimiz yoktu”
 
