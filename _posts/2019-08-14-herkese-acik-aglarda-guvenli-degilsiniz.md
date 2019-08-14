@@ -59,6 +59,7 @@ Yazılımınızın güncel olmasını sağlamak için düzenli sistem güncellem
 -
 Hesaplarınızda İki Faktörlü Kimlik Doğrulamayı (2FA) etkinleştirmek, onları güvende tutmanın en güvenli ve en kolay yollarından biridir. 2FA, şifreniz ihlal edilse bile hesabınıza erişilememesini sağlayan ek bir doğrulama adımıdır. En yaygın 2FA uygulaması, cep telefonunuza gönderilen onay kodunu içerir. Hesabınıza yalnızca bu kodu girerek erişebilirsiniz, bu nedenle bir bilgisayar korsanı şifrenizi herkese açık Wi-Fi aracılığıyla alırsa, mobil cihazınız olmadan verilerinize erişemez.
 Gmail, Facebook ve Twitter gibi hizmetler zaten bu sistemi kullanıyor. Kendinize giriş yapmanız biraz zaman alabilirken, 2FA’nın ekstra güvence katmanı beklemeye değer.
+![2 faktörlü kimlik doğrulama, 2fa](https://makale.ekofi.science/assets/images/2fa.jpg)
 
 Unutmayın: Paylaşmak Önemli Değil
 -
