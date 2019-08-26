@@ -2,7 +2,7 @@
 layout: single
 title: "Yeni üretilen malzeme, vücudun yerleşik iyileşme sistemini kullanarak yara iyileşmesini sağlayacak"
 ---
-![image](https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/shutterstock_120751942--tojpeg_1546613977361_x2.jpg?r=5146)
+![Kırık kemik MR'ı](https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/shutterstock_120751942--tojpeg_1546613977361_x2.jpg?r=5146)
 *TrAP'ler, kemiği onarmak için vücudun doğal iyileşme gücünü kullanabilir*
 
 İnsanoğlu, her geçen gün yeni teknolojiler üreterek yaşam ömrünü uzatmaya çalışıyor.
