@@ -25,7 +25,7 @@ Kıkırdak özelliklerinin kullanılması
 -
 Bu değişimleri engellemek için araştırmacılar, meşru bir yapısal malzeme olan çinko ve kıkırdak kollajen liflerine benzeyen dallı nano lifler kullandılar.
 
-![image](https://news.umich.edu/wp-content/uploads/mc-image-cache/2019/01/cartilage-could-be-key-to-safe-structural-batteries-HANDS.jpg)
+![Bilim insanı oksit bulamacını alüminyum folyo üzerine döküyor](https://news.umich.edu/wp-content/uploads/mc-image-cache/2019/01/cartilage-could-be-key-to-safe-structural-batteries-HANDS.jpg)
 *Biyomedikal mühendisliği doktora adayı Ahmet Emrehan Emre, prototip bir yapısal bataryanın katodu olarak işlev görmesi için bir manganez oksit bulamacını bir alüminyum folyo üzerine dökerken. Kredi: Evan Dougherty, Michigan Engineering*
 
 Kotov, “Doğanın çinko pilleri yok ama benzer bir sorunu çözmek zorunda kaldı” dedi. “Kıkırdak, bataryalarda iyon taşıyan bir malzeme için mükemmel bir prototip olduğu ortaya çıktı. İnanılmaz bir mekaniği var ve ne kadar ince olduğuna göre bize çok uzun süre hizmet ediyor. Pillerde katotları ve anotları ayıran katı elektrolitlerden aynı özelliklere ihtiyaç duyulmaktadır.”
