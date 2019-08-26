@@ -2,7 +2,7 @@
 layout: single
 title: "Geçmişte haftada üç saatten fazla video oyunu oynayan cerrahlar yüzde 37 daha az hata yapıyor ve genel olarak yüzde 27 daha hızlılar"
 ---
-![doktor, ameliyat, muayene, cerrah](https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Doktor ameliyat esnasında](https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Florida Hospital Celebration Health cerrahlarının zihinsel olarak hazırlandıklarından ve ameliyat için hazır olduklarından emin olmanın yeni bir yolu var.
 
