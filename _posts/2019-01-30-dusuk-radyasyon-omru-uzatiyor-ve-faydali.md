@@ -2,7 +2,7 @@
 layout: single
 title: "Atom bombalarından düşük dozlu radyasyona maruz kalmak sizce faydalı mıydı? Büyük ihtimalle"
 ---
-![bomba, nagazaki, hiroşima, atom, atom bombası, atom bomba](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/800px-Atomic_bombing_of_Japan.jpg)
+![Japonya'ya atılan bombalar: Nagazaki ve Hiroşima](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/800px-Atomic_bombing_of_Japan.jpg)
 *Wikimedia Commons, Japonya'ya atılan bombalar*
 
 Ağustos 1945’te, ABD, Japonya'nın Hiroşima ve Nagazaki kentlerine atom bombası attı. Benzeri görülmemiş patlamalar ve bunun sonucunda meydana gelen radyoaktif serpinti, yaklaşık 200.000 kişinin trajik ölümleriyle sonuçlandı.
@@ -13,7 +13,7 @@ Patlamaların yarattığı yüksek iyonize edici radyasyon, ilk patlamalardan ku
 
 Makalenin yazarı Shujitsu Kadınlar Üniversitesi'nden Araştırmacı Shizuyo Sutou. Sutou, 1950'den bu yana atom bombası patlamasından 120.000 kişinin kurtulduğunu takip eden Hayat Boyu Çalışma'dan elde edilen verileri incelemiştir. Yaptığı analizler, 0.005 ile 0.5 Gr arasındaki radyasyona maruz kalanların (hafif radyasyon hastalığının başlamasından hemen önce) göreceli ölüm oranlarından daha düşük olduğunu göstermiştir. Atom bombası radyasyonuna maruz kalmayan kontrol bireyleri.
 
-![radyasyon, kanser](http://assets.realclear.com/images/46/468202_5_.gif)
+![Radyasyonun, hormetik teoriye göre kanser riski ile ilişkisi](http://assets.realclear.com/images/46/468202_5_.gif)
 *Tablodaki yeşil çizgi radyasyonun, hormetik teoriye göre kanser riski ile ilişkisini göstermektedir.*
 
 Sutou'nun bulgusu, çok düşük iyonlaştırıcı radyasyon dozlarının aslında yararlı olabileceğini, DNA hasarının onarımını teşvik etmek, anormal hücrelerin programlanmış hücre ölümü yoluyla çıkarılması ve kanser hücrelerinin bağışıklık yoluyla ortadan kaldırılması gibi uyarlanabilir tepkiler ürettiğini bildiren hormetik radyasyon teorisi (hormezis) ile uyumludur.
