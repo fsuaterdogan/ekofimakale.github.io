@@ -10,7 +10,7 @@ Sincaplar dinliyor
 -
 Çılgınca gelebilir. Fakat sincaplar kesinlikle dinliyor.
 
-Araştırmacılar, yıllardır sincapların, kendilerini fark etmeyebilecekleri tehlikeli durumlara işaret etmek için diğer türlerin alarm çağrılarına kulak misafiri olduklarını biliyorlar. Şimdi ise, bir bilim ekibi bu kemirgenlerin meraklı doğalarının başka bir yüzünü ortaya çıkardı: <mark>Bir tehdidin ne zaman geçeceğini anlamak için</mark> sincaplar, kuşların gündelik konuşmasına göz kulak olabiliyor.
+Araştırmacılar, sincapların, kendilerinin <mark>fark etmeyebilecekleri tehlikeli durumları anlamak için</mark> diğer türlerin alarm çağrılarına kulak misafiri olduklarını söylüyorlar. Yeni araştırmada ise, bir bilim ekibi bu kemirgenlerin meraklı doğalarının başka bir yüzünü ortaya çıkardı: <mark>Bir tehdidin ne zaman geçeceğini anlamak için</mark> de sincaplar, kuşların gündelik konuşmasına göz kulak olabiliyor.
 
 Bugün PLOS ONE dergisinde yayınlanan çalışma, vahşi yaşam için bile güvenlik dilinin kayan bir ölçekte işlediğini ima ediyor. Bir alarmın yokluğuna güvenmek yerine, sincaplar kıyıların temiz olduğunu doğrulamak için başka bir sinyalin varlığına kulak veriyorlar - bu başka bir türün lehçesini dinlemek anlamına gelse bile.
 
