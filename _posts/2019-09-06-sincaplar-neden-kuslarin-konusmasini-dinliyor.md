@@ -24,6 +24,7 @@ Bugün PLOS ONE dergisinde yayınlanan çalışma, vahşi yaşam için bile güv
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 Sincaplar orman açık bir hedef
 -
 Çoğu insan (artık) onunla ilgilenmeyebilir, ancak <bold>sincap eti</bold> hayvan krallığının geri kalanıyla çekiciliğini kaybetmedi. Bu kemirgenler korkacak çok sayıda yırtıcı hayvanın odağı - bu da alabilecekleri her türlü yardıma ihtiyaçları olduğu anlamına geliyor.
