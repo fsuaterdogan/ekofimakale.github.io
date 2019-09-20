@@ -2,8 +2,7 @@
 layout: single
 title: "Google'dan yenilenebilir enerjiye rekor yatırım"
 ---
-![Google'ın halihazırda yenilenebilir enerji kaynaklarının görüntüleri](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RE_projects.max-1000x1000.jpg) *Google*
-
+![Google'ın halihazırda yenilenebilir enerji kaynaklarının görüntüleri](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RE_projects.max-1000x1000.jpg)
 Google, küresel iklim grevinden önce yenilenebilir enerji için 'en büyük şirket satın alımını' yapıyor.
 
 Google, [dün](https://www.blog.google/outreach-initiatives/sustainability/our-biggest-renewable-energy-purchase-ever/) ABD, Güney Amerika ve Avrupa genelinde yenilenebilir enerji altyapısına 2 milyar dolardan fazla harcama yapma niyetinde olduğunu açıkladı. 1.600 megavatlık rüzgar ve güneş enerjisi sözleşmeleri paketi 18 yeni enerji anlaşmasını içeriyor ve teknoloji devinin yenilenebilir enerji portföyünü yüzde 40'tan daha fazla artıracak. Şirket, alımların şirket tarihinin en büyüğü olacağını açıkladı.
