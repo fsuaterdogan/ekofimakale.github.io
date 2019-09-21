@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Ağaç lifleri ve örümcek ipliğinin kombinasyonu plastiğe rakip olacak"
+title: "Ağaç lifleri ve örümcek ağının kombinasyonu plastiğe rakip olacak"
 ---
 ![İpek](https://www.aalto.fi/sites/g/files/flghsv161/files/styles/2_3_1380w_600h_n/public/2019-09/dp1a5025.jpg?h=20577b14&itok=7jhzzU7P)
-*İpek, sentetik olarak da üretilebilen doğal bir proteindir. İyi yetenekleri ve çok yönlü olanakları var. Fotoğraf: Eeva Suorlahti*
+*Örümcek ağı, sentetik olarak da üretilebilen doğal bir proteindir. İyi yetenekleri ve çok yönlü olanakları var. Fotoğraf: Eeva Suorlahti*
 
 Bu eşsiz malzeme, yüksek tokluk ile birlikte yüksek mukavemet ve sertlik sağlayarak günümüzün sentetik ve doğal malzemelerinin çoğundan daha iyi performans gösteriyor.
 
