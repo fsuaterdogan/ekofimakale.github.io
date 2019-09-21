@@ -3,13 +3,13 @@ layout: single
 title: "Bu gut bakterileri insanları içmeden sarhoş ediyor - ve karaciğer hastalığına neden oluyor"
 ---
 ![Örnek bakteri resmi](https://image.freepik.com/free-photo/3d-medical-background-with-virus-cells-dna-strand_1048-8470.jpg)
-<a href="https://www.freepik.com/free-photos-vectors/background">Resim: kjpargeter - freepik</a>
+
 
 Üç yıl önce, New York'taki bir kadın sarhoş araba kullanmakla suçlandı ve sonra yüksek kan alkol seviyesinin vücudunun kendi alkolünü ürettiği nadir bir durumun sonucu olduğunu kanıtladığında odaktan çıkarıldı. O zaman tuhaf bir hikayeydi ve ulusal manşetlerde yer almaktaydı. Şimdi, oto-bira sendromu, denildiği gibi, araştırmacıların ortak ancak az anlaşılmış bir karaciğer hastalığının sırlarından bazılarını çözmelerine yardımcı olmuş olabilir.
 
 Yeni bir çalışmada, bilim insanları ortak bir bağırsak bakterisinin bazı suşlarının [(Suş: Bir bakteri veya virüsün farklı alt türlerinin, aralarında genetik farklılıklar bulunan grupları)](https://tr.wiktionary.org/wiki/su%C5%9F) vücutta bir ton alkol üretebileceğini keşfettiler. Ayrıca bu bakteri suşlarının ABS ile alkolsüz yağlı karaciğer hastalığı (NAFLD) olarak bilinen bir karaciğer durumu arasındaki bağlantı olabileceğini de buldular. [Bulgular iki gün önce Cell Metabolism dergisinde yayınlandı](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30447-4).
 
-<p class="notice">Bulgular, bakterilerin bu yaygın karaciğer hastalığının bir nedeni olabileceğini ve gelecekteki tedavi için potansiyel bir yol olabileceğini göstermektedir." <strong>Çin - Pekin Başkent Pediatri Enstitüsü'nden araştırmanın lideri Jing Yuan</strong>.
+<p class="notice">Bulgular, bakterilerin bu yaygın karaciğer hastalığının bir nedeni olabileceğini ve gelecekteki tedavi için potansiyel bir yol olabileceğini göstermektedir." <strong>Çin - Pekin Başkent Pediatri Enstitüsü'nden araştırmanın lideri Jing Yuan</strong></p>
 
 Alkol demleme bakterileri
 -
@@ -26,7 +26,7 @@ Adından da anlaşılacağı gibi, alkolsüz yağlı karaciğer hastalığı, al
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p "notice--warning">Alkolsüz yağlı karaciğer hastalığı = NAFLD, Oto-bira sendromu = ABS</p>
+<p class="notice--warning">Alkolsüz yağlı karaciğer hastalığı = NAFLD, Oto-bira sendromu = ABS</p>
 
 Oto-bira sendromu, NAFLD'den çok daha nadir olmasına rağmen, insanların çok fazla karbonhidrat yedikten sonra sarhoş olmalarına neden olabilir. Tipik (ancak yine nadir) durumlarda, aşırı miktarda gastrointestinal maya (bazen bira pişirmek için kullanılan aynı maya ile yapılan bir enfeksiyonun sonucu) tüm bu şekerleri ve nişastaları etanole dönüştürecektir. Karbonhidrat ağırlıklı bir yemekten sonra, bu kişiler, bir içki içmemiş olsalar bile, sarhoş olabilirler.
 
@@ -45,7 +45,7 @@ Yuan, bir e-postada “Bakterilerin çok fazla alkol üretmesine şaşırdık”
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<p "notice--warning">Alkolsüz yağlı karaciğer hastalığı = NAFLD, Oto-bira sendromu = ABS</p>
+<p class="notice--warning">Alkolsüz yağlı karaciğer hastalığı = NAFLD, Oto-bira sendromu = ABS</p>
 
 Karaciğer sorunları
 -
@@ -56,3 +56,5 @@ Bulgu bir bağlantı önermek için yeterliydi, ancak bakterilerin Alkolsüz ya�
 Bu sonuçlar alkolü üreyen bakterilerin gerçekten de alkolik olmayan yağlı karaciğer hastalığının sebeplerinden biri olabileceğini göstermektedir. Ayrıca NAFLD için yeni tedavilerin kaynağı olabilirler. Yuan, “Bu bakterileri hedef almanın, bu hastaların tedavisine bazı faydalar sağlayabileceğini düşünüyoruz” dedi.
 
 Yuan, daha sonra, bazı insanların neden bu özel bakteri suşuna sahip olduğunu ve diğerlerinin neden olmadığını anlamak için hem yetişkinler hem de çocuklar hakkında çok daha uzun ve uzun süreli bir çalışma yapmak istiyor. Gelecekteki çalışmalar alkolle demlenen bakterilerin vücuttaki etkilerini ortaya çıkarmaya devam edebilir.
+
+<a href="https://www.freepik.com/free-photos-vectors/background">Resim: kjpargeter - freepik</a>
