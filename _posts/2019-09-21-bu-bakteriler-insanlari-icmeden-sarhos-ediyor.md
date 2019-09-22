@@ -11,7 +11,7 @@ Yeni bir çalışmada, bilim insanları ortak bir bağırsak bakterisinin bazı 
 
 <p class="notice">Bulgular, bakterilerin bu yaygın karaciğer hastalığının bir nedeni olabileceğini ve gelecekteki tedavi için potansiyel bir yol olabileceğini göstermektedir." <strong>Çin - Pekin Başkent Pediatri Enstitüsü'nden araştırmanın lideri Jing Yuan</strong></p>
 
-Alkol demleme bakterileri
+Alkol mayalama-demleme bakterileri
 -
 Adından da anlaşılacağı gibi, alkolsüz yağlı karaciğer hastalığı, alkolsüz şeyler içen birinin karaciğerinde oluşan yağ birikimi ile tanımlanır. Eğer durum devam ederse, karaciğer yaralanabilir ve alkolizmden kaynaklanan diğer karaciğer hasarlarına benzer şekilde organ iflas edebilir. Bu hastalığın nedenleri hala bilinmemektedir, ancak küresel erişkin popülasyonun yaklaşık dörtte birini etkilediği düşünülmektedir ve obezite, yüksek kan şekeri, insülin direnci ve kandaki yüksek yağ düzeyleri ile de bağlantılıdır. <mark>Bu hastalığı taşıyan birçok insanda herhangi bir belirti göstermez</mark>.
 
