@@ -11,6 +11,17 @@ Google, [dün](https://www.blog.google/outreach-initiatives/sustainability/our-b
 
 ![Google'ın yenilenebilir enerji yatırım lokasyonları](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/GLOBAL_GIF_MAP__Blog_before-after_GIF.gif)
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Şirket, Kuzey Carolina, Güney Carolina ve Teksas'taki güneş enerjisi çiftliklerine yatırım yaparak küresel güneş portföyünü iki katından fazla artırmayı planlıyor. Aynı zamanda Şili'de hem güneş hem de rüzgarı birleştirecek bir hibrit teknoloji anlaşmasına yatırım yapıyor. Pichai, yarın Finlandiya ziyareti sırasında şirketin Avrupa'daki planlarını duyurmayı planlıyor.
 
 ![Google'ın yıla göre yenilenebilir enerji yatırımları](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/RE_graph.max-1000x1000.png) *Google'ın yıla göre yenilenebilir enerji yatırımları*
