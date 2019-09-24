@@ -2,6 +2,8 @@
 layout: single
 title: "Bu gut bakterileri insanları içmeden sarhoş ediyor - ve karaciğer hastalığına neden oluyor"
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHzD4XVDgOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Örnek bakteri resmi](https://image.freepik.com/free-photo/3d-medical-background-with-virus-cells-dna-strand_1048-8470.jpg)
 
 
