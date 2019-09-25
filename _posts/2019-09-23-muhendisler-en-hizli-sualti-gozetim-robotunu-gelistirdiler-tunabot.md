@@ -2,6 +2,8 @@
 layout: single
 title: "Ton balığından esinlenilerek en hızlı sualtı gözetim robotu geliştirildi: TUNABOT"
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFLEaxpbrNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Ton balığı gibi uskumrugiller grubundan balıklar, özellikle avcılardan kaçma veya avlanma gibi davranışlarda yüksek performanslı yüzücülerdir. Ton balığından esinlenilmiş bu robot, gerçek balık kadar hızlı bir şekilde sıyrılabilir ve türünün diğer robotlarından daha hızlı yüzebilir. Bu robot, balıkların yüzgeçlerini nasıl kullandıklarını öğrenmemize yardımcı olabilir ve bir gün sualtı gözetimi için kullanılabilir.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_nn1_AyyrfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
