@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Mantar yetiştiren karıncalar ilaca dirençli mikroplarla mücadelede aranan sır olabilir"
 ---
 ![Mantar yetiştiren karıncalar ilaca dirençli mikroplarla mücadelede aranan sır olabilir](https://images.unsplash.com/photo-1558983925-ea9372bf2ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
