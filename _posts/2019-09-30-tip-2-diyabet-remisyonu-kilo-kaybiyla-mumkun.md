@@ -8,7 +8,7 @@ Bulgular, hastalıklardan yoğun yaşam tarzı müdahaleleri veya aşırı kalor
 
 Tip 2 diyabet dünya çapında 400 milyon kişiyi etkiliyor ve kalp hastalığı, felç, körlük ve amputasyon riskini arttırıyor. Hastalık pozitif yaşam tarzı değişiklikleri ve ilaç kombinasyonu ile tedavi edilebilirken, diyabeti tanımlayan yüksek kan şekeri düzeylerinin <mark>normal kaliteye dönmesi de mümkün - önemli kalori kısıtlaması ve kilo kaybı</mark>. 8 hafta boyunca günlük toplam 700 kalori (bir çizburgerden az) alımını içeren yoğun bir düşük kalorili diyet, yakın zamanda teşhis edilen diyabetli on kişiden dokuzunda ve uzun süredir devam eden hastalığı olan kişilerin yarısında remisyonla ilişkilendirildi.
 
-Bununla birlikte, aynı etkinin daha az yoğun müdahalelere maruz kalan insanlar için elde edilip edilemeyeceğine dair kanıtlar yok, bunlar daha uygulanabilir ve potansiyel olarak daha geniş bir nüfusa ölçeklenebilir. Bu soruyu cevaplamak için, Cambridge Üniversitesi'ndeki araştırmacılar tarafından yürütülen bir ekip, 40-69 yaşlarında yeni tanı konan diyabetli 867 kişinin doğu bölgesindeki genel uygulamalardan oluşturduğu prospektif bir kohort çalışması olan EKLEME-Cambridge denemesinde veriler üzerinde çalıştı.
+Bununla birlikte, aynı etkinin daha az yoğun müdahalelere maruz kalan insanlar için elde edilip edilemeyeceğine dair kanıtlar bulunamadı. Bu soruyu cevaplamak için, Cambridge Üniversitesi'ndeki araştırmacılar tarafından yürütülen bir ekip, 40-69 yaşlarında yeni tanı konan diyabetli 867 kişinin doğu bölgesindeki genel uygulamalardan oluşturduğu prospektif bir kohort çalışması denemesinde veriler üzerinde çalıştı.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
