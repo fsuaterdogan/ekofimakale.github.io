@@ -2,8 +2,6 @@
 layout: single
 title: "Zebra çizgileri gibi çizgiler ile boyanmış ineklerde sinek saldırısı azalabilir"
 ---
-<p class="notice">Dayım vefat etmiştir. Bu haberi hayatımda en değer verdiğim şeylerden olan internet sitemde paylaşıyorum. Adına Fatiha okursanız sevinirim. Umarım içerik işinize yarar.</p>
-
 ![Zebra çizgilerine boyanmış inek](https://assets.realclear.com/images/49/490457.png)
 *[Kojima et al. / PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223447)*
 Çiftçiler çiftliklerinde "zebra çizgileri" çizmeyi düşünebilirler. PLoS ONE'da yayınlanan yeni bir çalışmaya göre, bu önlem ineklerin ısıran sineklerinin sayısını yarıdan daha fazla azaltıyor.
