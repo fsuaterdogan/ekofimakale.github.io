@@ -2,7 +2,7 @@
 layout: single
 title: "Balinalar, yavrularına avcıların dinlenmelerini önlemek için fısıltıyla konuşuyor"
 ---
-![Balinalar](https://images.unsplash.com/photo-1518399681705-1c1a55e5e883?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80)
+![Balinalar](https://images.unsplash.com/photo-1518399681705-1c1a55e5e883?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80 =500x)
 
 Atlantikçi dişi balinaları, avcıların “dinlenmelerini” önlemek için gençleriyle iletişim kurarken seslerini fısıltıya düşürdüler.
 
