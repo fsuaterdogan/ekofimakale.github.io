@@ -10,7 +10,7 @@ Araştırmacılar uzun süre beyindeki milyarlarca bağımsız nöronun nasıl b
 
 Geçtiğimiz 20 yıl boyunca, beynin bir faz geçişine benzer şekilde, düzensizliğe bürünmeden olabildiğince heyecan verici olduğu bir noktaya ayarlandığı teorisini destekleyen kanıtlar bir araya getirildi. <mark>Bu kritiklik hipotezi, beynin sessizlik ve kaos arasındaki ince çizgide bulunduğunu iddia eder. Tam olarak bu noktada bilgi işlem en üst düzeye çıkarılmıştır</mark>.
 
-Bununla birlikte, bu teorinin anahtar öngörülerinden biri - bu kritiklik gerçekten bir ayar noktası - hiç test edilmedi, şimdiye kadar. Ancak, St. Louis'deki Washington Üniversitesi'nden yeni bir araştırma, serbestçe davranan hayvanların beynindeki uzun süredir devam eden bu öngörüyü doğrudan doğrulamakta.
+St. Louis'deki Washington Üniversitesi'nden yeni bir araştırma, serbestçe davranan hayvanların beynindeki uzun süredir devam eden bu öngörüyü doğrudan doğrulamakta.
 
 Sanat ve Bilim biyoloji profesörü yardımcısı ve 7 Ekim'de yayınlanan Neuron dergisinde yayınlanan yeni makalenin baş yazarı Keith Hengen, “Nöronlar birleştiğinde aktif bir şekilde kritik bir rejim ararlar” dedi. “Yeni çalışmamız, eleştiriye olan teorik ilginin çoğunu doğrular ve eleştirinin normal işleyen ağların bir işareti olduğunu gösterir.”
 
@@ -53,7 +53,7 @@ Hengen, “Bu, hayvanın beklediği ile o bakışta neler yaşadığı arasında
 
 “Bu, kritik rejimin atış hızından bağımsız olduğu teorik fizikle tutarlı” dedi. “Ağdaki toplam sivri sayısıyla ilgili değil, çünkü atış hızı yoksunluğun çok erken bir döneminde hiç değişmedi - ve yine de rejim dağıldı.”
 
-Araştırmacılar şimdi beyindeki kritikliğin muhtemelen hesaplama dinamiklerini empoze eden ve organize eden inhibitör nöronlarla bağlantılı olduğuna inanıyor.
+Araştırmacılar beyindeki kritikliğin muhtemelen hesaplama dinamiklerini zorla kabul eden ve organize eden inhibitör nöronlarla bağlantılı olduğuna inanıyor.
 
 Aktif olarak ayarlama
 -
