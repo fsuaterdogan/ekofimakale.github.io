@@ -67,7 +67,7 @@ naver_site_verification  :
 twitter:
   username               : "ekofibilim"
 facebook:
-  username               :
+  username               : "EkofiBilim"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -98,7 +98,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/EkofiBilim"
   foursquare       :
   github           :
   gitlab           :
