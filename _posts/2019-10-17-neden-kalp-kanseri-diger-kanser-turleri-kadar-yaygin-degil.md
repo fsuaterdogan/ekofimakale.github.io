@@ -2,6 +2,8 @@
 layout: single
 title: "Neden kalp kanseri diğer kanser türleri kadar yaygın değil?"
 ---
+![Kalp](https://images.unsplash.com/photo-1518811554972-31f9ca219d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 Sizin veya sevdiğiniz birinin kanser olduğunu öğrenmek, yaşamda inanılmaz derecede zor bir an. Kanser modern ve aşamalı bir hastalık oldu ve çeşitli şekillerde her yıl 8 milyondan fazla insanı öldürüyor. Her yıl 15 milyon yeni vaka daha keşfediliyor. Büyük araştırma çabaları tedavi seçeneklerini ve durumu anlama konusundaki anlayışımızı geliştirdi, ancak kanserle mücadele hala acımasız ve vergilendirici bir mücadele.
 
 En yaygın kanser türlerinden bazıları meme kanseri, akciğer kanseri, prostat kanseri, tiroid kanseri, melanom, pankreas kanseridir, ancak listeden garip bir şekilde eksik olan önemli bir organ var… kalp! Hiç kalp kanseri olan biriyle tanıştın mı? Muhtemelen hayır. Kalp kanseri var mı?
