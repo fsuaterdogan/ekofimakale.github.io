@@ -8,13 +8,24 @@ Sizin veya sevdiğiniz birinin kanser olduğunu öğrenmek, yaşamda inanılmaz 
 
 En yaygın kanser türlerinden bazıları meme kanseri, akciğer kanseri, prostat kanseri, tiroid kanseri, melanom, pankreas kanseridir, ancak listeden garip bir şekilde eksik olan önemli bir organ var… kalp! Hiç kalp kanseri olan biriyle tanıştın mı? Muhtemelen hayır. Kalp kanseri var mı?
 
-Kısa cevap: Aslında kalp kanseri var, ancak son derece nadir. Bunun nedeni kalp hücrelerinin çoğalmamasıdır, bu nedenle kalp kası kanseri fazla görmezsiniz.
+<bold>Kısa cevap:</bold> Aslında kalp kanseri var, ancak son derece nadir. Bunun nedeni kalp hücrelerinin çoğalmamasıdır, bu nedenle kalp kası kanseri fazla görmezsiniz.
 
 Kanser, kanser, kanser...
 -
 Vücut genellikle yaşlı, kötü işleyen hücreleri ortadan kaldıran ve onları yeni, sağlıklı hücrelerle değiştiren bir kontrol sistemine sahiptir. Bununla birlikte, bazı durumlarda bu gerçekleşmez; hücre büyümeye, çoğalmaya devam eder ve sonunda başlangıç amaçlarına hizmet etmeyen anormal hücreler oluşturur. Bu hücreler çoğalmaya devam edebilir, yakındaki hücrelerin işlevini bozabilir, daha fazla mutasyonları uyarabilir ve organ sistemlerini ölçülebilir şekilde etkileyebilir.
 
 Belirli organlardaki kanser diğerlerinden daha yaygın iken, kanser aslında vücudun herhangi bir yerinde bulunabilir; bazı yerlerde gelişmesi daha kolaydır. Kanser, hücresel bölünme yoluyla hızlı ve kontrolsüz bir oranda “yayıldığı” için, sürekli bir şekilde yeniden büyüme ve değiştirme için programlanmış hücrelerden oluşan bir organ, kanser için bu kadar yüksek bir rejenerasyon oranına sahip olmayandan daha hassastır. Bunu göz önünde bulundurarak, kalbi düşünelim…
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Kalbin yapacak çok işi var
 -
@@ -25,6 +36,17 @@ Vücutta böyle bir 7/24 tipi sorumluluk ile, kalbin sürekli eski hücreleri d�
 Öte yandan, cilt, mide, kolonun iç astarı, meme gibi vücudun diğer birçok parçası, hücreleri sürekli kaybediyor ve değiştiriyor. Meme dokusu bile vücuttaki hormonal aktiviteye bağlı olarak şişer ve küçülür. Bu kanser türleri (cilt, meme, kolon vb.) Daha yaygındır, çünkü vücudun bu bölgelerindeki hücreler daha hızlı ve sıklıkla çoğalır. Ayrıca, cilt üzerinde bronzlaşma radyasyonu ve içtiğimiz veya soluduğumuz çeşitli kansere neden olan ajanlar gibi kanserojen maddelere daha doğrudan maruz kalırlar.
 
 Kalp nadiren bu tip kanserojenlere maruz kalır, bu da kalp kanserinin gelişmesini daha da zorlaştırır.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 İstila
 -
