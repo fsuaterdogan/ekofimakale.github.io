@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni yapay zeka, %100 doğrulukla kalp yetmezliğini tespit ediyor"
+title: "Yeni yapay zeka %100 doğrulukla kalp yetmezliğini tespit ediyor!"
 ---
 ![Dijital kalp](https://images.unsplash.com/photo-1496942299866-9e7ab403e614?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
