@@ -12,6 +12,16 @@ layout: archive
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+     
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "d522a4bc-5bb1-4177-a4f0-00b9c4cd7a6e",
+    });
+  });
+</script>
 </head>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
