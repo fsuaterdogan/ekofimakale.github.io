@@ -3,6 +3,7 @@ layout: single
 title: "Yapay zeka felçli bir kişinin aklıyla yazı yazmasına izin verdi"
 ---
 ![El yazması mektuplar](https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/handWrittenLetters-1280x720.jpg?itok=FWR1-2sj)
+*Kredi: FRANK WILLETT*
 
 Hayal gücünden yararlanarak, araştırmacılar tamamen felçli hastaların dış dünyayla iletişim kurabildikleri hızı neredeyse iki katına çıkardılar.
 
