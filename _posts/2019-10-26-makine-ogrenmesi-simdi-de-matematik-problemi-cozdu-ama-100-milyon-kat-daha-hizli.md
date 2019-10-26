@@ -8,11 +8,14 @@ Bir sinir ağı, üç cisim problemini 100 milyon kat daha hızlı çözdü.
 
 Makine öğrenmesi, uygulamalı matematiğin klasik problemlerinden biriyle başa çıkmak için tamamen yeni bir yol buldu.
 
-18. yüzyılda, çağın en büyük bilimsel zorluğu denizcilerin denizdeki konumlarını belirlemeleri için bir çözüm bulmaktı. En başarılı çözümlerden biri, ayın gökteki sabit konumunu, yıldızların sabit arka planına göre ölçmekti.
+On sekizinci yüzyılda, çağın en büyük bilimsel zorluğu denizcilerin denizdeki konumlarını belirlemeleri için bir çözüm bulmaktı. En başarılı çözümlerden biri, ayın gökteki sabit konumunu, yıldızların sabit arka planına göre ölçmekti.
 
 Paralaks etkileri nedeniyle, bu ölçüm gözlemcinin konumuna bağlıdır. Ve ölçülen konumun İngiltere'deki Greenwich'deki bir gözlemci için hesaplanan konum tablosu ile karşılaştırılmasıyla, denizciler boylamlarını belirleyebilirler.
 
 Ancak bir sorun vardı: Ay'ın konumunu önceden hesaplamak göründüğünden daha zor. Güneş, aya küçük ama önemli bir çekim kuvveti uygular. Ve bu, Dünya'nın, ayın ve güneşin hareketini üç-cisimli bir problem haline getirir; bu, birçok matematikçinin önceden ve o zamandan beri bulduğu bir problemdir.
+
+![Üç cisim problemi](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Three_body_problem_figure-8_orbit_animation.gif/400px-Three_body_problem_figure-8_orbit_animation.gif)
+*Wikimedia Commons*
 
 Buradaki zorluk, bu üç cisim hareketinin birkaç özel durum dışında kaotik olması. Yani, denizcilerin gelecekteki kesin konumlarını hesaplamanın kolay bir yolu yok. <mark>Bu, ay gezinti tablolarında bazen yanlış ve potansiyel olarak ölümcül sonuçlara yol açan hatalara neden oldu.</mark>
 
@@ -29,17 +32,17 @@ Bununla birlikte, denizciler bu kusurlu tekniğin en iyisini, 19. yüzyılın or
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Bununla birlikte, üç beden sorunu matematikçilere alay etmeye devam ediyor. Günümüzde sorun, kara delik ikililerinin tek kara deliklerle etkileşime girme şekline bağlı olan küresel yıldız kümelerinin ve galaktik çekirdeklerin yapısını belirlemek.
+Üç beden sorunu matematikçilere alay etmeye devam ediyor. Günümüzde sorun, kara delik ikililerinin tek kara deliklerle etkileşime girme şekline bağlı olan küresel yıldız kümelerinin ve galaktik çekirdeklerin yapısını belirlemek.
 
-Güçlü bilgisayarların ortaya çıkışı, matematikçilerin bu kara deliklerin konumlarını yinelemeli olarak hesaplamalarını sağladı. Ancak muazzam bir hesaplama kaynakları gerektiriyor ve o zaman bile, bazı çözümler bilgilerinin ötesinde kalıyor. Bu yüzden, üç beden problemini çözmenin yeni ve daha güçlü bir yolu şart.
+Güçlü bilgisayarların ortaya çıkışı, matematikçilerin bu kara deliklerin konumlarını yinelemeli olarak hesaplamalarını sağladı. Ancak muazzam hesaplama kaynakları gerektiriyor ve o zaman bile, bazı çözümler bilgilerinin ötesinde kalıyor. Bu yüzden, üç beden problemini çözmenin yeni ve daha güçlü bir yolu şart.
 
 Edinburgh Üniversitesi'ndeki Philip Breen ve meslektaşları, en gelişmiş geleneksel çözücüye göre 100 milyon kat daha hızlı ve doğru çözümler sağladılar.
 
 Peki nasıl?
 -
-Breen ve meslektaşları ilk önce problemi, bir düzlemde üç eşit kütleli partikül içeren ve her biri başlangıç için sıfır hızda olanlarla sınırlandırdı. Başlangıç pozisyonlarını rastgele seçtiler ve üç gövdeli hareketi Brutus adı verilen son teknoloji bir yaklaşımı kullanarak çözdüler. Daha sonra bu işlemi 10.000 kez tekrarladılar.
-
 ![Üç cisim problemi](https://cdn.technologyreview.com/i/images/three-body-sims.png?sw=616&cx=0&cy=0&cw=1421&ch=1117)
+
+Breen ve meslektaşları ilk önce problemi, bir düzlemde üç eşit kütleli partikül içeren ve her biri başlangıç için sıfır hızda olanlarla sınırlandırdı. Başlangıç pozisyonlarını rastgele seçtiler ve üç gövdeli hareketi Brutus adı verilen son teknoloji bir yaklaşımı kullanarak çözdüler. Daha sonra bu işlemi 10.000 kez tekrarladılar.
 
 Sinir ağı, üç cismin gelecekteki hareketini doğru olarak tahmin etti ve özellikle Brutus simülasyonlarını yakından eşleştirerek yakındaki yörüngeler arasındaki farkı doğru şekilde taklit etti. “Derin yapay sinir ağlarının, hesaplı olarak zorlu üç gövdeli soruna sabit bir zaman aralığında hızlı ve doğru çözümler ürettiğini gösterdik”, Breen ve ortakları.
 
