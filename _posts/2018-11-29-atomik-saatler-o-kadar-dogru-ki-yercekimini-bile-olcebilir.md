@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bilim insanları atomik bir saat ürettiler ve özellikle kütle çekimsel dalgaları ölçmek için kullanacaklar"
+title: "Atomik saat üretildi ve kütle çekimsel dalgaları ölçmek için kullanılacak"
 ---
 Zaman, sadece bittiğinde önemli görünebiliyor. Fakat fizikçilere göre, zaman her zaman çok önemlidir. Görelilik, zaman akışının, ölçtüğünüz koşullara bağlı olduğunu bize bildirir: Saatler, örneğin, zemin seviyesine göre dağların tepesinde daha hızlı ilerler, ve daha hızlı gittiğinizde, saatleriniz gittikçe yavaşlar. Zaman uzaya bağlıdır.
 
