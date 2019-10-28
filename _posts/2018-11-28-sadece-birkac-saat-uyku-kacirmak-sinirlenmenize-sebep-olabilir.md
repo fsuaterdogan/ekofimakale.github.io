@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sadece birkaç saat uyku kaybetmek, özellikle sinir bozucu durumlarda sizi oldukça sinirlendiriyor"
+title: "Sadece birkaç saat uyku kaybetmek sizi oldukça sinirlendiriyor!"
 ---
 Uyku çok önemli
 -
