@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bilim insanları katalizör geliştirdi: Küresel ısınmanın ana sebebi olan karbondioksiti plastikler, kumaşlar ve diğer ürünlere dönüştürüyor"
+title: "Katalizör geliştirildi: Küresel ısınmanın sebebi olan karbondioksiti ürünlere dönüştürüyor"
 ---
 Rutgers bilim insanları, küresel ısınmanın ana sebebi olan karbondioksiti plastikler, kumaşlar, reçineler ve diğer ürünlere dönüştüren katalizörler geliştirdiler. Yapay fotosentez kimyasına dayanan keşif, Energy & Environmental Science dergisinde detaylandırıldı.
 
