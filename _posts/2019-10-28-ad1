@@ -1,4 +1,13 @@
 ---
-layout: splash
 title: "ad1"
+layout: splash
+date: 2019-10-28T00:00:00-04:00
+header:
+  overlay_filter: "0.5"
+  overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  actions:
+    - label: "Download"
+      url: "https://www.facebook.com/EkofiBilim"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  
 ---
