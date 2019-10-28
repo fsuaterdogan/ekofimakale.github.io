@@ -1,6 +1,7 @@
 ---
-layout: single
 title: "Grip virüsü nakavt oldu: İsmi 'Hata Felaketi'"
+header: 
+   image: https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/SS2506498-1280x720.jpg?itok=pTReSGm8
 ---
 ![Grip virüsü](https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/SS2506498-1280x720.jpg?itok=pTReSGm8)
 *Grip virüsü (yukarıdaki), birçok aşındırıcı maddeyi ve ilacı ortadan kaldırır, sürekli şekil değiştirir. JAMES CAVALLINI / SCIENCE SOURCE*
