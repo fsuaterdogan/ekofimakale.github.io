@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Araştırmacılar beynin Dünya'nın manyetik alanını tespit etmesini sağlayan insan manyetik duyusuna dair yeni kanıtlar buldular"
+title: "Beynin Dünya'nın manyetik alanını tespit etmesini sağlayan manyetik duyusuna dair kanıtlar bulundu!"
 ---
 ![İnsan pusulaya bakıyor](https://images.unsplash.com/photo-1510914828947-36f754990aa5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
 
