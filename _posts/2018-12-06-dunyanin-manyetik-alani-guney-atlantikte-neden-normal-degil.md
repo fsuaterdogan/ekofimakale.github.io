@@ -1,20 +1,21 @@
 ---
 layout: single
-title: "Dünya'nın manyetik alanı güney atlantik bölgesinde anormaldir"
+title: "Neden Dünya'nın manyetik alanı güney atlantik bölgesinde anormal?"
 ---
 Bu makalenin gerçeği The Conversation'da yayınlandı.
 
-Dünya manyetik alanlarla kaplıdır (pusula kuzeye işaret eder, atmosferimizi proton gibi yüklü parçacıklar tarafından uzaydan korur vb.) Manyetik alan olmadan, atmosferimiz zararlı radyasyonla hafifçe yok olabilirdi ve bugün, yaşam neredeyse bitmişti.
+Dünya, manyetik alanlarla kaplı (pusula kuzeye işaret eder, atmosferimizi proton gibi yüklü parçacıklar tarafından uzaydan korur vb.) Manyetik alan olmadan, atmosferimiz zararlı radyasyonla hafifçe yok olabilirdi ve bugün, yaşam neredeyse bitmişti.
 
 Manyetik alanın yeryüzünde zamansız, sabit bir yaşam yönüne sahip olduğunu ve bir dereceye kadar doğru olabileceğini düşünebilirsiniz. Ama dünyanın manyetik alanı aslında değişiyor.
 
-Dünyanın manyetik alanının gücü son 160 yıldır endişe verici bir oranda azalmaktadır. Bu çöküş Güney Atlantik Bölgesi'nin Güney Atlantik Anomalisi olarak bilinen ve Zimbabve'den Şili'ye uzanan geniş çaplı genişlemesine odaklanmıştır. Manyetik alan şiddeti o kadar zayıf ki, bu bölge üzerinde yörüngeye yayılan uydular için bir tehlike oluşturuyor.
+Dünyanın manyetik alanının gücü son 160 yıldır endişe verici bir oranda azalmakta. Bu çöküş Güney Atlantik Bölgesi'nin Güney Atlantik Anomalisi olarak bilinen ve Zimbabve'den Şili'ye uzanan geniş çaplı genişlemesine odaklandı. Manyetik alan şiddeti o kadar zayıf ki, bu bölge üzerinde yörüngeye yayılan uydular için bir tehlike oluşturuyor.
 
 Ve alan zayıflamaya devam ediyor, potansiyel olarak manyetik kutupların küresel bir geri dönüşünü de içeren daha dramatik olayları temsil ediyor. Böyle büyük bir değişim, navigasyon sistemlerimizi ve elektrik iletimini etkileyecektir. Kuzey ışıklarının gösterimi farklı enlemlerde görünebilir. Ve daha fazla radyasyon, küresel bir geri dönüş sırasında Dünya'nın yüzeyine çok düşük alan güçlerine ulaşabileceğinden, kanser oranlarını da etkileyebilir. Araştırmamıza aciliyet katarak, bu etkilerin kapsamını tam olarak anlayamayız. Bunu ele almak için 700 yıllık Afrika arkeolojik kayıtları da dahil olmak üzere bazı beklenmedik veri kaynakları arıyoruz.
 
 ![image](https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed_tablet/public/2017/02/06/earthsinterior.png)*Credit: KELVINSONG, CC BY-SA*
 
-Yerkürenin manyetik alanı, gezegenimizin sıvı dış çekirdeğindeki demirin sokulmasıyla oluşmuştur. Son zamanların manyetik alanını belgeleyen gözlemevi ve uydu verilerinin zenginliği sayesinde, Dünya'nın dönen sıvı demir çekirdeğinin hemen üzerinde bir pusula olsaydı, alanın nasıl olacağını örnekleyebiliriz. Ve öyle de yaptık
+Yerkürenin manyetik alanı, gezegenimizin sıvı dış çekirdeğindeki demirin sokulmasıyla oluşmuştur. Son zamanların manyetik alanını belgeleyen gözlemevi ve uydu verilerinin zenginliği sayesinde, Dünya'nın dönen sıvı demir çekirdeğinin hemen üzerinde bir pusula olsaydı, alanın nasıl olacağını örnekleyebiliriz.
+
 Bu analizler şaşırtıcı bir özelliği ortaya çıkarmaktadır:
 - Sıvı demir dış çekirdeğin Dünya'nın iç kısmının biraz daha sert bir kısmıyla birleştiği çekirdek-manto sınırı boyunca Güney Afrika'nın altında ters kutupluluk bulunur. Bu alanda, alanın polaritesi ortalama küresel manyetik alana zıttır. Güney Afrika'nın derinliklerinde bir pusula kullanabilseydik, kuzeyin kuzeyde bu olağandışı eğimde güneyi gösterdiğini görebiliriz.
 
