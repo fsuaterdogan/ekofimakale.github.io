@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Acil fosil yakıt fazı iklim değişikliğini durdurabilir: Yeni çalışma, tüm fosil yakıt altyapısı ömürlerinin sonunda sıfır karbonlu alternatiflerle değişilirse 1.5C altında kalma şansının %64 olacağını gösterdi"
+title: "Tüm fosil yakıt altyapısı tükenip sıfır karbonlu alternatiflerle değişilirse iklim değişikliği durabilir"
 ---
 ![Antarktika'da buzullar eriyor](https://images.unsplash.com/photo-1485060937322-549e872004ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
