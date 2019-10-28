@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Rüzgar türbini kadar verimli ve çoğu güneş panelinden daha yüksek elektrik üreten iki yüzlü membran (hücre zarı) keşfedildi, tuzlu sudan elektrik üretebiliyor"
+title: "Rüzgar türbini kadar verimli elektrik üreten hücre zarı: Tuzlu sudan elektrik üretiyor"
 ---
 Kalabalık bir trene doldurulduğunuzu ve platformun hemen altının oldukça hafif olan bir şey olduğunu hayal edin. Muhtemelen mümkün olan en kısa zamanda taşınmak isteyeceksiniz. Bu dengeleme hareketini izleyen parçacıklar -osmoz olarak bilinir- kendiliğinden yüksek konsantrasyonlu bir alandan düşük konsantrasyonlu bir taneye doğru hareket ederler. ABD Enerji Bakanlığı (DOE) Argonne Ulusal Laboratuarı'ndaki bilim insanları, elektrik akımını tuzlu sudan toplayabilen güç üreten bir zar oluşturma eğilimini kullandılar.
 
