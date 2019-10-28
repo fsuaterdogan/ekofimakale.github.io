@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Kuşların tüylerinde sadece ultraviyole'de görülebilen desenleri var, yani onlar kendilerini daha farklı görüyorlar"
+title: "Kuşların tüylerinde sadece ultraviyole görülebilen desenler var!"
 ---
 Kuşların tüylerinin sadece UV'de görülebilen örüntüleri-desenleri var. Yani gerçekte, birbirlerinin gözlerinde çok farklıdır ancak biz onları benzer görüyoruz.
 
