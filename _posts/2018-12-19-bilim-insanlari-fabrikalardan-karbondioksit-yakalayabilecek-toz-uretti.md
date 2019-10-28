@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bilim insanları, fabrikalardan ve enerji santrallerinden karbondioksit yakalayabilecek bir toz üretti, bu sayede karbondioksit filtrelenecek"
+title: "Fabrikalardan ve enerji santrallerinden karbondioksit yakalayabilecek bir toz üretildi!"
 ---
 Bilim insanları, fabrikalardan ve enerji santrallerinden CO2 yakalayabilecek bir toz üretti. Toz, atmosfere salınmadan önce fosil yakıtlarla güçlendirilen tesislerde CO2'yi filtreleyebilir ve temizleyebilir. Ayrıca geleneksel yöntemlerden iki kat daha etkilidir.
 
