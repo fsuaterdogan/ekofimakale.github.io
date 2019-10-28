@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni çalışmalar açıklandı: İklim değişikliği beyin gücümüzde düşüşe sebep olabilir"
+title: "İklim değişikliği beyin gücümüzde düşüşe sebep olabilir!"
 ---
 Konuya başlamadan, gelin sizlerle karbondioksit miktarındaki artış ile küresel ısınma arasında nasıl bir bağlantı vardır sorusunun yanıtını bulalım.
 
