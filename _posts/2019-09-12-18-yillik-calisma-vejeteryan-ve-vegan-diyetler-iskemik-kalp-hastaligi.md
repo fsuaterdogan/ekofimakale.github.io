@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "18 yıllık çalışma: Vejetaryenlerin ve veganların et yiyicilere kıyasla iskemik kalp hastalığı ve atak riskleri %20 daha fazla"
+title: "18 yıllık çalışma: Vejetaryenlerin ve veganların et yiyicilere kıyasla kalp atak riskleri %20 daha fazla"
 ---
 ![Vegan salata kasesi](https://makale.ekofi.science/assets/images/vegan_diet.jpg)
 
