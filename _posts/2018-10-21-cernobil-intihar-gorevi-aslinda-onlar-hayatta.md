@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1986 yılında Çernobil fabrikasında 2 havuzun vanalarını açmak için intihar görevi gören 3 gönüllüden 2 tanesi aslında hayatta"
+title: "Çernobil fabrikasında intihar görevi gören 3 gönüllüden 2 tanesi hayatta!"
 ---
 Çernobil: Buhar patlaması riski
 -
