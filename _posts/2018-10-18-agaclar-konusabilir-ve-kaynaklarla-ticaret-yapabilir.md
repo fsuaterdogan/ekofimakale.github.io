@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ağaçlar bir mantar kullanarak birbirleriyle konuşabilirler, kaynakları ticaret yapabilirler, fidelerini besleyebilirler ve tehlikelerle karşı uyarabilirler."
+title: "Ağaçlar bir mantar kullanarak birbirleriyle konuşabiliyor!"
 ---
 Ağaçların bilgi otoyolu
 -
