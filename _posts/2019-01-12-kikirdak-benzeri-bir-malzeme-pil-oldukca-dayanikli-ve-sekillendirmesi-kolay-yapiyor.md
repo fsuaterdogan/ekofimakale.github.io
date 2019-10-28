@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Kıkırdak benzeri bir malzeme, pilleri oldukça dayanıklı ve şekillendirmesi kolay hale getirmek için tasarlandı: Amaç, elektrikli aracın tamponu gibi yapısal bileşenlerde enerji depolamak"
+title: "Kıkırdak benzeri malzeme, pilleri şekillendirmesi kolay hale getirmek için tasarlandı!"
 ---
 Dizlerinizin ve akıllı telefonunuzun bataryasının şaşırtıcı bir şekilde benzer ihtiyaçları var, bir University of Michigan profesörü bunu keşfetti ve bu durum, bataryaların yüksek dayanıklılık kazanması için kıkırdak benzeri bir malzeme içeren “yapısal batarya” prototipine yol açtı.
 
