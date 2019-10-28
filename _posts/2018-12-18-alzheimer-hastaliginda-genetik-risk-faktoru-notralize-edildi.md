@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Araştırmacılar geç başlangıçlı Alzheimer hastalığında genetik risk faktörünü nötralize ederek, 40 yaşından önce uygulanabilecek bir aşı veya ilacın geliştirilmesine kapı açtılar"
+title: "Geç başlangıçlı Alzheimer hastalığında genetik risk faktörü sıfırlandı!"
 ---
 Araştırmacılar, vakaların yüzde 50 ila 80'inde bulunan genetik risk faktörünü nötralize etmeyi başardılar: Geç başlangıçlı Alzheimer’in aşı veya ilaca giden yolu
 
