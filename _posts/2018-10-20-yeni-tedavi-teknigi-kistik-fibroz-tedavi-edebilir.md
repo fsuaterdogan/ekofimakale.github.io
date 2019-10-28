@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Yeni tedavi tekniği, akciğer fonksiyonunu % 70 oranında arttıran kistik fibrozu tedavi etmek için üçlü bir ilaç ile saldırıyor"
+title: "Yeni tedavi tekniği akciğer fonksiyonunu arttıran kistik fibrozu tedavi etmek için üçlü ilaç kullanıyor!"
 ---
 Yıllar boyunca, bilim adamları çoğu kistik fibroz hastası için çalışan bir tedavi bulmak için çaba sarf etmiştir. Şimdi, hala test edilmekte olan iki yeni ilaç yaklaşımı umut veriyor.
 
