@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Antibiyotik direnci ile mücadelede yeni umut - Eski İrlanda topraklarında bulunan bakteriler, süper böceklerin büyümesini durduruyor"
+title: "Antibiyotik direnci ile mücadelede yeni umut - Eski İrlanda topraklarında bulunan bakteriler"
 ---
 Uzun zamandır tıbbi özelliklere sahip olduğunu düşündüğü İrlanda'dan toprağı analiz eden araştırmacılar, MRSA da dahil olmak üzere antibiyotiklere dirençli ilk altı süper topluluğun dördüne karşı etkili olan daha önce bilinmeyen bir bakteri suşu["](https://tr.wiktionary.org/wiki/su%C5%9F) içerdiğini keşfettiler.
 
