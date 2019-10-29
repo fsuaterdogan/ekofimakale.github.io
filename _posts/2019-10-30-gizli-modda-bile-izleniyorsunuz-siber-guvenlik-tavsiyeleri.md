@@ -3,7 +3,7 @@ title: "Gizli modda olsanız bile izleniyorsunuz: Siber güvenlik tavsiyeleri"
 layout: splash
 date: 2019-10-28T00:00:00-04:00
 header:
-  overlay_image: https://images.unsplash.com/photo-1508780709619-79562169bc64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+  overlay_image: https://images.unsplash.com/photo-1510511459019-5dda7724fd87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 excerpt: "İzleniyorsunuz. İzlenmediğinizi zannetseniz bile."
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
