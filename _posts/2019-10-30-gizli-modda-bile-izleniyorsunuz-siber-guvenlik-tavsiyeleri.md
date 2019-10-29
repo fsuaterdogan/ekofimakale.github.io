@@ -13,7 +13,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Şimdi VPN alın"
     btn_class: "btn--primary"
-feature_row1:
+ feature_row2:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "Antivirüs sizi korur"
     title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
@@ -27,4 +27,4 @@ feature_row1:
 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row1 id="feature_row1" type="right" %}
+{% include feature_row id="feature_row2" type="right" %}
