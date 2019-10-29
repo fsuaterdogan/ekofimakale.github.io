@@ -1,7 +1,7 @@
 ---
 title: "Gizli modda olsanız bile izleniyorsunuz: Siber güvenlik tavsiyeleri"
 layout: splash
-date: 2019-10-28T00:00:00-04:00
+date: 2019-10-30T00:00:00-03:00
 header:
   overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 excerpt: "Online aktiviteleriniz izleyebilecek kişiler<br>İnternet servis sağlayıcınız,<br>iş bilgisayarıysa patronunuz,<br>ziyaret ettiğiniz internet siteleri."
