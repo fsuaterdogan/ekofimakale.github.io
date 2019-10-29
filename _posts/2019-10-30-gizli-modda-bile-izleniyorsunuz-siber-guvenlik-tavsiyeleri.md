@@ -17,8 +17,8 @@ feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "Antivirüs sizi korur"
     title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
-    excerpt: 'Antrenmanı tamamladınız. Ana sayfaya dönebilirsiniz.'
-    url: 
+    excerpt: 'VPN'ler çoğu Man in the middle saldırısını engeller.'
+    url: ""
     btn_label: "Bitti"
     btn_class: "btn--primary"
 ---
