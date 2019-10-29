@@ -4,7 +4,7 @@ layout: splash
 date: 2019-10-28T00:00:00-04:00
 header:
   overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
-excerpt: "İzleniyorsunuz. İzlenmediğinizi zannetseniz bile."
+excerpt: "İzleniyorsunuz. İzlenmediğinizi zannetseniz bile. Online aktiviteleriniz izleyebilecek kişiler:<br>İnternet servis sağlayıcınız,<br>iş bilgisayarıysa patronunuz,<br>ziyaret ettiğiniz internet siteleri."
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN sizi korur"
