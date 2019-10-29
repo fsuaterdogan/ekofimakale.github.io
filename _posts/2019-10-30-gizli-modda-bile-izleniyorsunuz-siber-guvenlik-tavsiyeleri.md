@@ -10,14 +10,14 @@ feature_row:
     alt: "VPN sizi korur"
     title: "VPN Kullanın: Kendi tünelinizde özgür bir kartal olun"
     excerpt: 'Tarayıcının gizli modunda da olsanız, ne yaptığınız takip edilebilir. VPN kullanmak, izlemenizi engeller.'
-    url: "#test-link"
+    url: "http://www.dpbolvw.net/ke104cy63y5LVNVVRVULNOVNSPNV"
     btn_label: "Şimdi VPN alın"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "Antivirüs sizi korur"
     title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
-    excerpt: 'VPN'ler çoğu Man in the middle saldırısını engeller.'
+    excerpt: 'VPN çoğu Man in the middle saldırısını engeller.'
     url: ""
     btn_label: "Bitti"
     btn_class: "btn--primary"
