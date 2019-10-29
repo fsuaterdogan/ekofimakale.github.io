@@ -13,13 +13,13 @@ feature_row:
     url: "#test-link"
     btn_label: "Şimdi VPN alın"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/antivirus_img1.jpg
-    alt: "Antivirüs sizi korur"
-    title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
-    excerpt: 'VPN'ler çoğu Man in the middle saldırısını engeller.'
-    url: "#test-link"
-    btn_label: "Şimdi VPN alın"
+feature_row4:
+  - image_path: 
+    alt: "placeholder image 2"
+    title: "Bu kadar!"
+    excerpt: 'Antrenmanı tamamladınız. Ana sayfaya dönebilirsiniz.'
+    url: 
+    btn_label: "Bitti"
     btn_class: "btn--primary"
 ---
 
@@ -27,4 +27,4 @@ feature_row2:
 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row4" type="right" %}
