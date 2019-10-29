@@ -2,6 +2,8 @@
 title: "Yeni çalışma: Kötü uyku kansere yol açabilir!"
 date: 2019-10-29T18:17:00-03:00
 ---
+![Kötü uyku](https://images.unsplash.com/photo-1450776598040-e0dbb5665213?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1407&q=80)
+
 Kötü uyku, bağırsak mikrobiyomunuzu olumsuz yönde etkileyebilir. Bağırsak ile beyninin iki yönlü iletişimi, düzgün uyku almamanın kısa süreli (stres, psikososyal sorunlar) ve uzun süreli (kalp-damar hastalıkları, kanser) sağlık sorunlarına yol açabileceğini açıkladı.
 
 Bu, Nova Southeastern Üniversitesi'nden (NSU) birkaç araştırmacı içeren çalışmanın özü.
