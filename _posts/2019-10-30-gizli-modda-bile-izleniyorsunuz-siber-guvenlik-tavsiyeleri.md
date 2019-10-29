@@ -14,9 +14,9 @@ feature_row:
     btn_label: "Şimdi VPN alın"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: 
-    alt: "placeholder image 2"
-    title: "Bu kadar!"
+  - image_path: /assets/images/antivirus_img1.jpg
+    alt: "Antivirüs sizi korur"
+    title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
     excerpt: 'Antrenmanı tamamladınız. Ana sayfaya dönebilirsiniz.'
     url: 
     btn_label: "Bitti"
