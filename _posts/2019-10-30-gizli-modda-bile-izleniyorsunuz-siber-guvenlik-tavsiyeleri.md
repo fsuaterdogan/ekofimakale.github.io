@@ -1,30 +1,73 @@
 ---
-title: "Gizli modda olsanız bile izleniyorsunuz: Siber güvenlik tavsiyeleri"
+title: "İzleniyorsunuz! VPN Edinin"
 layout: splash
-date: 2019-10-30T00:00:00-03:00
+date: 2019-10-31T00:00:00-03:00
 header:
-  overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
-excerpt: "Online aktiviteleriniz izleyebilecek kişiler<br>İnternet servis sağlayıcınız,<br>iş bilgisayarıysa patronunuz,<br>ziyaret ettiğiniz internet siteleri."
+excerpt: "İnternet servis sağlayıcınız, ziyaret ettiğiniz web siteleri ve daha fazlası."
+intro: 
+  - excerpt: '<h1><bold>Hacker'lar</bold>, ziyaret ettiğiniz web siteleri ve daha fazlası sizi izleyebilir. </h1><br> İnsanlar seni gözetliyor. Bunlar halka açık bilgileriniz. <br><script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nosys=1"></script><br>Seni korumaya çalışıyoruz.'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
-    alt: "VPN sizi korur"
-    title: "VPN Kullanın: Kendi tünelinizde özgür bir kartal olun"
-    excerpt: 'Tarayıcının gizli modunda da olsanız, ne yaptığınız takip edilebilir. VPN kullanmak, izlemenizi engeller.'
-    url: "http://www.dpbolvw.net/ke104cy63y5LVNVVRVULNOVNSPNV"
-    btn_label: "Şimdi VPN alın"
+    alt: "VPN seni korur"
+    title: "VPN'i kullanın: Kendi tünelinizde özgür bir kartal olun"
+    excerpt: 'Tarayıcınızın gizli modunda bile, ne yaptığınız izlenebilir. VPN kullanmak izlemenizi önler.<br><br>**58% EFSANE CUMA İNDİRİMİ! SADECE 1 HAFTA**'
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "NordVPN 1 yıllık anlaşmaya $5.00/ay"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/antivirus_img1.jpg
-    alt: "Antivirüs sizi korur"
-    title: "Saldırı kurbanı olmayın. Türkiye'ye siber saldırı var."
-    excerpt: 'VPN çoğu Man in the middle saldırısını engeller.'
-    url: ""
-    btn_label: "Bitti"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
+outro:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    title: "<i class='fas fa-question'></i><br>VPN nedir?"
+    excerpt: "Sanal bir özel ağ (VPN), herkese açık internet bağlantısından özel bir ağ oluşturarak çevrimiçi gizlilik sağlar."
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Şimdi NordVPN'den Edin"
     btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "<i class='fas fa-unlink'></i><br>Saldırıya hedef olmayın"
+    excerpt: "Tüm dünyada siber saldırılar var. Hedef olmayın. VPN'ler birçok Man-in-the-middle karşı koruma sağlar."
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Şimdi NordVPN'den Edin"
+    btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "<i class='fas fa-toggle-on'></i><br>Kullanımı çok kolay"
+    excerpt: "Sadece sunucuların yerlerini seçip açın. Bu kadar!"
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Şimdi NordVPN'den Edin"
+    btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
+wecarinbro:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "Sorun mu var?"
+    excerpt: "Contact us: proxima@ekofi.science"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="outro" %}
+
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-813527901/BUv-CPef8LIBEN3m9YMD',
+      'transaction_id': '',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
+{% include feature_row id="wecarinbro" %}
+
+{% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+  {% include comments.html %}
+{% endif %}
+
