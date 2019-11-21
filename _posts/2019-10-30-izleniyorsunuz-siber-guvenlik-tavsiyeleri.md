@@ -39,8 +39,8 @@ outro:
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
 wecarinbro:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Sorun mu var?"
-    excerpt: "Contact us: proxima@ekofi.science"
+    title: "Yardıma mı ihtiyacınız var? Biz her zaman seninleyiz."
+    excerpt: "İletişime geç: proxima@ekofi.science"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -65,7 +65,7 @@ function gtag_report_conversion(url) {
 }
 </script>
 
-{% include feature_row id="wecarinbro" %}
+{% include feature_row id="wecarinbro" type="center" %}
 
 {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
   {% include comments.html %}
