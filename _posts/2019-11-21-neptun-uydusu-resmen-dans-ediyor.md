@@ -3,17 +3,17 @@ title: "Neptün uydusu Naiad resmen dans ediyor!"
 ---
 ![Neptün uydusu Naiad](http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2019/11/neptunemoonsnaiadthalassa.gif?mw=600)
 
-Neptün'ün en içteki uydusu Naiad, atlıkarınca atı gibi aşağı yukarı sallanarak komşu uydu Thalassa'ya çarpmaktan kaçındı. Yeni keşfedilen rezonans, bilim insanlarının şimdiye kadar güneş sisteminde gördüğü hiçbir şeye benzemiyor.
+Neptün'ün en içteki uydusu Naiad, atlıkarınca gibi aşağı yukarı sallanarak komşu uydu Thalassa'ya çarpmaktan kaçınıyor. Yeni keşfedilen rezonans, bilim insanlarının şimdiye kadar güneş sisteminde gördüğü hiçbir şeye benzemiyor.
 
 Aşağı yukarı sallanmak
 -
-Bir atlıkarınca atı gibi aşağı yukarı sallanmak, bir gezegeni yörüngeye koymanın sağlam bir yolu gibi gelmeyebilir, ama Neptün'ün küçük bir uydusu için işe yarıyor. Gezegenin en içten bilinen uydusu Naiad, eğik bir yörüngeye sahip ve komşu uydu Thalassa'ya göre aşağı yukarı hareket ediyor.
+Bir atlıkarınca gibi aşağı yukarı sallanmak, bir gezegeni yörüngeye koymanın sağlam bir yolu gibi gelmeyebilir, ama Neptün'ün küçük bir uydusu için işe yarıyor. Gezegenin en içten bilinen uydusu Naiad, eğik bir yörüngeye sahip ve komşu uydu Thalassa'ya göre aşağı yukarı hareket ediyor.
 
 Nu bulgu aynı zamanda Neptün’ün uydusunun ardındaki tarihin bir kısmını ortaya çıkarmaya yardımcı oluyor. Araştırmacılar, keşfi [Icarus dergisindeki bir makalede](https://www.sciencedirect.com/science/article/abs/pii/S001910351930257X) bildirdi.
 
 Yörüngesel rezonans nedir?
 -
-İki uydunun yörüngelerinin düzenlenmesi, bilim adamlarının yörüngesel rezonans dedikleri bir örnektir. Yörüngelerinde yinelenen desenler, iki uydu için düzenli bir çekim kuvveti seti uygular. Bu durumda, yinelenen kuvvetler uyduları yörüngelerinde tutar, ancak rezonanslar da yıkıcı olabilir.
+İki uydunun yörüngelerinin düzenlenmesi, bilim adamlarının yörüngesel rezonans dedikleri bir örnektir. Yörüngelerinde yinelenen desenler, iki uydu için düzenli bir çekim kuvveti seti uygular. Bu durumda, yinelenen kuvvetler uyduları yörüngelerinde tutar, ancak rezonanslar yıkıcı da olabilir.
 
 Gökbilimciler, güneş sisteminde birçok yörüngesel rezonans örneği bulmuşlardır.
 
