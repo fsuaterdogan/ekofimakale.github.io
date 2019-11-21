@@ -1,5 +1,5 @@
 ---
-title: "Neptün uydusu Naiad resmen dans ediyor!"
+title: "Neptün'ün uydusu Naiad çarpmamak için dans ediyor!"
 ---
 ![Neptün uydusu Naiad](http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2019/11/neptunemoonsnaiadthalassa.gif?mw=600)
 
