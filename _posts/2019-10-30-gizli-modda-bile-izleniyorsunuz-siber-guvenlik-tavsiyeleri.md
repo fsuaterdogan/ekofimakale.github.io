@@ -5,7 +5,7 @@ date: 2019-10-31T00:00:00-03:00
 header:
 excerpt: "İnternet servis sağlayıcınız, ziyaret ettiğiniz web siteleri ve daha fazlası."
 intro: 
-  - excerpt: '<h1><bold>Hacker'lar</bold>, ziyaret ettiğiniz web siteleri ve daha fazlası sizi izleyebilir. </h1><br> İnsanlar seni gözetliyor. Bunlar halka açık bilgileriniz. <br><script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nosys=1"></script><br>Seni korumaya çalışıyoruz.'
+  - excerpt: '<h1><bold>Hackerlar</bold>, ziyaret ettiğiniz web siteleri ve daha fazlası sizi izleyebilir. </h1><br> İnsanlar seni gözetliyor. Bunlar halka açık bilgileriniz. <br><script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nosys=1"></script><br>Seni korumaya çalışıyoruz.'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN seni korur"
