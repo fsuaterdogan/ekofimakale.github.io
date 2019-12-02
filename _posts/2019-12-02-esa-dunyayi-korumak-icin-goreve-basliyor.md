@@ -6,7 +6,7 @@ title: "ESA Dünya'yı korumak için göreve başlıyor!"
 
 Avrupa'nın uzay ajansı Hera asteroit görevini onayladı - Bizi korumak için gezegensel bir savunma girişimi.
 
-ESA uzay Ajansı'ndan sorumlu Avrupa Bakanları, sapmanın insanlığı haydut bir asteroidden kurtarıp kurtaramayacağını test edecek bir misyon olan Hera'yı onayladı. 320 milyon dolarlık görev sırasında, ESA ve ortak NASA, Didymos adlı bir çift asteroit sistemine bir çift uzay aracı gönderecek. NASA ilk önce DART probunu daha küçük asteroit (Didymoon) ile 13.320 MPH hızında çarpıştıracak ve olay LICIACube adlı bir İtalyan küp tarafından kaydedilecek.  Hera daha sonra etki kraterini haritalamak ve asteroidin kütlesini ölçmek için gelecek.
+ESA uzay Ajansı'ndan sorumlu Avrupa Bakanları, sapmanın insanlığı haydut bir asteroidden kurtarıp kurtaramayacağını test edecek bir misyon olan Hera'yı onayladı. 320 milyon dolarlık görev sırasında, ESA ve ortak NASA, Didymos adlı bir çift asteroit sistemine bir çift uzay aracı gönderecek. NASA ilk önce DART isimli aygıtı daha küçük asteroit (Didymoon) ile 13.320 MPH hızında çarpıştıracak ve olay LICIACube adlı bir İtalyan küp tarafından kaydedilecek.  Hera daha sonra etki kraterini haritalamak ve asteroidin kütlesini ölçmek için gelecek.
 
 Hera, dokunmadan önce asteroit yüzeyine çok yakın uçabilen iki CubeSat taşıyacak. Bu evrak çantası büyüklüğünde uzay aracı, dronlar gibi hareket edecek, etki krateriyle ilgili hayati verileri yakalayacak ve bilim insanlarına bileşimlerini çıkarmada yardımcı olacak asteroitin kütlesi de dahil olmak üzere veriler verecek. ESA'nın amacı, "asteroit sapmasını iyi anlaşılmış bir gezegen savunma tekniğine dönüştürmektir" dedi.
 
@@ -14,4 +14,4 @@ Hera, dokunmadan önce asteroit yüzeyine çok yakın uçabilen iki CubeSat taş
 
 Didymoon daha büyük arkadaşı yörüngede olduğundan, bilim adamları çok küçük olsa bile, dart'ın yörünge üzerindeki etkisini ölçebilmeli. Küçük asteroitin Dünya'yı etkilemesi durumunda bütün bir şehri yok edebilir. Bununla birlikte, oldukça zor bir görev, çünkü her iki asteroit hala nispeten küçük ve daha önce hiç bu kadar küçük uzay cisimlerine uzay aracı gitmedi.
 
-Bir asteroit çarpışması pek muhtemel olmayan bir olay olsa da, bir deprem veya volkanik patlamanın aksine aslında önlenebilir. Max Planck Enstitüsü araştırmacısı Holger Sierks, Space.com'a bu ayın başlarında yaptığı açıklamada, "Berlin'de harika dinozorların koleksiyonuna katılmamak için [yaklaşık 2.000 yakın nesneye] dikkatlice uymamız gerekiyor." Dedi.
+Bir asteroit çarpışması pek muhtemel olmayan bir olay olsa da, bir deprem veya volkanik patlamanın aksine aslında önlenebilir. Max Planck Enstitüsü araştırmacısı Holger Sierks, bu ayın başlarında yaptığı açıklamada, "Berlin'de harika dinozorların koleksiyonuna katılmamak için [yaklaşık 2.000 yakın nesneye] dikkatlice uymamız gerekiyor." Dedi.
