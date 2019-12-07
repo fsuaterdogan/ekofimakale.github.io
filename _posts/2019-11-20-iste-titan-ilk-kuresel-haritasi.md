@@ -2,6 +2,8 @@
 title: "İşte Titan'ın ilk küresel haritası!"
 ---
 ![Titan'ın ilk küresel haritası](https://media.nature.com/w800/magazine-assets/d41586-019-03539-8/d41586-019-03539-8_17400616.jpg)
+
+
 *NASA’nın Cassini uzay aracının yakaladığı resimde güneş ışığı, Titan’ın kuzey kutbu etrafındaki sıvı metan göllerini yansıtıyor. Kredi: NASA/JPL-Caltech/Arizona Üniversitesi/Idaho Üniversitesi*
 
 Cassini verileri, Satürn’ün en büyük uydusunun jeolojik çeşitliliğini ortaya koymakta.
