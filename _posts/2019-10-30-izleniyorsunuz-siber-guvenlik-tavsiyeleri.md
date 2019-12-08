@@ -1,5 +1,5 @@
 ---
-title: "İzleniyorsunuz! VPN Edinin"
+title: "İzleniyorsunuz! VPN Edinin (Sponsorlu)"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
 header:
