@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Forum"
-    url: https://forum.ekofi.science/
+  - title: "Hakkımızda"
+    url: /hakkimizda/
   - title: "Hızlı Başlangıç"
     url: /baslangic/
   # - title: "Sample Posts"
