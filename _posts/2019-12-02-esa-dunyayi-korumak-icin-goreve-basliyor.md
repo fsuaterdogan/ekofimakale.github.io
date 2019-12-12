@@ -1,5 +1,7 @@
 ---
 title: "ESA Dünya'yı korumak için göreve başlıyor!"
+categories:
+  - Astronomi
 ---
 ![ESA Hera Anti-asteroit misyonu](https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1920%252C1018%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C849%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-12%252Fabbdfed0-14d0-11ea-bd0c-0d33fbdfa16f%26client%3Da1acac3e1b3290917d92%26signature%3D11f5e4ddfec5e6ee2aa8468cdce90b17c5cc7284&client=amp-blogside-v2&signature=e5194828b7432a0eaa12e266fcdf5d4cb27d3b26)
 
