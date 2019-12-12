@@ -1,5 +1,7 @@
 ---
 title: "Eller havaya: Firefox gizlilik korumaları sizi kimin izlemeye çalıştığını söyleyecek"
+categories:
+  - Yazılım
 ---
 ![Firefox tarafından bloklanan izleyenler](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/firefox/files/2019/10/fx_tracker-graph.gif)
 
