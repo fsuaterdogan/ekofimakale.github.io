@@ -1,5 +1,7 @@
 ---
 title: "Yaygın koruyucu antikorlar daha iyi aşılara neden olabilir!"
+categories:
+  - Tıp
 ---
 ![Grip virüsü](https://www.niaid.nih.gov/sites/default/files/styles/image_style_square_lg/public/Influenza%20virus%203D%20printed%20cleaned%20up.jpg?itok=stkQi0Aq)
 *Grip virüsleri, burada gösterilen model gibi, dışlarında da çeşitli yüzey proteinleri gösterir.*
