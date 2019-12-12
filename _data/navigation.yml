@@ -4,8 +4,8 @@ main:
     url: /hakkimizda/
   - title: "Hızlı Başlangıç"
     url: /baslangic/
-   - title: "Kategoriler"
-     url: /kategori/
+  - title: "Kategoriler"
+    url: /kategori/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
