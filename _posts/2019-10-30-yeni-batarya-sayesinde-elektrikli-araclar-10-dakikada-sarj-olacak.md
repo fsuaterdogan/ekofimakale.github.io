@@ -1,5 +1,7 @@
 ---
 title: "Yeni batarya sayesinde elektrikli araçlar 10 dakikada şarj olacak!"
+categories:
+  - Teknoloji
 ---
 ![Araçları 10 dakikada şarj eden yeni batarya](https://assets.realclear.com/images/49/492485.jpg)
 *AP Photo/Duane Burleson, File*
