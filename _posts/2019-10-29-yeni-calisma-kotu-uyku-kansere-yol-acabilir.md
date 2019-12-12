@@ -1,5 +1,7 @@
 ---
 title: "Yeni çalışma: Kötü uyku kansere yol açabilir!"
+categories:
+  - Tıp
 date: 2019-10-29T18:17:00-03:00
 ---
 ![Kötü uyku](https://images.unsplash.com/photo-1450776598040-e0dbb5665213?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1407&q=80)
