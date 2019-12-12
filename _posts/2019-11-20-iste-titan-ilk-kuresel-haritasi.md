@@ -1,5 +1,7 @@
 ---
 title: "İşte Titan'ın ilk küresel haritası!"
+categories:
+  - Astronomi
 ---
 ![Titan'ın ilk küresel haritası](https://media.nature.com/w800/magazine-assets/d41586-019-03539-8/d41586-019-03539-8_17400616.jpg)
 
