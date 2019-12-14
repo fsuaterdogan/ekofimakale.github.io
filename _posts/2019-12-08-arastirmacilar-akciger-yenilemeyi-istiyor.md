@@ -3,7 +3,7 @@ title: "Araştırmacılar akciğerleri yenilemek istiyor!"
 categories:
   - Tıp
 header:
-  teaser: /assets/images/sincap.jpg
+  teaser: https://images.unsplash.com/photo-1555708982-8645ec9ce3cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80
 ---
 ![Araştırmacılar akciğerleri yenilemeyi istiyor!](https://images.unsplash.com/photo-1555708982-8645ec9ce3cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80)
  
