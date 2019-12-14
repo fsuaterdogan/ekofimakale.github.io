@@ -2,6 +2,8 @@
 title: "Maalesef: Plastik hormonlarımıza işledi! BPA insanlarda sanılandan daha yüksek!"
 categories:
   - Ekoloji
+header:
+  teaser: https://images.unsplash.com/photo-1483691278019-cb7253bee49f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 ---
 ![Maalesef: Plastik hormonlarımıza işledi!](https://images.unsplash.com/photo-1483691278019-cb7253bee49f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
