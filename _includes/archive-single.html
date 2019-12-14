@@ -23,9 +23,9 @@
           alt="">
       </div>
     {% endif %}
-    {% if include.type == teaser %}
+    <a href="{{ post.url | absolute_url }}" rel="permalink">
     <img src="{{ teaser }}" style="width: 600px; height: 150px; object-fit: cover;">
-    {% endif %}
+    </a>
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
