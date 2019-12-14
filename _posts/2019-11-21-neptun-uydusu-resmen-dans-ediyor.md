@@ -2,6 +2,8 @@
 title: "Neptün'ün uydusu Naiad çarpmamak için dans ediyor!"
 categories:
   - Astronomi
+header:
+  teaser: http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2019/11/neptunemoonsnaiadthalassa.gif?mw=600
 ---
 ![Neptün uydusu Naiad](http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2019/11/neptunemoonsnaiadthalassa.gif?mw=600)
 
