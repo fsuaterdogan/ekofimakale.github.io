@@ -8,6 +8,7 @@ header:
 ![Yapay Zeka ile Metin Duygu Analizi](https://images.unsplash.com/photo-1531715047058-33b6c9df7897?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80)
 
 İçerikler
+-
 - Veri Kümesi Seçme
 - Temel Model Tanımlama
 - (Derin) Yapay Sinir Ağları Üzerine Bir Astar
