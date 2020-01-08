@@ -502,3 +502,232 @@ Testing Accuracy:  0.4600
 ```
 
 ![İlk model için doğruluk ve kayıp](https://files.realpython.com/media/loss-accuracy-first-model.95140204b674.png)
+
+Bu, performansta görebileceğiniz gibi sıralı verilerle çalışmanın genellikle güvenilir olmayan bir yoludur. Sıralı verilerle çalışırken, mutlak konum bilgisi yerine yerel ve sıralı bilgilere bakan yöntemlere odaklanmak istersiniz.
+
+Yerleştirme işlemleriyle çalışmanın başka bir yolu da yerleştirme işleminden sonra bir MaxPooling1D / AveragePooling1D veya GlobalMaxPooling1D / GlobalAveragePooling1D katmanı kullanmaktır. Havuzlama katmanlarını, gelen özellik vektörlerini altörneklemenin (boyutunu küçültmenin bir yolu) olarak düşünebilirsiniz.
+
+Maksimum havuzlama durumunda, her özellik boyutu için havuzdaki tüm özelliklerin maksimum değerini alırsınız. Ortalama havuzlama durumunda ortalamayı alırsınız, ancak maksimum havuzlama büyük değerleri vurguladığı için daha yaygın olarak kullanılır.
+
+Global maks / ortalama havuzlama, tüm özelliklerin maksimum / ortalamasını alırken, diğer durumda havuz boyutunu tanımlamanız gerekir. Keras'ın sıralı modele ekleyebileceğiniz kendi katmanı vardır:
+
+```
+from keras.models import Sequential
+from keras import layers
+
+embedding_dim = 50
+
+model = Sequential()
+model.add(layers.Embedding(input_dim=vocab_size, 
+                           output_dim=embedding_dim, 
+                           input_length=maxlen))
+model.add(layers.GlobalMaxPool1D())
+model.add(layers.Dense(10, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(optimizer='adam',
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+model.summary()
+```
+Sonuç: 
+```
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_9 (Embedding)      (None, 100, 50)           87350     
+_________________________________________________________________
+global_max_pooling1d_5 (Glob (None, 50)                0         
+_________________________________________________________________
+dense_15 (Dense)             (None, 10)                510       
+_________________________________________________________________
+dense_16 (Dense)             (None, 1)                 11        
+=================================================================
+Total params: 87,871
+Trainable params: 87,871
+Non-trainable params: 0
+_________________________________________________________________
+```
+
+Eğitim prosedürü değişmeyecektir:
+
+```
+history = model.fit(X_train, y_train,
+                    epochs=50,
+                    verbose=False,
+                    validation_data=(X_test, y_test),
+                    batch_size=10)
+loss, accuracy = model.evaluate(X_train, y_train, verbose=False)
+print("Training Accuracy: {:.4f}".format(accuracy))
+loss, accuracy = model.evaluate(X_test, y_test, verbose=False)
+print("Testing Accuracy:  {:.4f}".format(accuracy))
+plot_history(history)
+
+Sonuç:
+Training Accuracy: 1.0000
+Testing Accuracy:  0.8050
+```
+
+Hazır Eğitilmiş Sözcük Gömülerini Kullanma
+-
+Çözmek istediğimiz daha büyük modele eklenen ortak öğrenim kelimesi düğünlerinin bir örneğini gördük.
+
+Bir alternatif, çok daha büyük bir korpus kullanan önceden hesaplanmış bir gömme alanı kullanmaktır. Kelime düğünlerini büyük bir metin topluluğunda eğiterek önceden hesaplamak mümkündür. En popüler yöntemler arasında Google tarafından geliştirilen Word2Vec ve Stanford NLP Group tarafından geliştirilen GloVe (Word Temsilciliği için Global Vektörler) bulunmaktadır.
+
+Bunların aynı amaç için farklı yaklaşımlar olduğunu unutmayın. Word2Vec bunu sinir ağları kullanarak başarır ve GloVe bunu bir ortak oluşum matrisi ile ve matris çarpanlarına ayırma ile başarır. Her iki durumda da boyutsal azaltma ile uğraşıyorsunuz, ancak Word2Vec daha doğru ve GloVe'un hesaplanması daha hızlı.
+
+Bu öğreticide, boyutları Google tarafından sağlanan Word2Vec kelime düğünlerinden daha yönetilebilir olduğu için Stanford NLP Grubu'ndan GloVe kelime düğünleriyle nasıl çalışacağınızı göreceksiniz. Devam edin ve 6B (6 milyar kelime üzerinde eğitilmiş) kelime düğünlerini buradan indirin (822 MB).
+
+Başka kelime düğünlerini de ana GloVe sayfasında bulabilirsiniz. Google'ın önceden hazırlanmış Word2Vec düğünlerini burada bulabilirsiniz. Kendi kelime düğünlerinizi eğitmek istiyorsanız, hesaplama için Word2Vec kullanan gensim Python paketi ile bunu verimli bir şekilde yapabilirsiniz. Bunun nasıl yapılacağı hakkında daha fazla ayrıntı burada.
+
+Şimdi sizi ele aldığımıza göre, modellerinizdeki düğün kelimelerini kullanmaya başlayabilirsiniz. Bir sonraki örnekte, gömme matrisini nasıl yükleyebileceğinizi görebilirsiniz. Dosyadaki her satır kelimeyle başlar ve onu belirli bir kelimenin gömme vektörü izler.
+
+Bu, 400000 satırlı büyük bir dosyadır, her satır bir kelimeyi temsil eder ve ardından vektörü bir yüzer akışı olarak takip eder.
+
+Tüm kelimelere ihtiyacınız olmadığından, sadece kelime dağarcığımızdaki kelimelere odaklanabilirsiniz. Kelime dağarcığımızda sadece sınırlı sayıda kelimemiz olduğundan, önceden yazılmış kelime gömülerinde 40000 kelimenin çoğunu atlayabiliriz:
+
+```
+import numpy as np
+
+def create_embedding_matrix(filepath, word_index, embedding_dim):
+    vocab_size = len(word_index) + 1  # Adding again 1 because of reserved 0 index
+    embedding_matrix = np.zeros((vocab_size, embedding_dim))
+
+    with open(filepath) as f:
+        for line in f:
+            word, *vector = line.split()
+            if word in word_index:
+                idx = word_index[word] 
+                embedding_matrix[idx] = np.array(
+                    vector, dtype=np.float32)[:embedding_dim]
+
+    return embedding_matrix
+    
+Gömme matrisini almak için bu işlev:
+
+>>> embedding_dim = 50
+>>> embedding_matrix = create_embedding_matrix(
+...     'data/glove_word_embeddings/glove.6B.50d.txt',
+...     tokenizer.word_index, embedding_dim)
+```
+
+İlk olarak, yerleştirme vektörlerinden kaçının sıfır olmadığını hızlıca inceleyelim:
+
+```
+>>> nonzero_elements = np.count_nonzero(np.count_nonzero(embedding_matrix, axis=1))
+>>> nonzero_elements / vocab_size
+0.9507727532913566
+```
+
+Bu, kelime dağarcığının %95,1'inin kelime dağarcığımızın iyi bir kapsamı olan önceden hazırlanmış model tarafından kapsanması anlamına gelir. GlobalMaxPool1D katmanını kullanırken performansa bakalım:
+
+```
+model = Sequential()
+model.add(layers.Embedding(vocab_size, embedding_dim, 
+                           weights=[embedding_matrix], 
+                           input_length=maxlen, 
+                           trainable=False))
+model.add(layers.GlobalMaxPool1D())
+model.add(layers.Dense(10, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(optimizer='adam',
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+              
+model.summary()
+```
+Sonuç:
+```
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_10 (Embedding)     (None, 100, 50)           87350     
+_________________________________________________________________
+global_max_pooling1d_6 (Glob (None, 50)                0         
+_________________________________________________________________
+dense_17 (Dense)             (None, 10)                510       
+_________________________________________________________________
+dense_18 (Dense)             (None, 1)                 11        
+=================================================================
+Total params: 87,871
+Trainable params: 521
+Non-trainable params: 87,350
+_________________________________________________________________
+
+```
+```
+history = model.fit(X_train, y_train,
+                    epochs=50,
+                    verbose=False,
+                    validation_data=(X_test, y_test),
+                    batch_size=10)
+loss, accuracy = model.evaluate(X_train, y_train, verbose=False)
+print("Training Accuracy: {:.4f}".format(accuracy))
+loss, accuracy = model.evaluate(X_test, y_test, verbose=False)
+print("Testing Accuracy:  {:.4f}".format(accuracy))
+plot_history(history)
+```
+Sonuç:
+
+```
+Training Accuracy: 0.7500
+Testing Accuracy:  0.6950
+```
+
+![Eğitimsiz kelime düğünlerinde doğruluk ve kayıp](https://files.realpython.com/media/loss-accuracy-embedding-untrained.230bc90c5536.png)
+*Eğitimsiz kelime düğünlerinde doğruluk ve kayıp*
+
+Düğün kelimesi ek olarak eğitilmediğinden, daha düşük olması beklenir. Ancak, yerleştirme işleminin trainable=True kullanılarak eğitilmesine izin verirsek bunun nasıl performans gösterdiğini görelim:
+
+```
+model = Sequential()
+model.add(layers.Embedding(vocab_size, embedding_dim, 
+                           weights=[embedding_matrix], 
+                           input_length=maxlen, 
+                           trainable=True))
+model.add(layers.GlobalMaxPool1D())
+model.add(layers.Dense(10, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(optimizer='adam',
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+model.summary()
+
+Sonuçlar:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_11 (Embedding)     (None, 100, 50)           87350     
+_________________________________________________________________
+global_max_pooling1d_7 (Glob (None, 50)                0         
+_________________________________________________________________
+dense_19 (Dense)             (None, 10)                510       
+_________________________________________________________________
+dense_20 (Dense)             (None, 1)                 11        
+=================================================================
+Total params: 87,871
+Trainable params: 87,871
+Non-trainable params: 0
+_________________________________________________________________
+```
+```
+history = model.fit(X_train, y_train,
+                    epochs=50,
+                    verbose=False,
+                    validation_data=(X_test, y_test),
+                    batch_size=10)
+loss, accuracy = model.evaluate(X_train, y_train, verbose=False)
+print("Training Accuracy: {:.4f}".format(accuracy))
+loss, accuracy = model.evaluate(X_test, y_test, verbose=False)
+print("Testing Accuracy:  {:.4f}".format(accuracy))
+plot_history(history)
+
+Sonuçlar:
+Training Accuracy: 1.0000
+Testing Accuracy:  0.8250
+```
+
+![Hazır eğitilmiş kelime gömüleri için Doğruluk ve Kayıp](https://files.realpython.com/media/loss-accuracy-embedding-trained.2e33069d7103.png)
+*Hazır eğitilmiş kelime gömüleri için Doğruluk ve Kayıp*
+
+Evrişimli Sinir Ağları - Convolutional Neural Networks (CNN) 
+-
