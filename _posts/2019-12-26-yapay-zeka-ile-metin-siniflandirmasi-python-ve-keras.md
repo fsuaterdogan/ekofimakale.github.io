@@ -731,3 +731,84 @@ Testing Accuracy:  0.8250
 
 Evrişimli Sinir Ağları - Convolutional Neural Networks (CNN) 
 -
+Konvolüsyonel sinir ağları veya konvnets denilen son yıllarda makine öğreniminde en heyecan verici gelişmelerden biridir.
+
+Görüntülerden özellikler çıkararak ve onları sinir ağlarında kullanarak görüntü sınıflandırma ve bilgisayar vizyonunda devrim yapmıştır. Görüntü işlemede onları kullanışlı kılan özellikler, sıralı işlem için de kullanışlı hale getirir. Bir CNN'yi, spesifik paternleri tespit edebilen özel bir sinir ağı olarak hayal edebilirsiniz.
+
+Sadece başka bir sinir ağı ise, daha önce öğrendiklerinizden ayıran nedir?
+
+Bir CNN'nin kıvrımlı katmanlar adı verilen gizli katmanları vardır. Görüntüleri düşündüğünüzde, bir bilgisayarın iki boyutlu bir sayı matrisi ile uğraşması gerekir ve bu nedenle bu matristeki özellikleri tespit etmek için bir yol gerekir. Bu kıvrımlı katmanlar kenarları, köşeleri ve diğer doku türlerini algılayabilir ve bu da onları özel bir araç yapar. Katlamalı katman, görüntü boyunca kaydırılan ve belirli özellikleri algılayabilen birden fazla filtreden oluşur.
+
+Bu tekniğin özü, evrişimin matematiksel süreci. Her kıvrımlı katman ile ağ daha karmaşık kalıpları tespit edebilir. Chris Olah'ın Özellik Görselleştirmesinde, bu özelliklerin nasıl görünebileceğini iyi bir sezgi alabilirsiniz.
+
+Metin gibi sıralı verilerle çalışırken, tek boyutlu kıvrımlarla çalışırsınız, ancak fikir ve uygulama aynı kalır. Yine de, eklenen her evrişimsel katmanla daha karmaşık hale gelen desenleri almak istiyorsunuz.
+
+Bir sonraki şekilde böyle bir evrişimin nasıl çalıştığını görebilirsiniz. Filtre çekirdeğinin boyutu ile bir dizi girdi özelliği alarak başlar. Bu yama ile filtrenin çarpılan ağırlıklarının nokta ürününü alırsınız. Tek boyutlu konvektör çevirilere değişmez, yani belirli diziler farklı bir konumda tanınabilir. Bu, metindeki belirli kalıplar için yararlı olabilir:
+
+![1D Evrişim](https://files.realpython.com/media/njanakiev-1d-convolution.d7afddde2776.png)
+*1D Evrişim*
+
+Şimdi bu ağı Keras'ta nasıl kullanabileceğinize bakalım. Keras yine bu görev için kullanabileceğiniz çeşitli Evrişimsel katmanlar sunuyor. İhtiyacınız olacak katman Conv1D katmanıdır. Bu katman tekrar seçilebilecek çeşitli parametrelere sahiptir. Şimdilik ilgilendikleriniz filtre sayısı, çekirdek boyutu ve etkinleştirme işlevidir. Bu katmanı Gömme katmanı ile GlobalMaxPool1D katmanı arasına ekleyebilirsiniz:
+
+```
+embedding_dim = 100
+
+model = Sequential()
+model.add(layers.Embedding(vocab_size, embedding_dim, input_length=maxlen))
+model.add(layers.Conv1D(128, 5, activation='relu'))
+model.add(layers.GlobalMaxPooling1D())
+model.add(layers.Dense(10, activation='relu'))
+model.add(layers.Dense(1, activation='sigmoid'))
+model.compile(optimizer='adam',
+              loss='binary_crossentropy',
+              metrics=['accuracy'])
+model.summary()
+
+Sonuç:
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_13 (Embedding)     (None, 100, 100)          174700    
+_________________________________________________________________
+conv1d_2 (Conv1D)            (None, 96, 128)           64128     
+_________________________________________________________________
+global_max_pooling1d_9 (Glob (None, 128)               0         
+_________________________________________________________________
+dense_23 (Dense)             (None, 10)                1290      
+_________________________________________________________________
+dense_24 (Dense)             (None, 1)                 11        
+=================================================================
+Total params: 240,129
+Trainable params: 240,129
+Non-trainable params: 0
+_________________________________________________________________
+```
+```
+history = model.fit(X_train, y_train,
+                    epochs=10,
+                    verbose=False,
+                    validation_data=(X_test, y_test),
+                    batch_size=10)
+loss, accuracy = model.evaluate(X_train, y_train, verbose=False)
+print("Training Accuracy: {:.4f}".format(accuracy))
+loss, accuracy = model.evaluate(X_test, y_test, verbose=False)
+print("Testing Accuracy:  {:.4f}".format(accuracy))
+plot_history(history)
+
+Sonuç:
+Training Accuracy: 1.0000
+Testing Accuracy:  0.7700
+```
+![Evrişimli sinir ağı için doğruluk ve kayıp](https://files.realpython.com/media/loss-accuracy-convolution-model.35563e05ba91.png)
+*Evrişimli sinir ağı için doğruluk ve kayıp*
+
+Bu veri seti ile %80 doğruluk oranının üstesinden gelmenin zor olduğunu görebilirsiniz ve bir CNN iyi donanımlı olmayabilir. Bunun nedeni şunlar olabilir:
+
+- Yeterli eğitim örneği yok
+- Sahip olduğunuz veriler iyi bir şekilde genelleştirilmiyor
+- Hiperparametreleri değiştirmeye odaklanma
+
+CNN'ler, lojistik regresyon gibi basit bir modelin bulunamayacağı genellemeleri bulabildikleri büyük eğitim setleriyle en iyi şekilde çalışır.
+
+Hiperparametreler Optimizasyonu
+-
