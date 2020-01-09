@@ -812,3 +812,150 @@ CNN'ler, lojistik regresyon gibi basit bir modelin bulunamayacağı genellemeler
 
 Hiperparametreler Optimizasyonu
 -
+Derin öğrenme ve sinir ağları ile çalışmanın önemli bir adımı hiperparametre optimizasyonudur.
+
+Şimdiye kadar kullandığımız modellerde gördüğünüz gibi, daha basit olanlarla bile, ince ayar yapmak ve seçim yapmak için çok sayıda parametreniz vardı. Bu parametrelere hiperparametreler denir. Bu, makine öğreniminin en çok zaman alan kısmıdır ve ne yazık ki hazır çözümler yoktur.
+
+Diğer veri bilimcileriyle rekabet etmek için en büyük yerlerden biri olan Kaggle'daki yarışmalara baktığınızda, kazanan takımların ve modellerin çoğunun, prime ulaşana kadar çok fazla tweaking ve deneme yaptığını görebilirsiniz. Bu nedenle, zorlaştığında ve bir platoya ulaştığınızda cesaretiniz kırılmasın, daha ziyade modeli veya verileri optimize etme yollarını düşünün.
+
+Hiperparametre optimizasyonu için popüler bir yöntem ızgara aramadır. Bu yöntemin yaptığı, parametre listelerini alması ve bulabileceği her bir parametre kombinasyonuyla modeli çalıştırmasıdır. Bunu yapmanın en kapsamlı ve aynı zamanda hesaplamanın en ağır yoludur. Bir başka yaygın yol olan, burada eylemde göreceğiniz rastgele arama, rastgele parametre kombinasyonlarını alır.
+
+Keras ile rastgele aramayı uygulamak için, scikit-learn API'sı için bir sarıcı görevi gören KerasClassifier'ı kullanmanız gerekir. Bu sarıcı ile çapraz doğrulama gibi scikit-learn ile mevcut çeşitli araçları kullanabilirsiniz. İhtiyacınız olan sınıf, çapraz doğrulamayla rastgele aramayı uygulayan RandomizedSearchCV'dir. Çapraz doğrulama, modeli doğrulamanın ve tüm veri kümesini almanın ve onu birden çok test ve eğitim veri kümesine ayırmanın bir yoludur.
+
+Çeşitli çapraz doğrulama türleri vardır. Bir tür, bu örnekte göreceğiniz k-kat çapraz doğrulamasıdır. Bu tipte veri seti, test için bir setin kullanıldığı ve bölümlerin geri kalanının eğitim için kullanıldığı k eşit boyutlu setlere bölünür. Bu, her bölümün bir kez test seti olarak kullanıldığı k farklı çalışma çalıştırmanızı sağlar. Bu nedenle, k ne kadar yüksek olursa, model değerlendirmesi o kadar doğru olur, ancak her test seti o kadar küçük olur.
+
+KerasClassifier için ilk adım, bir Keras modeli oluşturan bir işleve sahip olmaktır. Önceki modeli kullanacağız, ancak hiperparametre optimizasyonu için çeşitli parametrelerin ayarlanmasına izin vereceğiz:
+
+```
+def create_model(num_filters, kernel_size, vocab_size, embedding_dim, maxlen):
+    model = Sequential()
+    model.add(layers.Embedding(vocab_size, embedding_dim, input_length=maxlen))
+    model.add(layers.Conv1D(num_filters, kernel_size, activation='relu'))
+    model.add(layers.GlobalMaxPooling1D())
+    model.add(layers.Dense(10, activation='relu'))
+    model.add(layers.Dense(1, activation='sigmoid'))
+    model.compile(optimizer='adam',
+                  loss='binary_crossentropy',
+                  metrics=['accuracy'])
+    return model
+```
+
+Ardından, eğitimde kullanmak istediğiniz parametre ızgarasını tanımlamak istiyorsunuz. Bu, önceki işlevde olduğu gibi adlandırılan her parametrenin bulunduğu bir sözlükten oluşur. Izgaradaki boşluk sayısı 3 * 3 * 1 * 1 * 1'dir, bu sayıların her biri belirli bir parametre için farklı seçeneklerin sayısıdır.
+
+Bunun nasıl çok hızlı bir şekilde hesaplamalı olarak pahalı olabileceğini görebilirsiniz, ancak neyse ki hem ızgara arama hem de rastgele arama utanç verici bir şekilde paraleldir ve sınıflar ızgara boşluklarını paralel olarak test etmenizi sağlayan bir n_jobs parametresiyle gelir. Parametre ızgarası aşağıdaki sözlükle başlatılır:
+
+```
+param_grid = dict(num_filters=[32, 64, 128],
+                  kernel_size=[3, 5, 7],
+                  vocab_size=[5000], 
+                  embedding_dim=[50],
+                  maxlen=[100])
+```
+
+Artık rastgele aramayı başlatmaya hazırsınız. Bu örnekte, her veri kümesi üzerinde yineleme yapıyoruz ve ardından verileri daha önce olduğu gibi önceden işlemek istiyoruz. Daha sonra önceki işlevi alıp çağ sayısı da dahil olmak üzere KerasClassifier sarmalayıcı sınıfına eklersiniz.
+
+Sonuçta ortaya çıkan örnek ve parametre ızgarası daha sonra RandomSearchCV sınıfında tahminci olarak kullanılır. Ayrıca, k-katlar çapraz doğrulamasındaki kat sayısını seçebilirsiniz, bu durumda 4. Bu kod parçasındaki kodun çoğunu daha önceki örneklerde görmüştünüz. RandomSearchCV ve KerasClassifier'ın yanı sıra, değerlendirmeyi ele alan küçük bir kod bloğu ekledim:
+
+```
+from keras.wrappers.scikit_learn import KerasClassifier
+from sklearn.model_selection import RandomizedSearchCV
+
+# Main settings
+epochs = 20
+embedding_dim = 50
+maxlen = 100
+output_file = 'data/output.txt'
+
+# Run grid search for each source (yelp, amazon, imdb)
+for source, frame in df.groupby('source'):
+    print('Running grid search for data set :', source)
+    sentences = df['sentence'].values
+    y = df['label'].values
+
+    # Train-test split
+    sentences_train, sentences_test, y_train, y_test = train_test_split(
+        sentences, y, test_size=0.25, random_state=1000)
+
+    # Tokenize words
+    tokenizer = Tokenizer(num_words=5000)
+    tokenizer.fit_on_texts(sentences_train)
+    X_train = tokenizer.texts_to_sequences(sentences_train)
+    X_test = tokenizer.texts_to_sequences(sentences_test)
+
+    # Adding 1 because of reserved 0 index
+    vocab_size = len(tokenizer.word_index) + 1
+
+    # Pad sequences with zeros
+    X_train = pad_sequences(X_train, padding='post', maxlen=maxlen)
+    X_test = pad_sequences(X_test, padding='post', maxlen=maxlen)
+
+    # Parameter grid for grid search
+    param_grid = dict(num_filters=[32, 64, 128],
+                      kernel_size=[3, 5, 7],
+                      vocab_size=[vocab_size],
+                      embedding_dim=[embedding_dim],
+                      maxlen=[maxlen])
+    model = KerasClassifier(build_fn=create_model,
+                            epochs=epochs, batch_size=10,
+                            verbose=False)
+    grid = RandomizedSearchCV(estimator=model, param_distributions=param_grid,
+                              cv=4, verbose=1, n_iter=5)
+    grid_result = grid.fit(X_train, y_train)
+
+    # Evaluate testing set
+    test_accuracy = grid.score(X_test, y_test)
+
+    # Save and evaluate results
+    prompt = input(f'finished {source}; write to file and proceed? [y/n]')
+    if prompt.lower() not in {'y', 'true', 'yes'}:
+        break
+    with open(output_file, 'a') as f:
+        s = ('Running {} data set\nBest Accuracy : '
+             '{:.4f}\n{}\nTest Accuracy : {:.4f}\n\n')
+        output_string = s.format(
+            source,
+            grid_result.best_score_,
+            grid_result.best_params_,
+            test_accuracy)
+        print(output_string)
+        f.write(output_string)
+```
+
+Bu, kaç model çalıştırmak istediğinize bağlı olarak dışarı çıkmak ve hatta biraz yürüyüş yapmak için dışarı çıkmak için mükemmel bir fırsattır. Bakalım elimizde neler var:
+
+```
+Amazon veri kümesini çalıştırma
+En İyi Doğruluk: 0.8122
+{'vocab_size': 4603, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Hassasiyeti: 0.8457
+
+IMDB Veri Kümesini Çalıştırma
+En İyi Doğruluk: 0.8161
+{'vocab_size': 4603, 'num_filters': 128, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Hassasiyeti: 0.8210
+
+Yelp veri kümesini çalıştırma
+En İyi Doğruluk: 0.8127
+{'vocab_size': 4603, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 7, 'embedding_dim': 50}
+Test Hassasiyeti: 0.8384
+```
+
+İlginç! Bazı nedenlerden dolayı test doğruluğu, çapraz geçerlilik sırasında puanlarda büyük bir varyans olduğu için eğitim doğruluğundan daha yüksektir. Görülen boyutuyla bu veriler için doğal bir sınır gibi görünen korkunç% 80'i hâlâ fazla kıramadığımızı görebiliriz. Küçük bir veri setimiz olduğunu ve evrişimli sinir ağlarının büyük veri setleriyle en iyisini yapma eğiliminde olduğunu unutmayın.
+
+CV için başka bir yöntem, hiperparametrelerin de optimize edilmesi gerektiğinde kullanılan iç içe çapraz geçerliliktir (burada gösterilmiştir). Bu, sonuçta ortaya çıkan iç içe geçmiş CV modelinin, veri kümesine karşı aşırı iyimser bir puana yol açabilecek bir önyargıya sahip olması nedeniyle kullanılır. Görüyorsunuz, önceki örnekte yaptığımız gibi hiperparametre optimizasyonu yaparken, bu özel eğitim seti için en iyi hiperparametreleri seçiyoruz, ancak bu, bu hiperparametrelerin en iyiyi genelleştirdiği anlamına gelmiyor.
+
+Sonuç
+-
+Şimdi buna sahipsiniz: Keras ile metin sınıflandırmasıyla nasıl çalışacağınızı öğrendiniz. Lojistik regresyonu olan bir kelime torbası modelinden, evrimsel sinir ağlarına yol açan gittikçe daha gelişmiş yöntemlere gittik.
+
+Artık kelime gömmelerine, neden yararlı olduklarına ve eğitiminiz için önceden hazırlanmış kelime gömmelerini nasıl kullanacağınıza aşina olmuşsunuzdur. Ayrıca sinir ağlarıyla nasıl çalışacağınızı ve modelinizden daha fazla performans elde etmek için hiperparametre optimizasyonunu nasıl kullanacağınızı öğrendiniz.
+
+Burada belirtmediğimiz büyük bir konu ise, tekrarlayan sinir ağlarıydı, daha özel olarak LSTM ve GRU idi. Bunlar, metin veya zaman serisi gibi sıralı verilerle çalışmak için diğer güçlü ve popüler araçlardır. Diğer ilginç gelişmeler şu anda aktif araştırma altında olan ve LSTM hesaplama üzerinde ağır olma eğiliminde olduğundan umut verici bir sonraki adım gibi görünen sinir ağlarında bulunmaktadır.
+
+Artık doğal dil işlemede her türlü metin sınıflandırması için kullanabileceğiniz önemli bir köşetaşı hakkında bilgi sahibi oldunuz. Duygu analizi bunun en önemli örneğidir, ancak aşağıdakiler gibi diğer birçok uygulamayı içerir:
+
+- E-postalarda spam algılama
+- Metinlerin otomatik etiketlenmesi
+- Haber makalelerinin önceden tanımlanmış konularla sınıflandırılması
+
+Bir veri seti-akışı üzerinde duyarlılık analizi uygulamak için bu öğreticideki bilgiyi ve gelişmiş bir proje üzerinde eğittiğiniz modelleri kullanabilirsiniz. Python'daki SpeechRecognition kütüphanesini kullanarak, bu kullanışlı öğreticide olduğu gibi duygu analizini veya metin sınıflandırmasını konuşma tanıma ile de birleştirebilirsiniz.
