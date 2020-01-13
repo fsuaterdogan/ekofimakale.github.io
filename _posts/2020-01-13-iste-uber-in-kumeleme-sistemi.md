@@ -9,6 +9,8 @@ header:
 
 Gartner'a göre, 2020 yılına kadar çeyrek milyar bağlantılı araç IoT'nin önemli bir unsurunu oluşturacak. Bağlı araçların gerçek zamanlı izleme ve uygulamalar sağlamak için analiz edilebilen ve yeni mobilite ve araç kullanımı kavramlarına yol açacak şekilde saatte 25 GB veri üretmesi öngörülmektedir. [Referans: Gartner](https://www.gartner.com/en/newsroom/press-releases/2015-01-26-gartner-says-by-2020-a-quarter-billion-connected-vehicles-will-enable-new-in-vehicle-services-and-automated-driving-capabilities)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuHPd-MMck8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Uber ve Makine Öğrenimi Bağlantısı
 -
 Uber, kârı en üst düzeye çıkarmak için fiyatlandırmayı hesaplamaktan otomobillerin en uygun şekilde konumlandırılmasına kadar makine öğrenimini kullanır. Araç GPS verilerinin analizi ve izlenmesi için genel uber yolculuk veri kümesi kullanıldı.
