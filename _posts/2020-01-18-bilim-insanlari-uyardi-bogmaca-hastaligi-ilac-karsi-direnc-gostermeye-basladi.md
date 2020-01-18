@@ -1,11 +1,11 @@
 ---
-title: "Bilim insanları uyardı: Boğmaca öksürüğü ilaçlara karşı direnç göstermeye başladı"
+title: "Bilim insanları uyardı: Boğmaca hastalığı ilaçlara karşı direnç göstermeye başladı"
 categories:
   - Sağlık
 header:
   teaser: https://images.unsplash.com/photo-1577368211130-4bbd0181ddf0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1342&q=80
 ---
-![Boğmaca öksürüğü ilaçlara karşı direnç göstermeye başladı](https://images.unsplash.com/photo-1577368211130-4bbd0181ddf0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1342&q=80)
+![Boğmaca hastalığı ilaçlara karşı direnç göstermeye başladı](https://images.unsplash.com/photo-1577368211130-4bbd0181ddf0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1342&q=80)
 
 Sıradan bir soğuk algınlığıymış gibi hissettirir, ama soğuk algınlığı değildir. Boğmaca, yani '100 günlük öksürük', dünya çapında milyonlarca insanı enfekte eden ve her yıl on binlerce kişiyi öldüren oldukça bulaşıcı bir bakteri hastalığıdır.
 
