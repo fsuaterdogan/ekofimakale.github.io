@@ -1,6 +1,6 @@
 ---
 title: "Dünya'da ilk kez atomlar bağlanırken kameraya yakalandı"
-date: 2020-01-21T13:10:00
+date: 2020-01-21T13:30:00
 categories:
   - Kimya
 header:
