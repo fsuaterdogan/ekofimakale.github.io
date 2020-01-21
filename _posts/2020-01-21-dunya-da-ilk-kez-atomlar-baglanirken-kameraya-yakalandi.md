@@ -36,7 +36,7 @@ Atomlar, kararlılıklarını arttırmak ve enerjilerini düşürmek için birbi
 
 Ancak bağ yapabilmek için, atomların önce elektronları paylaşması ve çekirdekleriyle elektronlarının yarattığı pozitif ve negatif römorkör arasında bir denge kurması gerekir.
 
-<img src="https://fsmedia.imgix.net/7f/a8/23/a0/d5c2/40a2/b033/ccecf43cea8d/atoms-bonding-and-breaking-caught-on-camera-in-real-time-for-the-first-time.gif?auto=compress&w=650&fm=jpg" width="650" />
+![GIF](https://fsmedia.imgix.net/7f/a8/23/a0/d5c2/40a2/b033/ccecf43cea8d/atoms-bonding-and-breaking-caught-on-camera-in-real-time-for-the-first-time.gif?auto=compress&w=650")
 
 Videoda görüldüğü gibi, iki atom karbon test tüplerinin dar koridorları boyunca birbirine bağlanır ve birlikte yürür. Bununla birlikte, bir noktada, bağların uzunluğu atomların boyutunu aştığında bağları kopar.
 
