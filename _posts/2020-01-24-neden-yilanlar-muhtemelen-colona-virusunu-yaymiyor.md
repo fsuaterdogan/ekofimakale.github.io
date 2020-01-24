@@ -1,6 +1,6 @@
 ---
 title: "Neden yılanlar muhtemelen Corona virüsünü yaymıyor?"
-date: 2020-01-21T19:30:00
+date: 2020-01-24T19:30:00
 categories:
   - Sağlık
 header:
