@@ -22,11 +22,11 @@ Avusturya Viyana Üniversitesi'ndeki Markus Aspelmeyer ve meslektaşları, 150 n
 
 Optik Bindirme nedir?
 -
-Lazer, ışığı yerinde tutmak için parçacık ile etkileşime girdiği optik bindirme adı verilen bir efekt kullanarak parçacığı havaya kaldırır. Parçacığın her iki tarafındaki aynalar ışığın üst üste binmesine ve kendisine müdahale etmesine neden olur.
+Lazer, ışığı yerinde tutmak için parçacık ile etkileşime girdiği **optik bindirme** adı verilen bir efekt kullanarak **parçacığı havaya kaldırır**. **Parçacığın her iki tarafındaki aynalar ışığın üst üste binmesine ve kendisine müdahale etmesine neden olur**.
 
 Bu karışan ışık kuantum mekaniğine göre sadece belirli frekanslarda var olabilir. Araştırmacıların parçacığa çarpan hassas ışık frekansını seçmelerini sağlar. Parçacık ileri geri titreşirken, bazı ışık frekansları az miktarda enerji vererek onu hızlandırırken, diğerleri enerjiyi kaldırarak yavaşlatır.
 
-Sadece parçacığı yavaşlatan frekanslara izin verilirse, zemin durumuna ulaşana kadar soğumaya devam edecektir. Aspelmeyer ve ekibi tarafından yapılan deneyde, bu 0.000012 kelvin (yaklaşık -273 ° C) sıcaklıkta meydana geldi, mutlak sıfırın yani mümkün olan minimum sıcaklığın biraz yukarısında.
+**Sadece parçacığı yavaşlatan frekanslara izin verilirse, zemin durumuna ulaşana kadar soğumaya devam edecektir**. Aspelmeyer ve ekibi tarafından yapılan deneyde, bu **0.000012 kelvin (yaklaşık -273 ° C)** sıcaklıkta meydana geldi, mutlak sıfırın yani **mümkün olan minimum sıcaklığın biraz yukarısında**.
 
 Katıların soğutulması ve kuantum durumlarının ölçülmesi, araştırmacıların yerçekiminin kuantum özelliklerini araştırmaktaki nihai hedefi için önemlidir, çünkü kompakt bir katının yerçekimini test etmek dağınık bir gaza göre çok daha kolaydır. Böyle bir kurulum, nesnenin yerçekiminin aynı anda iki yerde olup olmadığını ve yerçekiminin kuantum nesnelerine daha genel olarak nasıl uygulandığını test etmemizi sağlayabilir.
 
