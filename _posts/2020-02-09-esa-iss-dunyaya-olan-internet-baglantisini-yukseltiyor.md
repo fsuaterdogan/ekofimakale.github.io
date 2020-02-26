@@ -4,9 +4,9 @@ date: 2020-02-09T11:37:00
 categories:
   - Uzay
 header:
-  teaser: http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/01/columbus_over_earth/21793035-2-eng-GB/Columbus_over_Earth_pillars.jpg
+  teaser: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/01/columbus_over_earth/21793035-2-eng-GB/Columbus_over_Earth_pillars.jpg
 ---
-![ESA, ISS'nin dünyaya olan internet bağlantısını yükseltiyor](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/01/columbus_over_earth/21793035-2-eng-GB/Columbus_over_Earth_pillars.jpg)
+![ESA, ISS'nin dünyaya olan internet bağlantısını yükseltiyor](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/01/columbus_over_earth/21793035-2-eng-GB/Columbus_over_Earth_pillars.jpg)
 
 Uluslararası Uzay İstasyonu'ndaki astronotlar, Dünya ile gerçek zamanlı bağlantıları sağlamak için yüksek hızlı bir radyo bağlantısı kurmayı planlıyor.
 
