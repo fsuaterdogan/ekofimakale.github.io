@@ -1,6 +1,6 @@
 ---
 title: "Bilim insanları yanlışlıkla oksijen solumayan hayvan keşfetti"
-date: 2020-02-22T21:11:00
+date: 2020-02-26T21:11:00
 categories:
   - Biyoloji
 header:
