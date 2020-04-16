@@ -1,5 +1,5 @@
 ---
-title: "Dev kara deliğin etrafında dönen yıldız Einstein’ın haklı olduğunu kanıtladı."
+title: "Dev kara deliğin etrafında dönen yıldız Einstein’ın haklı olduğunu kanıtladı"
 date: 2020-04-16T22:00:00
 categories:
   - Astronomi
