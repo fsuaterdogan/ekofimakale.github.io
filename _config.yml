@@ -207,6 +207,8 @@ whitelist:
   - jekyll-feed
   - jemoji
   - amp-jekyll
+  
+ampdir: amp
 
 
 # Archives
