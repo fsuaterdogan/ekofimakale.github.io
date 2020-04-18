@@ -32,6 +32,8 @@ Sınırlamalar ve çıkarımlar
 
 Ayrıca, yazarların da belirttiği gibi, öz-değerlerini paraya dayandıran insanların “aile ve arkadaşlarla daha az zaman geçirmeleri ve hatta bu tür eylemlerin sosyal izolasyon ve kopukluk duygularına katkıda bulunabileceğinin **farkına varılmaması olasıdır**.”
 
-Yine de, araştırmacılar bulgularının sosyal izolasyon ve kopukluğun neden oluştuğuna ışık tutmaya yardımcı olduğunu söylüyorlar. > > > > > “İnsanlar öz-değerlerini finansal başarıya dayandırdıklarında, olumsuz sosyal sonuçlarla ilişkili baskı duyguları ve özerklik eksikliği yaşıyorlar”
+Yine de, araştırmacılar bulgularının sosyal izolasyon ve kopukluğun neden oluştuğuna ışık tutmaya yardımcı olduğunu söylüyorlar.
+
+> “İnsanlar öz-değerlerini finansal başarıya dayandırdıklarında, olumsuz sosyal sonuçlarla ilişkili baskı duyguları ve özerklik eksikliği yaşıyorlar”
 
 <cite>Araştırmanın ortak yazarı ve ilgili psikoloji profesörü Lora Park.</cite>
