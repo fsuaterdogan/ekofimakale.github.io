@@ -1,6 +1,6 @@
 ---
 title: "Dünyanın Corona virüs için yardımınıza ihtiyacı var: Folding@Home"
-date: 2020-04-12T20:50:00
+date: 2020-04-119T21:00:00
 categories:
   - Yazılım
 header:
