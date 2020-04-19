@@ -14,7 +14,7 @@ Uygulamanın ismi (hem Windows hem de macOS için) Folding@Home ve **Stanford Ü
 
 Yeni koronavirüsün dünyanın dört bir yanına yayılması karşısında çaresiz hissediyorsanız, yapabileceğiniz bir işlem var: bilgisayarınızın boşta kalacağı zamanı bağışlayarak bilim insanlarını daha kısa bir sürede tedaviye yaklaştırabilirsiniz.
 
-Bilgisayarınıza başka bir şey yapmadığınız anlarda, arka planda çalışan [bu programı (Folding@Home)](https://foldingathome.org/iamoneinamillion/) yükleyerek, uzmanların COVID-19 hastalığı hakkında daha fazla bilgi edinmek için karmaşık hesaplamalar yapmasına yardımcı olabilirsiniz.
+Bilgisayarınıza başka bir şey yapmadığınız anlarda, arka planda çalışan [bu programı - Folding@Home](https://foldingathome.org/iamoneinamillion/) yükleyerek, uzmanların COVID-19 hastalığı hakkında daha fazla bilgi edinmek için karmaşık hesaplamalar yapmasına yardımcı olabilirsiniz.
 
 Folding@Home, şu anda aşağıdaki tablodan da gördüğünüz üzere mevcut süper bilgisayarlardan daha güçlü durumda.
 
@@ -39,4 +39,4 @@ Bu bilgiye sahip olmak, yeni koronavirüse karşı etkili olabilecek ilaçların
 
 Bu çok karmaşık gelebilir, ancak panik yapmayın - uygulama tüm ağır kaldırma işlemlerini halleder ve yüklendikten sonra bir şey yapmanız gerekmez. COVID-19 virüsünün araştırılmasına yardımcı olmak istiyorsanız, arayüzden "Herhangi Bir Hastalık" ı seçin. Uygulamayı istediğiniz zaman başlatabilir ve durdurabilir veya bilgisayarınızın meşgul olmadığı zamanlara göre çalışmasını otomatik olarak duraklatabilir ve devam ettirebilirsiniz.
 
-Şu anda haber döngüsünü oluşturan endişe verici başlıkta umutsuzluğa kapılırsanız, pandeminin ortasında bile iyi haberler olduğunu unutmayın; ve [buradan Folding@Home uygulamasını indirerek onu yenme çabalarına yardımcı olabilirsiniz].(https://foldingathome.org/iamoneinamillion/).
+Şu anda haber döngüsünü oluşturan endişe verici başlıkta umutsuzluğa kapılırsanız, pandeminin ortasında bile iyi haberler olduğunu unutmayın; ve [buradan Folding@Home uygulamasını indirerek onu yenme çabalarına yardımcı olabilirsiniz](https://foldingathome.org/iamoneinamillion/).
