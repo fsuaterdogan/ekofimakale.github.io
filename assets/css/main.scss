@@ -6,5 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.mc_embed_signup{background: #FFFFFF; clear:left; font:14px Helvetica,Arial,sans-serif; }
