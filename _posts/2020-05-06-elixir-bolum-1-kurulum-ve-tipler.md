@@ -25,3 +25,7 @@ Basit tipler
 Basit aritmetik
 -
 <script src="https://gist.github.com/ekofi/cc0cda8b61723c5181d34e526432e6d5.js"></script>
+
+Tipler
+-
+<script src="https://gist.github.com/ekofi/a5e917e1de54476bfa832b1ffc8c7f71.js"></script>
