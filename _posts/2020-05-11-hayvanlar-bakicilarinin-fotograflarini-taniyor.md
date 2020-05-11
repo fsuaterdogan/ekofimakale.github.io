@@ -1,6 +1,6 @@
 ---
 title: "Hayvanlar bakıcılarının fotoğraflarını tanıyor!"
-date: 2020-05-11T16:30:00
+date: 2020-05-11T17:05:00
 categories:
   - Biyoloji
 header:
