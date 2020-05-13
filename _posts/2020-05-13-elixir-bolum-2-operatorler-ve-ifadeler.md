@@ -1,6 +1,6 @@
 ---
 title: "Elixir #2: Operatörler ve İfadeler"
-date: 2020-05-08T15:00:00
+date: 2020-05-13T16:00:00
 categories:
   - Yazılım
 header:
