@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ekofi.science
+Token: 289f2d6e2fe679de85b925d5c7534b7810584d976192128dc794dcb200923089
